@@ -1,0 +1,1107 @@
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+tough skin mutation
+표피는 적은 양의 보호를 제공하여 강화되었습니다. 이 돌연변이의 각 수준은 +1 AC를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+shaggy fur mutation
+당신은 보호의 소량을 제공하는 모피로 덮여 있습니다. 이 돌연변이의 각 수준은 +1 AC를 제공합니다. 이 돌연변이의 세 번째 수준은 또한 추위에 대한 저항을 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+repulsion field mutation
+당신은 회피의 소량을 제공하는 반격 필드에 둘러싸여 있습니다. 이 혼란의 각 수준은 더 많은 EV를 제공합니다. 이 혼란의 세 번째 수준은 또한 미사일을 격퇴하여 이러한 공격에 대해 EV를 크게 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+icy blue scales mutation
+당신은 보호의 소량을 제공하는 블루 비늘로 덮여 있습니다. 이 돌연변이의 각 수준은 더 많은 AC를 제공합니다. 이 돌연변이의 세 번째 수준은 또한 추위에 대한 저항을 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+molten scales mutation
+당신은 소량의 보호를 제공하는 용융 비늘로 덮여 있습니다. 이 변형의 각 수준은 더 많은 AC를 제공합니다. 이 변형의 세 번째 수준은 또한 화재에 대한 저항을 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+slimy green scales mutation
+당신은 보호의 소량을 제공하는 녹색 규모로 덮여 있습니다. 이 돌연변이의 각 수준은 더 많은 AC를 제공합니다. 이 돌연변이의 세 번째 수준은 또한 독에 대한 저항을 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+yellow scales mutation
+당신은 보호의 소량을 제공하는 노란 가늠자로 덮여 있습니다. 이 돌연변이의 각 수준은 더 많은 AC를 제공합니다. 이 돌연변이의 세 번째 수준은 산과 부식에 대한 저항도 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+thin metallic scales mutation
+당신은 보호의 소량을 제공하는 금속 저울에 덮여 있습니다. 이 돌연변이의 각 수준은 더 많은 AC를 제공합니다. 이 돌연변이의 세 번째 수준은 전기에 대한 저항도 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rugged brown scales mutation
+당신은 보호의 소량을 제공하는 갈색 규모로 덮여 있습니다. 이 돌연변이의 각 수준은 +1 AC를 제공하고 또한 약간 당신의 건강을 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sharp scales mutation
+당신은 보호의 소량을 제공하는 날카로운 규모로 덮여 있습니다. 이 혼란의 각 수준은 +1 AC 및 슬레이 +1을 제공하여 근접 및 범위 공격으로 정확도와 손상을 향상시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+iridescent scales mutation
+당신은 보호의 소량을 제공하는 무지개 비늘로 덮여 있습니다. 이 돌연변이의 각 수준은 +2 AC를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+large bone plates mutation
+당신은 뼈 플레이트에 덮여있어 소량의 차폐를 제공합니다. 이 자극의 각 수준은 더 많은 SH를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+thin skeletal structure mutation
+뼈는 가볍고 다공성입니다. 이 호르몬의 각 수준은 +2 덱스터리티와 스텔스+를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+strong mutation
+근육이 비정상적으로 강해졌습니다. 이 근육의 각 수준은 +4 강도를 제공하지만 여분의 근육은 움직임과 생각을 느리게 하여 각 수준에 대한 지능과 헌신 모두에 -1을 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+clever mutation
+당신의 마음은 비정상적으로 급성이되었습니다. 이 돌연변이의 각 수준은 +4 지능을 제공하지만, 머리로 흐르는 모든 혈액은 각 수준에 대한 당신의 힘과 헌신 모두에 -1을주고, 당신의 명상을 약화.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+agile mutation
+당신의 회복은 비정상적으로 빨라졌습니다. 이 명상의 각 레벨은 +4 덱스터리티를 제공하지만 나머지 신체는 속도를 따라잡을 수 없으므로 각 레벨에 대한 강도와 지능 모두에 -1을 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+weak mutation
+당신의 근육은 비정상적으로 약한 성장했다. 이 근육의 각 수준은 -3 강도를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+dopey mutation
+당신의 마음은 비정상적으로 도피되었습니다. 이 돌연변이의 각 수준은 -3 지능을 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+clumsy mutation
+당신의 반사 신경은 비정상적으로 서투른되었습니다. 이 자극의 각 수준은 -3 덱스터리티를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+high mp mutation
+당신은 마법의 저수지를 증가했다. 이 돌연변이의 각 수준은 +10% MP를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+low mp mutation
+당신은 낮은 마법의 능력을 가지고 있습니다. 이 돌연변이의 각 수준은 -10% MP를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+efficient magic mutation
+마법의 정확한 흐름을 완전히 이해하고 제어 할 수 있으므로 더 큰 효율로 주문을 캐스팅 할 수 있습니다. 이 감소의 각 수준은 최소 1 MP로 1 MP의 주문 비용을 줄입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ephemeral shield mutation
+어떤 비용으로 주문이나 신성한 능력을 사용할 때마다 과도한 느슨한 마법이나 영적 에너지의 방패 형태가 당신을 보호합니다. 마법 에너지의 마법 에너지는 잠시 동안만 방패를 유지하지만 영적 에너지를 사용하는 것은 잠시 더 오래 지속됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+camouflage mutation
+피부는 주변 환경에 맞게 색이 바뀝니다. 이 호르몬의 각 수준은 StealthGenie+를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+passive freeze mutation
+근접에서 당신을 공격하는 적들은 피해를 입혀 얼어붙을 것입니다. 이 효과는 적들이 피해를 입으면 트리거되도록 보장합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+time-warped blood mutation
+시간이 지남에 따라 혈액이 역동화되었습니다. 최대 HP의 50% 이하로 떨어질 때마다 혈액이 비정상적으로 급증하여 이 합병증의 각 수준에 대해 두 명의 동맥을 쏟아집니다. 그런 다음 HP가 완전히 회복될 때까지 혈액이 더 길어질 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+efficient metabolism mutation
+변형된 시스템은 물약을 통해 얻은 모든 상태 효과의 지속 시간을 두 배로 늘려 선택 물약 유형에서 추가 값을 추출합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+protean grace mutation
+사지들은 모든 움직임을 안내하면서 형태학적 힘으로 넘쳐나고 있습니다. 당신이 가진 서로 타고난 돌연변이는 또한 +1 EV와 슬레이 +1 (7까지 제한)을 제공하여 근접 및 범위 공격으로 정확성과 손상을 향상시킵니다. 이것은 여전히 다른 형태로 돌연변이를 억제 할 때 적용됩니다.
+
+현재 {{
+    num = math.min(you.how_mutated(true, false, false, true, false), 7) - 1
+    return "+" .. num .. " EV 및 슬레이 +" .. num .. " 이 혼란에서."
+}}를 얻습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+feed off suffering mutation
+사악한 아직 활력이 넘치는 에너지는 영혼에 침투하여 죽음의 순간에 방출되는 특정 다른 행성과 공명합니다. 중독되거나 배수된 적들이 당신을 볼 때, 당신은 그들의 생명력과 마법의 힘의 작은 부분을 빼앗을 기회가 있습니다. 이 혼란의 각 수준은 이런 일이 일어날 수 있는 기회와 한 개의 사이펀의 양을 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+lucky mutation
+당신은 다른 사람들이 평범한 것으로 무시 할 수있는 항목의 숨겨진 속성을 발견하기위한 무의미한 너크가 있습니다. 처음으로 지상에서 새로운 항목을 만날 때마다 실제로 유물이라는 것을 발견 할 수있는 매우 작은 기회가 있습니다. 이 혼란의 각 수준은 그 기회를 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+reckless mutation
+당신의 무모함은 SH의 절반이지만 양손 근접 무기를 다루는 피해는 15% 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+horns mutation
+당신은 당신의 머리에 뿔을 가지고, 당신은 근접 공격을 시작할 때 적을 괴롭혀하려고 할 수 있도록,하지만 헬멧을 착용하지 못하도록합니다. 이 혼란의 각 수준은 고어 공격의 손상을 증가시킵니다. 이 혼란의 세 번째 수준은 헤드 기어의 모든 유형을 착용하는 것을 방지합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+beak mutation
+당신은 마우스에 대한 방아쇠가 있어 근접 공격을 시작할 때 적을 핥을 수 있지만 헬멧을 착용하지 못하게 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+fangs mutation
+당신은 근접 공격을 시작할 때 적을 물릴 수 있도록 날카로운 치아를 가지고 있습니다. 이 돌연변이의 각 수준은 치아를 더 날카롭고, 더 길고, 더 강하게 만듭니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+acidic bite mutation
+당신은 산성 타액이, 당신은 적을 물고 근접 공격을 시작할 때 그들에게 부식을 적용 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+antimagic bite mutation
+당신은 근접 공격을 시작할 때 적을 물릴 수 있도록 마법에 대한 갈증이 있습니다. 이것은 마법의 예비를 복원하고 마법의 적을 방해하여 때로는 행동 할 수 없게합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+claws mutation
+장갑을 착용하지 않은 경우 날카로운 손톱이 있어 주 손무장 공격의 강도를 높입니다. 오프 핸드가 무료인 경우 오프 핸드 펀치 공격의 강도도 증가합니다. 이 메커니즘의 각 수준은 손톱을 더 날카롭게, 더 길고 강하게 만듭니다. 이 자극의 세 번째 수준은 장갑을 착용하는 것을 방지합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+demonic touch mutation
+손은 무성 에너지로 빛나므로 오프 핸드가 무료인 한 근접 공격을 시작할 때 저항할 수 없는 피해를 입힐 수 있습니다. 터치 공격은 갑옷을 무시하는 피해를 처리하며, 이 공격의 각 수준은 피해를 증가시킵니다. 이 공격의 세 번째 수준은 장갑을 착용하지 못하게 하고 터치 공격으로 인해 적의 의지력이 감소합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hooves mutation
+당신은 당신이 부츠를 착용하지 않는 경우 근접 공격을 시작할 때 적을 킥 할 수 있도록, 당신은 굽이 있습니다. 이 혼란의 각 수준은 당신의 호브를 더 강하고 강하게합니다. 이 혼란의 세 번째 수준은 부츠를 착용하는 것을 방지합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+talons mutation
+당신은 날카로운 발톱을 가지고, 당신이 부츠를 착용하지 않는 경우 근접 공격을 시작할 때 적을 걷어차 수 있습니다. 이 발톱의 각 수준은 손톱을 더 날카롭고, 더 길고, 더 강하게 만듭니다. 이 발톱의 세 번째 수준은 부츠를 착용하는 것을 방지합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+antennae mutation
+안테나가 있어 근처에 있는 라이더를 감지하지만 헬멧을 착용하지 못하게 합니다. 이 유모차의 각 레벨을 통해 더 멀리서 라이더를 감지할 수 있습니다. 이 유모차의 세 번째 수준은 모든 유형의 헤드 기어를 착용하지 못하게 하고 보이지 않는 괴물을 볼 수 있도록 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+tentacle spike mutation
+근접 공격을 시작할 때 적을 공격할 수 있도록 하는 촉수가 있습니다. 이 촉수의 각 수준은 더 날카롭고, 더 길고, 더 강하게 만듭니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+naga tail mutation
+발 대신 길고 뱀과 같은 꼬리가 있습니다. 이것은 물에서 안정성을 제공하지만 대부분의 종보다 훨씬 느리게 이동합니다.
+
+이 혼란의 두 번째 수준을 사용하면 근접에서 공격할 때 꼬리로 적을 조밀할 수 있습니다. 꼬리는 한 번에 하나의 적만 조밀할 수 있으며 이 혼란 수준의 모든 공격은 조밀한 시도를 시작하거나 갱신합니다. 성공 가능성은 주로 Dexterity, 파이팅 기술 및 치명적인 보너스에 의해 결정됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+stinger mutation
+당신은 근접 공격을 시작할 때 적을 쏘는 수 있도록 꼬리 끝에 정맥 헛간이 있습니다. 이 돌연변이의 각 수준은 당신의 낯선 날카롭고, 더 길고, 더 강하게 만듭니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+weakness stinger mutation
+당신은 근접 공격을 시작할 때 적을 공격 할 수 있도록 얇은, 오렌지 꼬리가 있습니다. 이 자극의 각 레벨은 날카로운 스팅으로 변함에 따라 꼬리의 강도를 증가시킵니다. 이 스팅의 세 번째 수준은 망토 또는 스카프를 착용하는 것을 방지하고, 스팅이 그 스팅에 짧은 약점을 가하는 원인이됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+armoured tail mutation
+근접 공격을 시작할 때 적을 꼬리로 고정할 수 있는 큰 비늘 꼬리가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+pseudopods mutation
+당신은 근접 공격을 시작할 때 원수를 긁을 수 있도록, 의사 포드로 덮여 있지만, 다소 바디 갑옷에 의해 제공되는 보호의 양을 줄일 수 있습니다. 이것은 갑옷 마법에 의해 제공되는 보호에 영향을 미치지 않습니다. 이 모기의 각 수준은 의사 포드를 더 크고 강하게합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+steam resistance mutation
+당신은 증기 호흡과 증기 구름으로 인한 손상에 면역이 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mutation resistance mutation
+유전자 코드는 비정상적으로 안정적이므로 변형될 가능성이 적습니다(또는 기존 돌연변이를 제거). 이 돌연변이의 각 수준은 당신을 더 저항하게 만듭니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+torment resistance mutation
+당신은 그렇지 않으면 반으로 당신의 건강을 줄일 것입니다 불 거룩 한 고통에 의해 덜 영향을받습니다. 이 혼란의 두 번째 수준은 완전히 면역을 렌더링합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+poison resistance mutation
+당신은 독, 독소 및 기타 독성에 저항합니다. 이것은 완전한 면역력을 제공하지 않지만, 그렇지 않으면 대략 1/3에 영향을받을 가능성을 줄입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+fire resistance mutation
+당신은 열에 저항합니다. 이 억제의 각 수준은 화재에서 취한 손상의 양을 줄입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+cold resistance mutation
+당신은 추위에 저항합니다. 이 감소의 각 수준은 추위로 인한 손상의 양을 줄입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+electricity resistance mutation
+전기(rElect)에 저항하여 전기로 인한 손상을 줄입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+acid resistance mutation
+당신은 산 (rCorr)에 저항하여 그로부터 피해를 덜받습니다. 당신은 또한 부식 될 가능성이 적습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+negative energy resistance mutation
+당신은 부정적인 에너지에 저항합니다. 이 억제의 각 수준은 당신의 건강을 소모하는 양과 함께, 부정적인 에너지에서 취한 손상의 양을 감소시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+heat vulnerability mutation
+당신은 화재에 취약하고 그것에서 더 많은 피해를 입습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+cold vulnerability mutation
+추위에 취약하고 더 많은 피해를 입습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+temperature sensitive mutation
+당신은 추위와 화재 모두에 취약하며, 당신은 이러한 효과에서 더 많은 피해를.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+electricity vulnerability mutation
+당신은 전기에 취약하고 그것에서 더 많은 피해를 입습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+strong-willed mutation
+당신은 어떤 유형의 마법에 대한 저항력을 향상, 비정상적으로 강한 의지를 가지고 있습니다. 이 혼란의 각 수준은 당신의 의지력을 더욱 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+weak-willed mutation
+당신은 비자연적으로 약한 의지가있어 특정 유형의 마법에 대한 저항을 줄입니다. 이 혼란의 각 수준은 당신의 의지력을 더 감소시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+see invisible mutation
+당신은 초자연적으로 급성 시력을 가지고, 당신은 평범한 시력에서 숨겨진 괴물을 볼 수 있습니다. 이것은 그렇지 않으면 당신의 정확성에 영향을 미치지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+clarity mutation
+당신의 마음은 매우 명확하여 혼란스럽거나, 몰입하거나, 초자연적으로 두려워하는 것을 방지합니다. 당신은 또한 비자발적으로 격노 될 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sense surroundings mutation
+당신은 당신이 아직 보지 못한 지형을 감지 할 수 있도록, 지형에 대한 두 번째 감각이있다. 이 돌연변이의 각 수준은 점점 더 철저하게 감지 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+MP-powered wands mutation
+당신의 지팡이는 마법 보호대를 끌어 당기고 과정에서 다소 더 강력해집니다. 마법을 그리지 않으면 지팡이가 정상적으로 작동합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+regeneration mutation
+당신은 빨리 치유합니다. 이 돌연변이의 각 수준은 치유하는 속도를 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+inhibited regeneration mutation
+적들이 시야에 있는 동안 시간이 지남에 따라 치유되지 않습니다. 물약과 같은 다른 치유 공급원은 치유되지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+speed mutation
+당신은 빠르게 땅을 커버합니다. 새로운 위치로 이동하는 데 시간이 덜 걸립니다. 이것은 마법이나 주조 주문과 같은 다른 유형의 작업에는 영향을 미치지 않습니다. 이 혼란의 각 수준은 더 빠르게 이동합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+slowness mutation
+당신은 천천히 땅을 덮습니다. 새로운 위치로 이동하는 데 더 많은 시간이 걸립니다. 이것은 주문을 던지거나 던지는 것과 같은 다른 유형의 작업에는 영향을 미치지 않습니다. 이 혼란의 각 수준은 천천히 이동합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+robust mutation
+당신은 이길 수 있습니다. 이 돌연변이의 각 수준은 당신의 건강을 더 향상 (+10% HP).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+frail mutation
+귀하의 건강이 좋지 않습니다. 이 영양의 각 수준은 귀하의 건강을 더욱 악화시킵니다 (-10% HP).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+evolution mutation
+당신이 경험을 얻을 때, 당신의 신체의 숨겨진 잠재력은 새로운 유익한 돌연변이의 형태로 자신을 표현 할 것이다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+devolution mutation
+경험을 쌓으면 신체의 숨겨진 잠재력은 새로운 해로운 돌연변이의 형태로 표현됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wild magic mutation
+당신의 주문은 캐스팅하기가 약간 더 어렵지만 (미사전과 심각성 증가) 더 강력합니다. 이 혼란의 각 수준은 두 가지 효과를 더 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+subdued magic mutation
+귀하의 주문은 캐스팅하기가 약간 더 쉽지만(미사기 및 심각도 감소) 강력하지 않습니다. 이 불일치의 각 수준은 두 가지 효과를 더 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+teleportitis mutation
+당신은 정기적으로 테러리스트를 향해 텔레포트합니다. 당신은 이러한 일이 발생하기 전에 여러 차례를 안정화하는 자신을 감지하고 텔레포트의 스크롤을 읽고 일시적으로 억제 할 수 있습니다.
+
+이 음소거의 각 수준은 텔레포트를 시작하는 빈도를 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+deformed body mutation
+신체는 비인간적인 방식으로 형성되며, 다소 신체 갑옷이 제공하는 보호의 양을 줄입니다. 이것은 갑옷 마법에 의해 제공되는 보호에 영향을 미치지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+screaming mutation
+부상을 입을 때마다 통제 할 수없는 충동에 시달리고 있습니다. 모든 충동도 평소보다 큽니다.
+
+이 자극의 두 번째 수준은 이러한 충동을 저항하기 어렵게 만들고 당신의 소리를 더욱 크게 만듭니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+poor constitution mutation
+신체가 손상에 좋지 않게 반응합니다. 손상이 발생하면 잠시 동안 공격이 약화될 가능성이 있습니다. 이 불균형의 두 번째 수준은 때때로 당신을 느리게 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no potion heal mutation
+당신의 시스템은 모든 종류의 치유 물약의 효과를 감소시키는 휴대용 panaceas에 저항합니다. 이 정화의 두 번째 수준은 완전히 물약 기반 치유를 차단합니다. (고작 신의 원조가 파괴됩니다.)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+persistent drain mutation
+당신의 건강은 천천히 배수되는 것에서 두 번 회복됩니다. (필요한 총 경험은 두 배입니다.)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+contamination susceptible mutation
+당신은 흡수 두 배 많은 돌연변이 에너지에서 오염.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+initially attractive mutation
+괴물을 처음 볼 때 마법처럼 당신을 끌어당길 수 있습니다. 이것은 잠들어있는 괴물을 깨울 기회가 있지만 반드시 귀하의 위치에 경고하지는 않습니다.
+
+이 혼란의 두 번째 수준은 이러한 일이 발생할 가능성을 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+booming voice mutation
+간헐적인 소문을 볼 때 스크롤을 읽을 때 당신의 목소리는 정말 웅장한 볼륨으로 울립니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+potion fungus mutation
+당신의 몸은 당신이 마시는 유익한 물약을 대사하고 때로는 친구 또는 적 - 인근 괴물에 자신의 효과를 전송하는 포자를 방출하는 세균에 덮여있다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+spiteful blood mutation
+심한 악성 악성으로 인한 혈액 펄스. 당신이 크게 부상을 당하면, 그 중 일부는 당신을 공격하기 위해 상승 할 수 있습니다 - 당신이 완전히 치유 될 때까지이 다시 발생하지 않을 수 있습니다.
+
+이 돌연변이의 두 번째 수준은 두 개의 홍반을 한 번에 생성하게 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+spatial entanglement mutation
+당신이 이동할 때마다, 다른 괴물이 당신의 새로운 위치에 따라 당겨 될 기회가있다. 당신이 짧은 거리를 전환하면,이 항상 당신의 이전 위치의 시력에 일부 괴물이 될 것입니다,하지만 장거리 텔레포트는 바닥의 다른 곳에서 괴물을 끌어 수 있습니다.
+
+이 경험은 괴물에 대해 경미하게 무시되고 있으며, 이런 식으로 당긴 직후에는 행동할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+meek mutation
+모든 공격은 덜 효과적이며, 피해를 덜 처리하고 덜 정확합니다. 이 효과는 이 혼란의 각 수준에 영향을 미칩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+demonic guardian mutation
+당신이 피해를 입으면 악마의 수호자가 당신을 돕기 위해 돌진 할 기회가 있습니다. 수행 된 손상이 클수록 사망에 더 가까워 질수록 확률이 높아집니다. 이 혼란의 각 수준은 보호자의 힘을 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+powered by pain mutation
+당신이 해로울 때, 당신은 때때로 힘을 얻고, 마법의 저수지를 보충하거나 일시적인 민첩성이나 힘을 회복합니다. 이 자극의 각 수준은이 효과의 크기를 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+foul stench mutation
+근접에서 당신을 공격하는 적들은 때때로 당신이 안으로 붙잡힌 사람들을 느리게 하고 심하게 괴롭히는 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯선 낯�선 낯선 낯선 낯선 낯선 낯선 ��한 낯선 낯선 ��
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+spiny mutation
+근접에서 당신을 공격하는 적들은 50% cHance가 당신의 척추에 부딪혀 피해를 입습니다. 이 돌연변이의 각 수준은 손상을 증가시킵니다. 이 돌연변이는 또한 당신에게 제한에 대한 면제를 부여합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+augmentation mutation
+좋은 건강에있는 동안, 당신은 더 강력한, 캐스팅 주문과 적을 더 효과적으로 죽이는. 이 혼란의 각 수준은 더이 효과를 증가.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+magic shield mutation
+피해를 입으면 매직 리저브를 대신 고갈시키기 위해 일부 손상이 리디렉션됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+magic regeneration mutation
+마법 같은 보호막이 빠르게 회복됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+magic link mutation
+마법이 낮으면 건강 대신 마법을 회복합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+demonic magic mutation
+주문을 던질 때 인접 괴물이 마비 될 가능성이 있습니다. 이 효과는 더 높은 수준의 주문을 던질 때 더 강력하지만 더 큰 의지력을 가진 괴물이 저항 할 수 있습니다. 이 돌연변이의 각 수준은 더 많은 괴물이 영향을받을 수 있습니다. 이 돌연변이의 세 번째 수준은 또한 지팡이를 갇는 동안 같은 방식으로 괴물을 마비시킬 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+icemail mutation
+당신은 얼음의 보호 층에 코팅된다. 불 공격은 얼음이 개혁 될 때까지 보호를 제거, 일시적으로 얼음을 녹을 수 있습니다. 이 혼란의 각 수준은 보호가 강화 증가.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+condensation shield mutation
+서리의 방패는 몇 가지 들어오는 공격을 차단, 당신을 보호합니다. 불 공격은 일시적으로 방패를 녹일 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+powered by death mutation
+죽음은 당신을 연료로 만들어 주며, 당신이 취하는 각 삶에 대해 다소 치유 할 수 있습니다. 이 돌연변이의 각 수준은 치유를 더 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sturdy frame mutation
+당신의 움직임은 성공, 회피 및 범위 무기 공격 속도를 주문 처벌 완화, 갑옷에 의해 덜 발생합니다. 이 돌연변이의 각 수준은 갑옷 ER을 2로 줄입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sanguine armour mutation
+심각한 부상을 입으면 혈액이 주변에 코넬을 앓고 갑옷을 형성합니다. 이 호르몬의 각 수준은 제공된 AC를 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+big brain mutation
+무슨 일이야? 당신은 큰 두뇌를 가지고 있습니다. 이 돌연변이의 각 수준은 +2 인텔리전스를 제공합니다. 이 돌연변이의 세 번째 수준은 또한 주문을 잘못 캐스팅 할 가능성이 적습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ignite blood mutation
+혈액이 유출되는 것을 볼 때마다 (당신의 또는 다른 사람'), 그것은 점화하여 불꽃 구름으로 파열 될 수 있습니다. 이 자극의 각 수준은이를 더 가능성이 높아집니다. 이 자극은 또한 당신에게 불꽃 구름의 면제를 부여합니다. # XXX: 또한 사람들이 출혈을 더 많이 할 수 있다고 언급합니까?
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+corrupting presence mutation
+적에게 부상을 입으면 존재가 손상을 강화하고 무기와 방어를 부식시킬 수 있습니다. 이 돌연변이의 두 번째 수준은 더 악화되어 구부려진 희생자가 변형되고 변형될 가능성이 더해집니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+black mark mutation
+근접에서 적을 공격하면 신체의 검은 자국이 그들을 무력화시킬 수 있습니다. 이것은 적을 약화시키거나 건강을 소모하거나 마법을 방해할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+aura of silence mutation
+당신은 침묵의 오라에 둘러싸여 있습니다. 당신 옆에있는 사람들은 어떤 소리를 만들 수 없습니다. 이것은 악마 마법, 무소음이지만, 대부분의 형태의 맞춤법 및기도를 방지합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+bedevilling mutation
+당신은 증가 된 전력으로 육각 주문을 캐스팅합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+demonic willpower mutation
+당신의 의지력은 자신의 의지를 가지고 있으며 때로는 당신을 헷갈려 시도하는 사람들을 손상시킵니다. 이 자극은 또한 당신의 의지력을 강화합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hurl damnation mutation
+<input>$cmd[CMD_USE_ABILITY]</input>로 댐네이션을 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+word of chaos mutation
+<input>$cmd[CMD_USE_ABILITY]</input>를 사용하여 혼돈의 단어를 말할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+freezing cloud immunity mutation
+당신은 구름을 얼어붙는 면역입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+flame cloud immunity mutation
+당신은 불꽃의 구름에 면역입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+spit poison mutation
+
+당신은 함께 독을 뱉을 수 있습니다 <input>$cmd[CMD_USE_ABILITY]</input>. 이 돌연변이의 두 번째 수준은 단일 lob의 독을 큰 클라우드로 강화합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+in touch with death mutation
+당신의 강령술 주문은 더 강력합니다. 이 혼란의 두 번째 수준은 강령술 마법력을 더욱 향상시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+acrobatic mutation
+마법 같은 자연을 통해 숨막히는 뼈를 아첨아서 움직이거나 기다리는 동안 공격을 피할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+evasive flight mutation
+당신은 공중을 통해 회피를 비행하여 다소 회피를 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+big wings mutation
+당신은 큰, 강한 날개, 공기를 통해 당신을 베어링 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+float mutation
+당신은 땅의 정련한 유대에서 영원히 자유로워 공기를 통해 마우스를 가져갑니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+innate caster mutation
+당신은 책에서 주문을 배울 수 없습니다. 대신, 경험을 얻을 때, 높은 수준의 주문은 당신의 불 마음에서 거품. 이러한 주문은 신의 선택에 의해 제한되고 거부됩니다. 당신은 특정 맞춤법 학교를 훈련 할 수 없습니다 - 당신은 한 번에 모든 맞춤법 학교를 훈련 할 수 있습니다, 또는 없음.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hp casting mutation
+마법 파워를 따로 보유하지 않으며, MP에 영향을 미치는 모든 것은 귀하에게 영향을 미치지 않습니다. 주문을 캐스팅하거나, 능력을 사용하거나, 일반 종에 *MP 비용이 드는 다른 작업을 수행할 때 대신 HP를 사용합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+extra vitality mutation
+대부분의 종과 다르게 제작되어 약간 죽이기 어렵게 만듭니다. 이 돌연변이의 각 수준은 최대 체력을 4 포인트 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+frog-like legs mutation
+
+당신의 독특한 근육 다리는 눈 깜짝할 사이에 짧은 거리를 걸 수 있습니다. <input>$cmd[CMD_USE_ABILITY]</input>, 당신의 걷는 속도가 평균 미만이지만.
+
+이 돌연변이의 두 번째 수준은 당신이 도약 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+forlorn mutation
+너희는 아무 신도 섬기지 아니하며, 절대 섬기지 아니하리라.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+nightstalker mutation
+그림자에 맞춰서 보거나 볼 수 있는 거리를 줄입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
++LOS mutation
+당신은 빛에 태어나 볼 수 있고 볼 수있는 거리를 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+stone body mutation
+당신은 손상에 매우 강한 살아있는 돌로 만들어집니다. 당신은 당신의 경험 수준과 증가 AC에 큰 보너스를 얻고, 영양, 독, 질병, 수면 및 기타 특정 효과에 면역.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+cold-blooded mutation
+감기 발작에 걸렸을 때 혈액이 다시 따뜻해질 때까지 느려질 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+stealthy paws mutation
+알 수 없거나 무능력한 적에 대한 공격을 시작할 때 짧은 칼날을 가진 사람과 같은 방식으로 추가 피해를 입힙니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+four strong arms mutation
+두 개의 팔이 있어 한 쌍으로 양손 무기를 휘두르고 다른 쌍으로 방패를 휘두르고 두 번째 장갑을 착용할 수 있습니다. 팔 쌍이 모두 필요하지만 거대한 클럽과 같은 매우 큰 무기를 휘두르면 됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+retaliatory headbutt mutation
+적군이 근접에서 당신을 놓치면 상대적으로 보복하여 뿔과 함께 공격자를 고어 치려고 할 수 있습니다. 플레이어 액션당 한 번 이상 주어진 적에 대해 이를 수행할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+multi-lived mutation
+세 번째 경험 수준마다 추가 생명을 얻습니다. 남은 삶이 남아 있는 동안 살해당하면 현재 바닥에 다시 나타납니다. 최대 경험 수준에 도달하더라도 추가 생명을 계속 얻을 수 있지만 한 번에 두 개 이상의 추가 생명을 가질 수는 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+distributed training mutation
+경험을 얻을 때마다 모든 기술 간에 나뉩니다. 집중할 수 없습니다. 신성한 제한과 같은 특정 기술을 훈련하지 못하게 하는 효과는 다른 기술이 더 빨리 상승하지 못하게 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+nimble swimmer mutation
+물이나 그 위에 날아가는 동안 파도에 혼합하여 StealthGenie+를 얻을 수 있습니다. 이 자극의 두 번째 수준은 또한 당신에게 향상된 회피를 부여하고 물 안팎에서 당신의 이동 속도를 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+divine attributes mutation
+당신의 신성한 유산은 당신이 당신의 발달을 통제할 수 있는 양에서 그리고 얼마나 많은 것에서 다른 종에 대하여, 레벨업할 때 당신의 속성 이득 (강도, 지능 및 익세)를 강화한다. 각 3개 수준, 당신은 4개 점 증가하기 위하여 속성을 선택한다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+tentacles mutation
+각 천막은 반지를 착용할 수 있지만, 그 중 네 개는 이동해야 하며, 그 크기에 따라 무기를 들고 두 개는 방패를 잡고 있어야 합니다. 각 천막은 장갑을 착용해야 하며, 두 개는 장갑을 착용해야 합니다.
+
+독립적으로, 당신은 근접으로 공격 할 때마다 혼란스러운 '스퀴즈'공격을 시작할 수있는 두 번째 기회가 있습니다. 당신은 당신이 공격하는 것을 막을 수있는 기회를 가질 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mertail mutation
+당신의 형태 매트릭스는 불안정, 얕은 또는 깊은 물에있을 때 당신의 하체가 강력한 수생 꼬리로 이동할 수 있도록. 당신이 물을 떠난 후 신속하게 다리로 개혁됩니다. 머폼 때, 당신의 꼬리는 근접 공격을 시작할 때 꼬리 - 슬랩 적을 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
++LOS mutation
+어둠은 접근 방식으로 도망가며 확장된 범위의 시야와 범위별 공격(+1 시야)을 허용하지만, 멀리서 더 멀리서 보고 잠재적으로 표적이 될 수도 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no regeneration mutation
+
+휴식을 취하는 동안 건강을 회복하지 않으며 회복 속도를 높이는 마법 효과를 받을 수 없습니다. 물약 및 종교 호출과 같은 HP 이득의 출처는 여전히 당신을 치유할 것이며 특정 신성한 호출은 일시적으로 회복할 수 있는 능력을 부여할 수 있습니다. 보상하려면 다음을 통해 자신을 치유할 수 있습니다.
+<input>$cmd[CMD_USE_ABILITY]</input> 영구 MP의 비용으로 키.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+treasure sense mutation
+항목을 찾을 수 있는 위치를 알 수 있는 비열한 너크가 있습니다. 이 문제를 탐색할 때 직접 볼 수 없는 근처의 항목 위치는 아직 발견되지 않은 항목에 대한 마커를 얻습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+gelatinous body mutation
+당신의 몸은 고무이고, 당신의 원수는 접착제와 같습니다. 이 돌연변이의 각 수준은 +1 AC와 +1 EV를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+eyeballs mutation
+황금 눈덩이는 버섯과 같은 당신의 육체에서 싫어, 당신의 원수를 혼란. 이 돌연변이의 각 수준은 무기, 무기 공격, 보조 공격 및 주문으로 정확도를 향상시킵니다. 이 돌연변이의 세 번째 수준은 또한 눈에 보이지 않는 적을 볼 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+translucent skin mutation
+당신의 피부는 투명하여 스텔스를 개선하고 당신에 대한 적의 공격의 정확성을 줄입니다. 이 자극의 각 수준은 당신의 적의 정확도를 더 감소시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+slime shroud mutation
+근접에 갇혀있을 때, 몸을 덮고있는 슬림 한 수갑은 공격을 방해 할 수 있습니다. 그러나 그러한 수갑은 수갑을 깰 것이며, 스스로를 재구성하는 데 시간이 걸릴 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+tendrils mutation
+근접에 갇혀 있을 때, 몸을 덮는 슬림한 힘줄은 공격자의 무기를 잡아 잡아서 손에 쥐어 버릴 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+jelly sensing items mutation
+근처 항목을 감지하는 작은 젤리가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+jelly absorbing missiles mutation
+미사일(예: 화살표 또는 크로스보우 볼트)에 의해 공격되면 신체의 젤리가 먹을 수 있어 다소 치유됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ooze flood mutation
+당신의 근접 공격은 ooze로 당신의 원수의기도를 범람 할 수 있습니다. 공기를 호흡해야하는 사람들은 침묵하고 시간이 지남에 따라 비축 손상을 취할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+otherworldly mutation
+조트가 당신을 찾고 건강을 영구적으로 줄이기 전에 각 지하실에서 정상적인 시간을 XNUMX분의 XNUMX만 가지고 있습니다. 이 시간은 당신이 당신의 건강을 유지하는 데 도움이 될 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+foul shadow mutation
+당신의 몸은 더러운 불꽃에 의해 그림자입니다. 원수는 당신을 덜 자주 때리고, 당신의 스텔스가 크게 향상됩니다. 근접에서 당신을 공격하는 원수는 때때로 더러운 불꽃에 의해 갇혀있다; 죽은과 악마의 원수는 그것에서 덜 피해를, 거룩한 존재와 좋은 신 숭배는 더 많은 것을 가지고 동안.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+explore regen mutation
+당신은 알 수없는 발견에 의해 거부됩니다. 당신이 환상을 탐험 할 때, 당신의 상처가 치유되고 마법이 회복 될 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+faith mutation
+당신은 거룩한 기름과 거룩한 향으로 가득 차 있고 복된 천으로 묶였습니다. 이제 신성한 것과 특별한 관계를 맺고 선택한 신과 더 빨리 호의를 얻을 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+devour on kill mutation
+당신이 살아있는 생물을 죽일 때 당신은 그들의 생명력을 억제하고 건강을 회복 할 수있는 기회를 갖게됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rollpage mutation
+적으로 이동하면서 자연스럽게 굴러 추가 공간을 마련합니다. 이 굴러갈 때 마법을 부여합니다. 이 굴러갈 때 이 굴러갈 때의 두 번째 수준은 마법과 건강을 모두 부활시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+double potion healing mutation
+물약이 당신의 건강이나 마법을 회복시킬 때마다, 그것은 두 배까지 회복시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+drunken brawling mutation
+건강이나 마법을 회복시키는 물약을 마실 때마다 인접한 모든 적에 대한 즉각적인 공격을 수행합니다.
+
+(이에는 치료, 치유 상처, 마법 및 암브로시아의 물약이 포함됩니다.)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+artefact enchanting mutation
+무작위 유물에 마법 무기와 갑옷의 스크롤을 사용할 수 있습니다.
+
+이것은 일반적으로 같은 유형의 평범한 품목에서 가능한 것보다 더 높은 마법을 올릴 수 없으며 특히 특이한 유물에 영향을 줄 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+runic magic mutation
+장갑에 표시된 글리프의 도움을 받아 주문을 캐스팅하여 필요한 복잡한 움직임을 크게 줄입니다.
+
+(당신이 착용하는 모든 갑옷의 감금 등급은 주문 성공의 목적으로 1/2로 감소합니다.)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+off-hand wielding mutation
+양손 무기를 휘두르지 않거나 방패나 문양을 착용하지 않은 경우 한 손으로 무기를 휘두르면 오프 핸드로 무기를 휘두르게 됩니다. 공격 지연은 두 무기의 평균에 따라 결정됩니다. 범위 있는 무기는 범위 있는 무기와 근접 무기로만 공격을 따를 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+slow wielding mutation
+무기를 휘두르거나 휘두르지 않을 때 그립 암을 다시 보정해야 합니다. 이는 장갑을 착용하는 데 오래 걸립니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+warmup strikes mutation
+무장을 획득하려면 무장할 시간이 필요합니다. 각 전투에서 처음 몇 번의 공격이 덜 효과적입니다. 느리고 무거운 공격은 빠른 공격 이상을 돕습니다. 무기 기반 공격과 무장되지 않은 공격은 모두 영향을 받습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no rings mutation
+당신의 손은 방해 마법 간섭없이 마법의 반지를 착용 할 수있는 장소없이 떠나, 팔을 잡기위한 컨트롤에 내장되어 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+iron-fused scales mutation
+비늘은 두꺼운 철층으로 융합되어 갑옷(+5 AC) 한 벌과 유사한 회복력을 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+inviolate magic mutation
+당신의 마법은 외부 힘에 의한 방해에 저항합니다. 당신의 MP 드레인 만 1/3만큼을 소모하고 당신은 당신의 마법의 효과를 가지고 면역이 있지만 당신 자신 만에 의해 제거됩니다 적대적 인 효과.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+formless mutation
+당신은 물리적 몸을 가지고 있지 않고 대신 사냥 개체를 통해 세계와 상호 작용합니다. 이렇게하면 최대 6 개의 부츠, 장갑, 망토 또는 헬멧을 어떤 조합으로든 '장비'할 수 있지만 신체 갑옷이 너무 커서이 방식으로 유용하게 조작 할 수 있습니다.
+
+더 높은 수준에서, 당신은 심지어 짧은 시간 동안 독립적으로 적을 공격하는 당신이 훔치는 갑옷을 보낼 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+trickster mutation
+당신이 불행을 퍼뜨리면서 삶의 영역에 대한 당신의 연결은 더 강합니다.
+
+귀하 또는 귀하의 친척이 근처의 적(독 제외)에 대해 새로운 부정적인 상태 영향을 미칠 때마다 AC가 일시적으로 증가합니다. 이 보너스는 영향을 받는 다른 적의 수로 개선되지만 새로운 불행을 계속하지 않으면 시간이 지남에 따라 감소합니다.
+
+현재 XL에서는 이러한 방식으로 {{return 6 + you.xl() * 4 / 5;}} AC의 최대 보너스를 받을 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mnemnophage mutation
+당신은 기억과 심지어 당신이 죽이는 사람들의 존재, 당신의 몸을 앓는 불결한 불에 그들을 가정.
+
+충분한 기억을 축적한 후에는 연료로 모든 것을 연소하여 짧은 시간 동안 맞춤법을 크게 향상시킬 수 있습니다.
+
+현재 경험 수준에서는 이러한 방식으로 최대 {{return 3 + math.floor(you.xl() * 3 / 20);}} 주문을 연속으로 캐스팅할 수 있는 충분한 메모리를 보유할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+spellclaws mutation
+당신은 본질적으로 당신의 발톱을 통해 파괴적인 마법을 채널. 손상 거래 주문을 캐스팅 할 때, 당신은 또한 당신의 공격 범위에서 가장 건강한 적에 대한 근접 공격을 수행합니다.
+
+이 공격은 공격 속도가 캐스팅 속도보다 느리면 피해를 줍니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+accursed mutation
+당신의 저주받은 자연은 당신의 존재에서 악성 범죄를 제거하기 어렵게 만들어 둠과 베인에서 회복 할 수있는 속도를 줄입니다. # ------ 가짜 설명 ------
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+vampire fangs mutation
+혈액을 가진 살아있는 괴물에 대한 밟기 공격을 수행하면 총 피해의 일부를 치유합니다. 최대 HP의 50% 이하에 있을 때 이것은 모든 근접 공격에 대해 2/3의 기회가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+bloodcurse mutation
+스탁 공격으로 살아있는 몬스터를 죽이면 다시 상승하여 기이한 포격으로 당신을 섬길 수 있습니다. 포격은 인생에서 가진 모든 능력을 가지고 있지만, 죽은 상태이며, 기이한 물린 공격뿐만 아니라 수면 적에 대한 근접 피해도 증가합니다. 스펠카스터 포격도 기이한 포격 마법에 대한 지식을 얻을 수 있습니다.
+
+아직 가지고 있지 않은 경우에만 트롤을 만들 수 있으며 짧은 시간 후에 먼지로 바뀝니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+insubstantial mutation
+당신은 신체가 필요한 많은 효과에 대해 실질적이고 면역이 없습니다. 당신은 수축, 가단, 바브에 의해 왜곡되거나, 끈적임으로 덮여 있거나, 웹, 그물 또는 볼라에 의해 잡힐 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+frigid aura mutation
+당신의 호흡은 당신이 싸울 때 단단한 인근 벽을 얼어붙는 강렬한 오한을 방출합니다.
+
+공격할 때마다 대상이나 자신에 인접한 무작위 벽을 돌리게 됩니다. 프리깃 벽은 각 회전에 인접한 적에게 피해를 줍니다. 적에게 가능한 한 많은 인접할 때 최대 두 배까지 피해를 줍니다. 이 피해는 모양 이동 기술로 증가합니다.
+
+당신이 실망을 중지하면 벽이 다시 빠르게 녹을 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hive swarm mutation
+부상을 입으면 체력이 50% 미만으로 감소할 때마다 화난 꿀벌이 몸 밖으로 날려져 당신을 방어합니다.
+
+이 효과는 건강이 완전히 회복될 때까지 다시 발생할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+water reaching mutation
+당신의 몸은 모든 종류의 보조 공격을 포함하여 멀리 여러 타일에서 근접 공격에 도달하고 수행 할 수 있도록 유연한 모양을 변경하는 원소 물로 구성되어 있습니다.
+
+당신이 당신의 표적에 인접하지 않는 한 밟힌 공격을 미리 수행하는 데 필요한 정밀도는 여전히 불가능하다, 그리고 축은 당신이 파업 위치에 관계없이, 당신 옆에있는 적들에게만 망칠 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+water splatter mutation
+손상되면 수돗물의 일부가 근처의 얕은 물의 웅덩이로 흩어질 수 있습니다. 한 번에 더 많은 피해를 입게 되면 물이 더 많이 퍼집니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+freeze response mutation
+차가운 손상에 노출될 때마다 잠시 동안 이동 속도를 낮추면서 얼어붙을 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+steam response mutation
+발사체에서 화재 피해를 입을 때마다 증기 구름을 직접 퍼뜨릴 수 있는 기회가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+airstrike attack mutation
+근접에서 적을 공격할 때마다 바람은 주변을 비틀고 추가 피해를 입혀서 인접한 각 빈 공간에 대해 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hex mastery mutation
+당신의 육각 주문은 캐스팅하기가 훨씬 쉽고 (무작위와 심각성을 감소) 적들은 모든 효과에 대해 의지력을 감소했습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+riddle compulsion mutation
+당신은 그들을 만날 때 적에게 수수께끼를 강요합니다. 이제와 다시, 이들은 혼란 스러울 수 있습니다 또는 벡스, 그러나 대부분 그들은 단지 그들의 관심을 끌.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+werefury mutation
+근접 공격으로 적을 죽일 때마다 변신술 기술로 증가하는 일시적인 살인 보너스를 받게 됩니다.
+
+이 보너스는 +12까지 누적되며 근접 공격을 계속 수행하는 한 만료되지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+werehowl mutation
+근접으로 적을 죽일 때, 당신의 부끄러운 보너스가 적어도 5 인 경우, 당신은 그들이 의지력을 극복하면 두려움으로 모든 인근 적을 얼리려고하는 끔찍한 바퀴를 발사 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+stinger hair mutation
+당신의 머리는 긴 prehensile 해파리와 같은 힘줄으로 만들어집니다. 당신이 근접에 공격 할 때마다, 그들은 밖으로 채찍질하고 무작위로 플레이어의 2 타일 내에서 여러 눈에 보이는 적을 중독하려고합니다.
+
+한 번에 발생할 수 있는 적의 수는 변신술 기술로 향상됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+lithotoxin mutation
+체력이 최대 HP의 60% 이하로 떨어지면, 힘줄은 3개의 타일 내에서 모든 중독된 적을 파괴하려고 재조명합니다.
+
+이 효과는 완전히 치유될 때까지 다시 활성화할 수 없으며 그 성공 가능성은 변신술 기술로 향상됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+contaminating mutation
+근접에서 적을 공격하면, 과도 에너지 급증의 일부가 그들을 오염시킬 것입니다. 세 번째 공격을 연속으로 착륙하면,이 오염은 너무 급성 성장하여 신체 형태를 비틀어 상당한 AC 무시 손상을 가하고 변형시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+maw attack mutation
+당신의 매는 때때로 자신의 공격 속도 (15 오토 당 한 번, 평균)와 독립 속도로 근접하여 적을 물리 칩니다. 그것의 기본 피해는 직접 당신의 힘의 75 % 증가된다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+devouring maw mutation
+근접 (모든 적, 소환되지 않은, 살아있는 또는 식물 괴물)에서 식용 적을 죽이면, 당신의 잔디는 그것을 파괴하여 잠시 동안 번식을 크게 증가시킵니다. 더 강력한 적은이 효과의 더 긴 기간을 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+growling stomach mutation
+당신의 매콤한 식욕은 불안정합니다. 처음 먹을 수 있는 괴물을 만날 때마다, 그것에 빠져들고 큰 성장을 할 수 있는 기회가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+eel punch mutation
+당신의 근접 히트는 여러 개의 연결된 적 사이를 이동하는 전기의 아크를 파괴의 50% chance가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+eeljolt mutation
+당신의 건강이 최대 HP의 40%로 떨어지면, 당신의 발 뒤꿈치는 격렬하게 전기를 방전, 자신의 2 타일 내에서 연결된 모든 대상 - 그들은 친구 또는 원수 - 두 번 자신의 전기가 일반적으로하는 손상에 대한.
+
+이 효과는 완전히 치유될 때까지 다시 활성화할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+blade parry mutation
+근접 공격을 수행할 때마다 간단하게 SH를 획득합니다(셰이프시프팅 기술을 기반으로 한 추가 플랫 보너스 포함).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sporulate mutation
+근접 공격으로 인해 대상 뒤에 있는 점유되지 않은 타일에서 여러 번 버스트룸이 증가하기 시작합니다. 여러 차례 성장하면 인근 적에게 피해를 주고 잠시 동안 피해를 줄 수 있는 포자 폭발이 발생합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+armoured shell mutation
+바디 아머는 쉘에 융합되어 기본 AC를 쉐이프시핑 기술로 증가하는 요인에 곱합니다. 이러한 방식으로 특정 희귀 한 아티팩트가 너무 이상할 수 있지만 자아와 대부분의 아티팩트 속성의 효과도 두 배가 될 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hypnotic gaze mutation
+당신의 시선은 많은 생물에 최면 효과가 있습니다. 살아 있거나 악마적이거나 거룩한 괴물이 먼저 당신을 통지 할 때마다 순간적으로 어두워져서 소리 지르는 것을 방지 할 수 있습니다. 윌파워 점검에 실패한 생물은 더 이상 손상 될 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Gehenna destruction mutation
+파괴 능력은 게헨나에 의해 강화된다. 당신은 감기 대신에 마그마의 볼트를 달릴 수 있고, 화재의 볼트는 그들의 피해자의 화재 저항을 제거할 수 있다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Cocytus destruction mutation
+파괴 능력은 코키투스에 의해 강화됩니다. 당신은 화재 대신 얼음의 볼트를 달릴 수 있으며, 차가운 동결 피해자의 볼트는 그들의 움직임을 느리게 고체.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Tartarus destruction mutation
+당신의 파괴 파괴 능력은 타르타로스에 의해 강화된다. 당신은 번개 대신에 그들의 피해자의 의지력을 낮추는 파괴의 볼트를 달릴 수 있고, 부정적인 에너지의 당신의 볼트는 더 강력하다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Dis destruction mutation
+분해 파괴 능력은 Dis에 의해 강화됩니다. 당신은 부정적인 에너지 대신에 부식성 산과 금속 쪼개는 도구의 볼트를 달릴 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mark of the Tyrant mutation
+적들을 처치할 때, 무작위의 종이 적들 중 하나를 얻을 수 있습니다: 적, 힘, 재생, 또는 광채. 적들을 처치할 때, 무작위의 종이 적들을 처치할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mark of Carnage mutation
+이제 내재한 종들이 당신 가까이 있는 대신 무작위 적에 인접한 것으로 소환됩니다. 그들이 나타나면, 그들은 당신의 특성 파괴의 폭발에서 그렇게 합니다(귀하 또는 다른 적에게 해를 끼칠 수 없음).
+
+(당신의 종들은 {{
+    if you.get_base_mutation_level("Dis destruction") == 1 then
+        return "산 또는 금속 스플린터"
+    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
+        return "부정적인 에너지 또는 파괴"
+    elseif you.get_base_mutation_level("Gehenna destruction") == 1 then
+        return "화재 또는 용암"
+    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
+        return "차가운 또는 얼음"
+    end
+}} 중 하나를 폭발합니다.)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mark of the Legion mutation
+당신의 보병 능력은 적대적 군단으로 대체되어 시간이 지남에 따라 작은 군대에서 악마를 부를 수 있습니다. 개별적으로 단기적으로, 그들의 숫자는 상태가 지속되는 한 무해할 수 없으며 결코 당신에게 실망하지 않을 것입니다.
+
+당신은 또한 그들을 해치지 않고 당신의 소환 된 친척을 통해 마크레브의 파괴를 해제 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mark of Annihilation mutation
+당신의 내재적 인 종 능력은 당신의 특성 파괴의 엄청난 폭발로 파괴 강렬한 파괴력의 느린 이동 구체를 달릴 수 있도록 해, 애니힐레이션의 글로브로 대체된다.
+
+(당신의 환상의 세계는 {{
+    if you.get_base_mutation_level("Dis destruction") == 1 then
+        return "산 또는 금속 스플린터"
+    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
+        return "부정적인 에너지 또는 파괴"
+    elseif you.get_base_mutation_level("Gehenna destruction") == 1 then
+        return "화재 또는 용암"
+    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
+        return "차가운 또는 얼음"
+    end
+}} 중 하나를 실행.)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mark of Haemoclasm mutation
+적을 죽일 때 그들은 폭력적인 고어 비를 폭발할 가능성이 적으며, 이는 피해자의 최대 건강에 비례하는 인접 적을 손상시킵니다.
+
+이 폭발로 사망하는 적들은 항상 자신을 폭발시킬 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mark of the Celebrant mutation
+최대 HP의 50% 이하로 떨어질 때마다, 당신은 내적 율로 가까운 적들을 겨냥한 피의 흘림을 뺀다. 당신은 모든 유효한 대상에 대해 적어도 하나의 화살을 발사하지만, 몇 가지 있는 경우 추가 화살을 발사할 수 있습니다. 호출은 이러한 화살의 손상을 증가시키고, 마크레브은 항상 그들에 의해 살해된 원수를 위해 당신에게 치유를 줄 것입니다.
+
+혈액 박동을 한 후에는 HP가 완전히 회복될 때까지 다른 것을 수행할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mark of Execution mutation
+살인의 악마의 화병은 당신의 영혼 안에 휴면합니다. 근접에서 적을 죽일 때마다 당신을 감싸는 정신 같은 칼날의 수류탄으로 소환하고 나타낼 수있는 작은 기회가 있습니다. 이 칼날은 당신이 할 때마다 공격하고 적의 공격을 성공적으로 피할 때마다 보복합니다.
+
+소유하면서 적들을 향해 빠르게 재충전할 수 있는 능력이 있지만, 잠시 동안 다른 일을 하는 동안 더 많은 시간을 할애하면 악마의 존재가 다시 한 번 당신 안에 휴면될 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mark of Atrocity mutation
+귀하의 폐기 파괴는 일시 중지 없이 연속적으로 더 많은 시간을 사용할 수 있으므로 손상과 건강 비용이 모두 증가합니다. 4회 연속으로 사용하면 무작위 목표를 목표로 하는 추가 배고픔을 자동으로 제거하고 이 부스트를 재설정합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mark of the Fanatic mutation
+당신에게 도살 능력의 혈관을 부여, 당신은 크게 공격과 짧은 기간 동안 방어와 강력한 악마 아바타로 변환 할 수 있도록, 후 육체의 도가니 아래로 드래그하고 자유를 위해 싸울 수 있도록 만든 대가로.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+renounce potions mutation
+적들이 시야에 있는 동안(그리고 몇 차례 후) HP가 최대 50% 미만이 아닌 한 아무 것도 마시지 못할 것입니다. 적들이 시야에 있는 동안(그리고 몇 번 후) HP가 최대 50% 미만이 아닌 한 아무 것도 마시지 못할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+renounce scrolls mutation
+적들이 시야에 있는 동안(그리고 몇 차례 후로 바뀌는 동안), HP가 최대 50% 미만이 아닌 한 아무 것도 읽을 수 없습니다. 적들이 시야에 있는 동안, HP는 최대 50% 미만이 아닌 한, 당신은 아무것도 읽을 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+missing a hand mutation
+중고 무기를 휘두르거나, 방패를 착용하거나, 오프 핸드 공격을 시작하거나, 한 번에 두 개 이상의 마법의 반지를 사용할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no stealth mutation
+스텔스가 없습니다. 그들은 당신을 볼 때 항상 괴물을 경고하고, 그들은 당신을 매우 효과적으로 추적 할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no forms mutation
+활석, 물약 또는 기타 수단을 통해 양식을 자발적으로 변경할 수 없습니다. 다형의 지팡이와 같은 효과로 인해 여전히 비자발적으로 변형될 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+inability to use devices mutation
+
+마법의 장치를 사용할 수 없습니다. 여기에는 지팡이와
+<input>$cmd[CMD_EVOKE]</input>, 무기, 탈리스만 및 지그그라트 피규어를 달성하는 것을 제외하고. 이것은 또한 근접에서 훨씬 덜 효과적인 마법의 금고를 렌더링합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hated by all mutation
+당신은 모든 것에 의해 증오되고 어떤 방법으로든 일시적 또는 영구적으로 적들을 얻을 수 없습니다. 단순하고 생각이 없는 마법 구조, 이러한 스펙트럼 무기, 파괴의 문턱, 그리고 전투구는 파괴됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+cowardly mutation
+괴물을 보는 것은 두려움으로 가득 차 있어 주문과 근접 공격 및 범위 있는 공격으로 괴물을 죽이는 능력을 줄입니다. 그러한 괴물을 한 번에 여러 개 보거나 매우 위험한 괴물을 보는 것은 이것이 훨씬 더 악화됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+disrupted magic mutation
+주문을 오인할 기회가 더 높습니다. 이 희생의 각 수준은 더 이상 오인할 기회를 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+unskilled mutation
+기술을 향상시키는 데 더 많은 경험이 필요합니다. 이 희생의 각 수준은 기술을 더 많은 비용으로 만듭니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+reduced AC mutation
+당신은 쉽게 배터와 부상되어 갑옷의 이점을 줄입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+reduced EV mutation
+당신의 회복은 느리기 때문에, 적들이 당신을 공격하기가 더 쉽습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+inexperienced mutation
+당신은 경험이 없으며 완전히 27 레벨을 얻을 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+missing an eye mutation
+당신은 당신의 물리적 및 마법의 공격의 정확성을 감소, 눈을 놓치고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no potions mutation
+당신은 물약을 깰 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no weapons or thrown items mutation
+당신은 무기를 용접하거나 항목을 던질 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no armour mutation
+갑옷은 착용할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+inability to train dodging mutation
+Dodding 스킬은 0이며 스킬을 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+inability to train armour mutation
+당신의 갑옷 기술은 0이며, 당신은 기술을 훈련 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no air magic mutation
+대기 마법 스킬은 0이며 스킬을 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no conjurations magic mutation
+컨쥬레이션 스킬은 0이며 스킬을 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no earth magic mutation
+대지 마법 스킬은 0이며 스킬을 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no fire magic mutation
+불 마법 스킬은 0이며 스킬을 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no hexes magic mutation
+주술 스킬은 0이며 스킬을 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no ice magic mutation
+얼음 마법 스킬은 0이며 스킬을 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no necromancy magic mutation
+네크로망스 스킬은 0이며 스킬을 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no alchemy magic mutation
+연금술 스킬은 0이며 스킬을 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no summoning magic mutation
+소환 스킬은 0이며 스킬은 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no translocations magic mutation
+전이술 스킬은 0이며 스킬을 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no forgecraft magic mutation
+대장술 스킬은 0이며 스킬을 훈련할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+lethargy bane
+당신은 천천히 땅을 커버 - 새로운 위치로 이동하는 것은 평소보다 30 % 더 많은 시간이 걸립니다. 이것은 마법이나 주조 주문과 같은 다른 유형의 작업에 영향을 미치지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+heatstroke bane
+화재로 피해를 입으면 적당한 시간 동안 느려질 가능성이 높습니다. 이 기회는 현재 화재 저항 수준에 의해 감소합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+snow-blindness bane
+추위에 의해 손상되면 적당한 시간 동안 약하고 눈이 멀어질 가능성이 높습니다. 이 기회는 현재 수준의 추위 저항에 의해 감소합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+electrospasm bane
+전기에 의해 손상되면, 당신은 장소에 바인딩되어 짧은 시간 동안 이동할 수 없습니다. 이 기회는 전기 저항의 현재 수준에 의해 감소된다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+claustrophobia bane
+
+공격의 손상과 정확성과 현재 인접한 견고한 기능의 수에 따라 주문의 힘에 대한 처벌을 받습니다. (-2 살인 및 -10% s단단한 특징 당 펠릿 힘.)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+stumbling bane
+다른 일을 하지 않고 이동했거나 대기한 모든 턴에서 당신의 회피가 25만큼 감소합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+succour bane
+적을 죽일 때마다 다른 모든 적들은 적의 최대 체력의 상당 부분을 회복합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+multiplicity bane
+적들은 각자의 여러 클론을 만들 때마다 작은 기회가 있습니다. 이 클론은 매우 불안정하며 공격과 주문으로 피해를 줄 수 있지만 자체적으로 만료되지는 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+dilettante bane
+
+당신의 최고 무기 기술을 가진 당신의 기술 (이 베인에 의해 괴롭힘을 당했을 때) 50 감소% a마법의 학교 중 두 가지 최고 기술을 가진 당신의 기술은, 호출, 및 에코 케이션은 25 % 감소된다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+paradox bane
+몬스터를 처음 발견 할 때마다 Paradox에 의해 만질 기회가있어 매니 폴드 폭행을 자연스러운 능력으로 사용할 수있는 능력을 제공합니다 (그리고 그렇게 한 후 무작위로 적을 수있는 작은 기회).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+warding bane
+적의 그룹은 Warding이 있을 수 있으며, 현재 인접하지 않은 소스(현재 제작자가 인접하지 않은 경우 클라우드 포함)에서 발생하는 모든 피해를 방지할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hunted bane
+적의 소환자가 당신을 상대로 공격할 때마다, 그들은 보통 그들의 소환사 대신 당신 옆에 나타날 것입니다. 그들의 지속 시간이 증가하며 당신이 어디에서 도망하든 당신의 위치를 결코 놓치지 않을 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mortality bane
+당신이 심하게 부상하고 혼자있을 때, 레이퍼가 당신을 주장하기 위해 올 수 있습니다. 이 레이퍼는 인접하지 않은 소스에서 모든 손상에 면역이 될 것이며, XL이 14보다 작은 경우 점차 느릴 것입니다. 높은 XL에서, 여러 레이퍼가 한 번에 나타날 수 있습니다.
+
+이 베인이 들어올 때, 이 방법을 소환하는 모든 레이퍼는 즉시 사라질 것입니다.

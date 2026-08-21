@@ -1,0 +1,334 @@
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+acid (acid) weapon ego
+산 (2d4 손상, 부식)으로 피해자를 흩어지게합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+antimagic (antimagic) weapon ego
+그것은 당신의 마법의 에너지를 줄이고, 그것이 공격하는 사람들의 주문과 마법의 능력을 방해합니다. 자연 능력과 신성한 호출은 영향을받지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+chaos (chaos) weapon ego
+각 히트는 다른, 무작위 효과가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+concussion (concuss) weapon ego
+그것은 그 타격을 뒤로 밀어, 잠시 과정에서 그들을 놀라게. 그것은 고체 기능으로 밀어 경우, 그들은 대신 자신의 갑옷을 손상의 추가 1/3을 취할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+distortion (distort) weapon ego
+그것은 그 주위를 감싸고 왜곡하며, 그것이 공격하는 것에 대해 추가 피해를 입거나 금지하거나 가할 수 있습니다. 그것을 휘두르면 적에게 당신을 텔레포트하거나 심연로 당신을 추방할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+devious (devious) weapon ego
+취약한 표적에 대한 밟힘 공격을 수행할 수 있는 기회가 증가하고 있을 때 윌더의 EV를 일시적으로 늘리고 그렇게 할 때마다 사망할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+draining (drain) weapon ego
+때로는 살아있는 희생자를 배출합니다 (1/2 기회). 이것은 방어자의 갑옷과 평평한 2-4 손상을 악화시키고 약간 약화시키는 추가 XNUMX분의 XNUMX 손상을 처리합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+electrocution (elec) weapon ego
+때로는 피해자를 선거합니다 (1/4 기회, 8-20 손해).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+entangling (entangle) weapon ego
+때로는 포도 나무로 공격하는 것을 제한합니다. (1/2 확률, 2-4 손상).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+flaming (flame) weapon ego
+그것은 피해자를 태우고, 수비수의 갑옷을 공격하는 피해의 1/4을 추가로 처리합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+flaming (flame) weapon ego blade
+그것은 피해자를 태우고, 수비수의 갑옷을 쏟아지는 모든 피해의 1/4을 추가로 처리합니다. 크고, 불 잎은 또한 수국 사냥꾼의 무장입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+freezing (freeze) weapon ego
+그것은 피해자를 동결시켜 방어자의 갑옷을 파괴하는 추가 피해의 1/4을 처리합니다. 또한 냉혈 생물을 느리게 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+foul flame (foul flame) weapon ego
+그것은 불길에 주입되어 거룩한 존재에 대한 추가 3 분기 손해, 언데드와 악마에 대한 추가 1 분기 손해, 갑옷을 입고있는 한 다른 모든 사람에게 추가 반 손상 처리되었습니다. 거룩한 존재와 좋은 신 숭배자는 이것을 사용할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+heavy (heavy) weapon ego
+그것은 훨씬 더 많은 피해를 처리하지만, 공격은 훨씬 느립니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+heavy (heavy) weapon ego ranged
+탄약에서 발사된 탄약은 훨씬 더 많은 피해를 입히지만 공격이 훨씬 느립니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+holy wrath (holy) weapon ego
+Shining One은 언데드와 악마의 갑옷을 씌운 피해의 4분의 3을 추가로 처리하면서 축복을 받았습니다. 언데드와 악마는 이것을 사용할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+pain (pain) weapon ego
+그것은 당신의 강령술 기술에 생명 생물에 추가 피해를 줍니다.{{
+    if you.god() == "Trog" then
+        return " 트로그는 이 효과를 발휘하지 못하게 합니다.";
+    end
+}}{{
+    if you.is_useless_skill("네크로넌시") then
+        return " 강령술를 공부하지 않으면이 무기의 모든 힘을 끌 수 없습니다.";
+    end
+}}
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+penetration (penet) weapon ego
+그것은 눈에 띄는 목표 후 비행 계속에 의해 발사 된 모든 탄약, 그것은 시력을 떠날 때까지 잠재적으로 경로에 모든 것을 유혹.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+protection (protect) weapon ego
+그것은 당신에게 임시 보호를 부여 후 그것은 파업 (+7 AC).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+reaping (reap) weapon ego
+이 때문에 손상된 살아있는, 거룩한, 또는 악마 적은 더 많은 피해가 처리됨에 따라 더 많은 기회가있는 친절한 스펙트럼으로 사망시 일시적으로 재활성화 될 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rebuke (rebuke) weapon ego
+마지막 행동이 근접 공격(+10 SH)인 경우 착용자를 보호하고 다른 인근 적에게 근접 공격을 차단합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+spectralising (spect) weapon ego
+당신이 그것으로 공격 할 때,이 무기의 정신은 도약하고 두 번째, 약간 약한 파업을 시작합니다. 정신은 그것이 당신과 함께 걸리는 손상의 일부를 공유합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+speed (speed) weapon ego
+공격이 훨씬 빠릅니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sundering (sunder) weapon ego
+연속 공격을 여러 번 수행하면 공격의 다음 공격이 큰 피해를 입히고 추가 공간을 확보하게 됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+valour (valour) weapon ego
+그것은 그것의 용접공이 그들의 최대 히트 포인트의 80% 이하를 가지고 있는 동안 그것이 적을 공격할 때마다 에너지의 빔을 발사합니다. 그것을 풀기는 잠시 그것의 용접공을 약화시킬 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+vampirism (vamp) weapon ego
+그것은 때때로 그것이 살아있는 생물을 상처 때 다루는 손상의 일부를 치유.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+venom (venom) weapon ego
+그것은 피해자를 중독.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+air (Air) armour ego
+대기 마법을 향상시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+archery (Archery) armour ego
+그것은 범위 전투의 목적을 위해 정상적인 휘두르고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+attunement (Attunement) armour ego
+마법의 직원과 함께 착용 할 때 직원의 주요 향상제의 효과를 두 배로 높이고 적은 양의 MP를 복원하기 위해 근접 공격이 발생합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+cold resistance (rC+) armour ego
+그것은 추위로부터 당신을 보호합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+command (Command) armour ego
+Armor 스킬에 비례하여 소환 주문의 힘과 성공을 향상시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+corrosion resistance (rCorr) armour ego
+그것은 산과 부식의 영향으로부터 당신을 보호합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+death (Death) armour ego
+강령술 주문을 지원하고 성공률을 향상 시키지만 다른 마법에 대한 건강 비용을 부과합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+dexterity (Dex+3) armour ego
+그것은 (Dex +3) 당신의 욕망을 증가시킨다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+earth (Earth) armour ego
+그것은 당신의 지구 마법을 향상시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+energy (Energy) armour ego
+마법을 반환하여 주문을 던질 수 있지만 성공률은 낮아질 수 있습니다. 항상 실수에 소비된 마법을 반환합니다. 주문 환불 확률은 에보션 기술에 의해 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+fire (Fire) armour ego
+불 마법을 향상시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+fire resistance (rF+) armour ego
+그것은 화재로부터 당신을 보호합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+flying (Fly) armour ego
+그것은 당신에게 비행을 부여합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+glass (Glass) armour ego
+당신이 그들을 다치게 할 때 그것은 적을 침범하여 더 많은 피해를 더 취약하게 만들 수 있습니다. 당신의 대피 기술은 침범의 가능성과 기간을 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+guile (Guile) armour ego
+그것은 당신의 의지와 당신이 16 세의 모든 사람의 의지를 약화시킵니다. 그 후, 당신의 에보션 기술에 의해 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+harm (Harm) armour ego
+그것은 피해를 처리하고 촬영 증가.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hurling (Hurl) armour ego
+그것은 바위와 재블린 (슬레이 +4)와 같은 던져진 무기로 당신의 정확성과 손상을 향상시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ice (Ice) armour ego
+얼음 마법을 향상시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+infusion (Infuse) armour ego
+그것은 당신의 마법의 작은 부분으로 각 근접 히트를 가능하게합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+intelligence (Int+3) armour ego
+그것은 당신의 지능을 증가 (Int +3).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+invisibility (+Inv) armour ego
+활성화되면 일시적으로 보이지 않고 최대 체력도 소모됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+light (Light) armour ego
+그것은 빛나는 헤일로 둘러싸여 보이지 않는 생물을 발견, 당신 이외의 모든에 대한 정확도를 증가, 당신의 스텔스를 줄일 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mayhem (Mayhem) armour ego
+그것은 당신의 살인 증인이 큰 힘과 속도로 주변의 모든 것을 공격, 광란으로 이동합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mesmerism (Mesmerism) armour ego
+근접으로 공격당할 때 가까운 모든 적에게 잠깐 비춰진 다음 잠시 동안 여전히 충전해야 합니다. 지속 시간, 반경 및 충전 속도는 에코브스 기술로 향상됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+parrying (Parrying) armour ego
+당신의 마지막 행동이 근접 공격이라면 당신을 보호합니다. 방어는 당신의 오프 핸드가 무기가 아닌 다른 품목에 의해 점유되면 절반만큼 효과적입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+poison resistance (rPois) armour ego
+그것은 독으로부터 당신을 보호합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ponderousness (Ponderous) armour ego
+그것은 당신의 움직임을 느리게, 매우 번거 로움이다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+positive energy (rN+) armour ego
+그것은 부정적인 에너지의 영향으로부터 당신을 보호합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+protection (AC+3) armour ego
+대부분의 손상원(AC +3)으로부터 사용자를 보호합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+pyromania (Pyromania) armour ego
+화재 마법을 향상시키고 공격 이외의 방법으로 적을 죽일 때마다 주변의 화염을 방출 할 수 있습니다. 폭발 가능성과 에코젝션으로 규모를 모두 손상시키고 매번 한 번 이상 트리거 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rampaging (Rampage) armour ego
+적으로 이동할 때 추가 조치를 취할 수 있으며, 공격이 발생하면 잠시 놀라게됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+reflection (Reflect) armour ego
+차단 된 미사일 공격을 반영합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+repulsion (Repulsion) armour ego
+그것은 당신이 마법과 비 마법의 발사체 (EV +15)를 모두 회피하는 데 도움이됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+resistance (rC+ rF+) armour ego
+그것은 화재와 추위의 영향으로부터 당신을 보호합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+resonance (Resonance) armour ego
+대장술 주문의 성공률을 높이고 대장술 기술에 대한 근접 공격을 점진적으로 향상시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+see invisible (SInv) armour ego
+보이지 않는 것을 볼 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+shadows (Shadows) armour ego
+그것은 당신이 볼 수있는 거리를 줄이고 볼 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sniping (Snipe) armour ego
+무력화 된 표적에 대한 범위 및 던져진 무기로 추가 50 %만큼 피해를 증가시킵니다. 무력화 된 표적은 잠, 마비, 가단, 혼란 또는 그물에서 잡혀있는 표적입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+spirit shield (Spirit) armour ego
+그것은 건강과 마법의 준비 사이에 들어오는 손상이 분할되는 원인이됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+stardust (Stardust) armour ego
+그것은 당신이 당신의 MP가 복원되고 더 이상 원수가 남아있을 때만 충전, 주문 또는 능력 각 전투를 사용하기 위해 MP를 처음 보낼 때 별의 격변을 정복한다. 당신의 에코 스 스킬은 별의 수와 손상을 증가하고 MP는 더 많은 피해를 증가.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+stealth (Stlth+) armour ego
+그것은 당신의 스텔스를 향상시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+strength (Str+3) armour ego
+그것은 당신의 힘을 증가 (Str +3).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Archmagi (Archmagi) armour ego
+마법의 마법 주문의 힘을 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+willpower (Will+) armour ego
+그것은 특정 마법의 효과로부터 보호, 당신의 의지력을 증가시킨다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wrath (*Rage) armour ego
+근접 공격(20% chance)을 할 때 여러분을 괴롭히게 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+atropa-tipped (atropa) missile ego
+그것은 실명과 간단한 혼란을 일으키는 물질로 팁이다.
+
+성공적으로 효과를 적용할 수 있는 기회는 던지기 및 스텔스 기술로 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+chaos (chaos) missile ego
+던져지면 임의의 효과가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+curare-tipped (curare) missile ego
+그것은 직접 손상을 처리뿐만 아니라 중독과 파업을 늦추는, 비산을 일으키는 물질과 함께 팁이다.
+
+다른 다트만큼 충격에 파괴 될 가능성이 두 배입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+datura-tipped (datura) missile ego
+그것은 마음없는 광란, 유혹적인 친구 및 원수 모두에게 타격을 보내는 물질로 팁입니다.
+
+성공적으로 효과를 적용할 수 있는 기회는 던지기 및 스텔스 기술로 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+disjunction (disjunct) missile ego
+그것은 그것이 때리는 모든 표적이 일시적으로 우주에서 풀려나게 하여 여러 차례 동안 당신에게서 떨어져서 그렇게 할 때마다 경미한 피해를 입힙니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+dispersal (disperse) missile ego
+그것은 당신에게서 더 멀리 깜박이는 것을 향한 의지와 함께, 그것이 깜박이는 어떤 표적든지 원인이 됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+poisoned (poison) missile ego
+그것은 독으로 코팅됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+silver (silver) missile ego
+일반 미사일에 비해 피해 증가와 혼란스럽고 마법처럼 변형된 존재에 대한 피해 증가. 또한 돌연변이된 존재에 대한 추가 피해를 초래합니다.

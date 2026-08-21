@@ -1,0 +1,1686 @@
+%%%%
+amulet of inaccuracy
+
+이 부적은 착용자의 근접공격, 원거리공격, 마법이 명중할 확률을 낮춘다.
+%%%%
+animal skin
+
+동물의 주검에서 잘라낸 크고 두꺼우며 털이 덮인 가죽으로, 일종의 원시적인
+옷이다. 이 가죽은 착용자에게 아주 기초적인 수준의 방어력을 제공한다. 무두질을
+전혀 하지 않았기 때문에, 가죽에서 살짝 썩은 고기 냄새가 난다.
+%%%%
+apricot
+
+과즙이 풍부한 귤색의 과일이다. 학명은 ‘prunus armeniaca’ 이며, 보통은
+‘살구’ 라고 부른다.
+%%%%
+arrow
+
+길다란 발사체로, 일반적인 활이나 장궁을 이용해 발사한다. 화살 끝 부분에 깃 두
+개가 마주 보게 붙여져 있다.
+%%%%
+bardiche
+
+적을 베기 위한 거대한 칼날이 끝부분에 달린 장창이다. 다루기는 어렵지만, 그만큼
+강력하다.
+%%%%
+blessed double sword
+
+'샤이닝 원'의 권능이 부여된, 길고 커다란 검이다.
+%%%%
+blessed triple sword
+
+'샤이닝 원'의 권능이 부여된, 거대한 검이다.
+%%%%
+blessed great sword
+
+무거운 날과 긴 손잡이를 가진, 아주 거대한 검이다. 이 무기는 샤이닝 원의 축복을
+받아 한층 더 강화되었다.
+%%%%
+blessed long sword
+
+날카롭고 긴 날이 있는, 일반적인 검이다.  이 무기는 샤이닝 원의 축복을 받아 한층
+더 강화되었다.
+%%%%
+blowgun
+
+양 끝이 뚫린 가볍고 긴 튜브의 형태를 한 무기로, 이것의 주 용도는 다양한 효과를
+지닌 바늘을 날려 적을 제압하는 것이다. 바람총의 바늘은 소리 없이 적의 목 뒤를
+노린다.
+%%%%
+bolt
+
+일반적인 화살보다 짧은 금속 투사체로, 석궁을 이용해서 발사한다.
+%%%%
+book of annihilations
+
+이 낡을 대로 낡은 책에서는 피 냄새가 끊임없이 새어나오고 있어, 마법의 ‘마’
+자도 모르는 사람이라도 이 책이 담고 있는 순수한 파괴마법의 힘을 느낄 수 있을
+정도이다. 이 책은 모든 마법사들의 염원이며, 이 책을 얻은 자는 간단히 모든
+파괴의 지휘자가 될 수 있다. 하지만 미숙한 마법사가 겁도 없이 이 책을 읽으려
+들면, 파괴의 지휘는 커녕 자신이 파괴에게 지휘 당할 것이다.
+%%%%
+book of cantrips
+
+다양한 학파들의 아주 기초적인 마법이 담긴 책이다. 주로 한가지 학파를 정해
+기초를 익히고자 하는 사람들이 선호한다. 그렇지만, 숙련된 마법사도 여기에 적힌
+마법에서 쓸만한 용도를 발견할 수 있을 것이다.
+%%%%
+book of conjurations
+
+요술이라고 불리는, 각종 파괴마법이 담긴 입문서다. 책을 펼치면 책에 담긴 힘에
+의해 책이 진동하기 시작한다. 굉장히 유명한 책이라서, 매년 책의 내용이 개정되곤
+한다. 올해의 마법서는 냉기와 대기마법에 초점이 맞춰져 있다.
+%%%%
+book of debilitation
+
+마궁수에게 유용한 저주술을 담고 있는 책이다. 책에 구멍이 많이 뚫려있는데,
+마법책이 되기 전에는 궁수들의 연습용 표적지였던 것 같다. 이 마법들은 원거리
+무기를 사용해야 더 유용하게 쓸 수 있어 보이며, 표적지로 쓰여 구멍이 났음에도
+불구하고 아무 문제 없이 사용할 수 있다.
+%%%%
+book of dreams
+
+신비주의에 도취한 누군가의 기록으로, 이 신비주의자의 꿈을 반영하는 몇몇
+주문들을 설명하고 있다. 비판자들은 이 책의 주문들이 다른 책에 적힌 주문들과
+다를 게 없다고 주장하지만, 책에 그려진 굉장히 기묘한 그림들과 수수께끼 같은
+여담 덕분에 사람들 사이에서 유명하다.
+%%%%
+book of fixed level
+
+평범한 마법책이다.
+%%%%
+book of fixed theme
+
+평범한 마법책이다.
+%%%%
+book of maledictions
+
+이 마법책은 주술사들에게, 어떻게 하면 저주를 이용해서 적을 죽이기 전에 적을
+약하고 혼란스럽게 만들 수 있는지에 대해 쓰여있다. 책의 표지에는 고대 저주의
+상징이었던 악마의 눈이 그려져 있는데, 이는 던전에서 이 책을 주운 모험가들의
+불행한 결말에 대한 수많은 이야기들의 좋은 소재가 되었다. 하지만 이는
+회의론자들이 지적했듯이, 던전에 들어간 대부분의 사람들이 불행한 결말을 맞았다는
+점에서 단순한 소문에 지나지 않는 것 같다.
+%%%%
+book of necromancy
+
+마법을 담고 있는 섬뜩한 책이며, 강령술사들이 그들의 첫발을 내디딜 때 사용하게
+될 책이다. 강령술을 배우면서 생길 수 있는 위험성을 고려했을 때, 이 책은 초보
+강령술사가 배우게 될 *마지막* 마법책이 되기도 한다.
+%%%%
+book of power
+
+강력한 주문들을 담은 책으로, 경쟁자보다 우위에 서고자 한 야심 있는 마법사들이
+갈망하던 책이다. 책에 담긴 힘 때문에 책이 마구 떨리고 있다.
+%%%%
+book of spatial translocations
+
+2세기 전에 살았던 다재다능한 최고의 전이술사 골루브리아가 집필한 책으로,
+전이술을 다룬 교재다. 세계 어느 곳의 마법도서관을 가도 발견할 수 있는 책이며,
+가끔 사서가 꽂아둔 곳과는 전혀 다른 곳에서 발견되기도 한다.
+%%%%
+book of summonings
+
+다른 끔찍한 세계의 존재들을 소환하고 구속하는 방법을 다룬, 숙련된 소환술사들을
+위한 논문이다. 각종 기호와 그림으로, 소환물이 언제나 소환자를 따르지는 않으니
+조심하라는 표시가 되어있다.
+%%%%
+book of the warp
+
+숙련된 전이술사들을 위한 마법책이다. 은은하게 빛나는 이 책은 여러 차원에 동시에
+존재하기 때문에, 이 세상의 기하학을 따르지 않는다. 그 때문에 책장을 넘기면
+사라진다든지, 다른 책장이 갑자기 생겨난다든지, 책장을 넘겼는데 똑같은 책장이
+다시 나타난다든지 하는 현상이 나타난다. 또한, 어떤 책장은 3면을 가지고 있고,
+1면밖에 없는 책장도 있고, 책장 구석에 쓰인 번호가 분수로 나타나는 일도 있다.
+이런 효과들은 마법사를 당황스럽게 만들기에 충분하다.
+%%%%
+book of unlife
+
+언데드 종속들을 마법적으로 만들고 부리는 방법을 담은, 부정한 마법책이다. 이
+끔찍한 책에서는 악의에 찬 기운이 흘러나오고 있으며, 양피지 책장은 가끔 스스로
+떨림을 일으킨다.
+%%%%
+book of war chants
+
+전사들을 위해 만들어진 마법책이다. 이 책의 주문들은 음유시인의 전투법을 이용해,
+노래의 형태로 주문의 효과가 나타나게 적혀있다. 물론, 일반적인 마법사들이
+사용하는 주문과 기능적으로는 차이가 없다.
+%%%%
+book of wizardry
+
+어떤 학파에 재능을 가진 마법사라도 유용하게 쓸 수 있는, 다양한 마법들이 적힌
+책이다. 태어날 때부터 학구적이었던 마법사들은, 이 책을 집필하는데 자신이
+이바지했다는 사실을 자랑스럽게 여긴다. 비록 그들 중 몇몇은 자신의 경쟁자에게
+자신이 집필한 책의 마법으로 살해당하기는 했지만.
+%%%%
+bow
+
+화살을 쏘기 위해서 만들어진 무기로, 굽은 나무와 줄로 이루어져 있다. 전투에서
+쓸만한 피해를 주며, 숙련된 사용자일수록 큰 피해를 줄 수 있다.
+%%%%
+box of beasts
+
+타락한 마법사의 마법 실험 후에 남겨진 기이한 것들로 차 있는 상자다. 이 상자를
+열면 우호적인 키메라 — 세 마리의 다른 짐승들의 부분을 엮은 신비한 혼종 — 를
+풀어놓을 것이다.
+%%%%
+buckler
+
+작은 나무와 금속 조각을 이용해 만든, 한쪽 팔에 고정하는 방식으로 사용하는
+방패다. 조금 걸리적거리기 때문에, 조금이라도 방패를 사용하는 연습을 해두지
+않으면 공격속도가 살짝 느려질 것 같다.
+%%%%
+centaur barding
+
+오직 켄타우로스만을 위해 제작된, 말 형태의 하반신을 덮는 갑옷이다.
+%%%%
+chain mail
+
+작은 금속 고리를 여러 겹 중첩해서 만든 갑옷으로, 무기나 손톱, 육식동물의
+이빨로부터 상당히 강한 보호력을 제공한다. 그 대신, 조용한 움직임이나 공격 속도,
+마법 사용 역시 그만큼 방해한다.
+
+갑옷을 입고 다니는 수련을 하면 공격 속도 감소나 마법 사용의 불편함은 극복할 수
+있지만, 갑옷에서 나는 시끄러운 소리만은 어떻게 할 방법이 없다.
+%%%%
+cheese
+
+치즈 덩어리다.
+%%%%
+choko
+
+덩굴에서 자라는, 맛없는 녹색 채소다.
+%%%%
+cloak
+
+천 재질의, 평범한 망토다.
+%%%%
+corpse
+
+반응이 없다. 그냥 시체인 것 같다. 해체하면 먹을 수 있는 날고기 덩어리를 얻을 수
+있다.
+%%%%
+crystal plate armour
+
+엄청나게 무겁지만 그만큼 단단한, 수정 결정으로 이루어진 갑옷이다. 이 갑옷을
+입고 은밀하게 이동하거나 마법을 사용할 생각은 버리는 게 좋을 것이다.
+%%%%
+decaying skeleton
+
+썩어가는 해골이다.
+%%%%
+demon blade
+
+지옥의 불로 벼려진, 소름 끼치지만 그만큼 강력한 무기다. 이 무기는 데몬스폰같은
+악마적인 존재가 들면 더욱 강력해진다.
+%%%%
+demon trident
+
+유황과 불로 주조된, 소름 끼치지만 그만큼 강력한 삼지창이다. 이 무기는
+데몬스폰같은 악마적인 존재가 들면 더욱 강력해진다.
+%%%%
+demon whip
+
+지옥 깊은 곳에서 만들어진, 소름 끼치지만 그만큼 강력한 채찍이다. 이 무기는
+데몬스폰같은 악마적인 존재가 들면 더욱 강력해진다.
+%%%%
+dire flail
+
+일반적인 플레일보다 더 긴 사슬, 더 무거운 추를 지닌 플레일이다. 크고 무거워서
+한 손으로는 들 수가 없다.
+%%%%
+eudemon blade
+
+천국에서 벼려진 성스러운 검이며, 샤이닝 원의 사도들이 주로 사용하는 무기다.
+악의 종자들은 이 무기를 들 수조차 없다.
+%%%%
+eveningstar
+
+이 철퇴에 달린 가시는 모닝스타보다 훨씬 길어서, 맞은 상대에게 치명적인 상처를
+준다. 굉장히 희귀한 무기로, 그만큼 강력하다.
+%%%%
+fire dragon scales
+
+불을 내뿜는 용의 비늘로 만든 마법 방어구다. 화염 공격에 대해 강력한 보호를
+제공하지만, 착용자를 냉기 공격에는 더 취약하게 만든다. 무게에 비해 착용자를 잘
+보호해준다.
+%%%%
+fire dragon hide
+
+불을 내뿜는 용에게서 벗겨 낸 비늘 덮인 가죽이다. 이 가죽은 방어구 강화
+두루마리를 사용해서 갑옷으로 만들 수 있지만, 이대로 입어도 화염 공격에 대해
+강력한 보호를 받을 수 있다. 물론 이 가죽의 원래 주인이 갖고 있던 특성을 그대로
+물려받아, 냉기 공격에는 더 취약해진다.
+%%%%
+giant spiked club
+
+한쪽 끝에 예리한 가시가 박힌, 거대한 나무 몽둥이다.
+%%%%
+glaive
+
+끝에 무거운 날이 달린 장창이다. 너무 커서 한 손으로는 들 수 없지만, 상당히
+강력한 무기다.
+%%%%
+golden dragon scales
+
+황금 용의 비늘로 만든 마법 방어구다. 다른 용갑보다 훨씬 무겁지만, 착용자에게
+독, 화염, 냉기 저항을 모두 부여한다. 이 갑옷을 착용한 동안에는 마법이나 은밀한
+움직임을 거의 포기해야 할 것이다.
+%%%%
+golden dragon hide
+
+빛나는 황금 비늘로 덮인, 아주 질기고 무거운 황금용의 가죽이다. 이 가죽은 그대로
+입어도 착용자를 화염, 냉기 그리고 독으로부터 보호해주긴 하지만, 방어구 강화
+두루마리를 사용하면 훌륭한 갑옷이 된다.
+%%%%
+gold piece
+
+빛나는 금화 더미다.
+%%%%
+grape
+
+작은 과일이다.
+%%%%
+great mace
+
+매우 무겁고 거대한, 금속제 메이스다. 당신이 오우거같은 거대 종족이 아닌 이상,
+이보다 더 강력한 둔기는 찾기 어려울 것 같다.
+%%%%
+hat
+
+천 혹은 가죽으로 만든 평범한 모자다.
+%%%%
+helmet
+
+평범한 금속제 투구다.
+%%%%
+ice dragon hide
+
+냉기를 뿜는 용에게서 벗겨 낸 비늘 덮인 가죽이다. 이 가죽은 방어구 강화
+두루마리를 사용해서 갑옷으로 만들 수 있지만, 이대로 입어도 냉기 공격에 대해
+강력한 보호를 받을 수 있다. 물론 이 가죽의 원래 주인이 갖고 있던 특성을 그대로
+물려받아, 화염 공격에는 더 취약해진다.
+%%%%
+javelin
+
+이 가벼운 창은 투척용으로 만들어졌으며, 적에게 큰 피해를 줄 수 있을 것 같다.
+{{
+    if you.race() == "Halfling"
+        or you.race() == "Kobold"
+        or you.race() == "Spriggan"
+    then
+        return "불행하게도, 이 무기는 너무 길어서 제대로 던질 수가 없다."
+    else
+        return ""
+    end
+}}
+%%%%
+lajatang
+
+굉장히 희귀하지만 그만큼 강력한 이국의 무기로, 봉의 양 끝에 반월형의 칼날이
+달린 무기다.
+%%%%
+large rock
+
+굉장히 크고 무거운 바위. {{
+    if you.race() == "Ogre"
+       or you.race() == "Troll"
+       or you.race() == "Formicid"
+   then
+       return ""
+   else
+       return "너무 무거워서 들고 다니는 것조차 어렵다." ..
+              " 거인족만이 이 바위를 투척무기로 쓸 수 있을 것 같다."
+   end
+}}
+%%%%
+leather armour
+
+짐승의 가죽을 무두질해서 만든 갑옷. 기초적인 수준의 방어력을 제공하며, 평상복
+수준으로 가벼워서 재빠르고 조용한 움직임을 방해하지 않는다.
+%%%%
+lemon
+
+노란색 열매. 보기만 해도 입에서 침이 고인다.
+%%%%
+longbow
+
+주목나무로 만들어진 강력한 장궁. 적에게 큰 피해를 줄 수 있으며, 숙련된 궁수가
+들면 그 진가를 발휘한다. 덩치가 작은 종족들이 들기에는 너무 크다.
+%%%%
+lychee
+
+열대지방에서 주로 생산되는 과일이다.
+%%%%
+mottled dragon scales
+
+얼룩무늬 용의 비늘로 만들어진 방어구. 다른 큰 용의 비늘로 만든 방어구만큼의
+보호는 제공하지 못하지만, 좀 더 가볍고 움직임을 덜 방해한다. 이 갑옷은 매우
+부드러워서, 점착 화염이 달라붙지 못하고 물처럼 흘러내린다.
+%%%%
+orange
+
+새콤하고 즙이 많은 과일이다.
+%%%%
+orb of zot
+
+돈으로는 가치를 매길 수조차 없는 이 귀중한 물건을 가지고 지상으로 올라가면,
+당신의 모험은 끝이 난다.
+%%%%
+pair of boots
+
+질긴 가죽으로 튼튼하게 만들어진, 한 쌍의 장화다.
+%%%%
+pair of gloves
+
+한 쌍의 평범한 장갑이다.
+%%%%
+pearl dragon scales
+
+진주 용의 비늘로 만들어진 마법의 갑옷이다. 착용자에게 음에너지에 대한 저항력을
+제공한다. 상당히 가벼운데도 엄청나게 단단해서, 마법사나 암살자들에게는 꿈의
+갑옷이라 불려도 손색이 없다.
+%%%%
+pearl dragon hide
+
+진주 용의 비늘이 덮인 가죽. 방어구 강화 두루마리를 사용하여 훌륭한 갑옷으로
+만들 수 있지만, 그대로 입어도 음에너지에 대한 저항력을 얻을 수 있다.
+%%%%
+phial of floods
+
+자연의 마력이 깃든 물이 흘러넘치는 마법의 유리병이다. 뚜껑을 열면
+유리병으로부터 물이 뿜어져 나오며 병 안에 깃들어있던 물의 정령을 풀어놓는다.
+%%%%
+potion of agility
+
+이 마법의 물약은, 마신 사람의 민첩성과 회피력을 짧은 시간동안 엄청나게
+올려준다. 몸이 날렵해져서, 움직임을 조금 더 은밀하게 해주는 효과도 있다.
+%%%%
+potion of beneficial mutation
+
+이로울 것으로 추정되는 돌연변이를 일으키는 물약이다.
+%%%%
+potion of berserk rage
+
+마신 사람을 짧은 시간동안 극도의 살인충동에 휩싸이게 하는 물약이다.
+%%%%
+potion of blood
+
+생명의 정수, 피가 담긴 물약. 모든 생명체는 이것이 없으면 살아갈 수 없으며,
+의외로 몇몇 언데드에게도 반드시 필요한 것이다. 채식주의자가 아니라면, 어느 정도
+배고픔을 해결할 수 있는 수단이 될 수도 있다.
+%%%%
+potion of brilliance
+
+이 마법의 물약은, 마신 사람의 지능과 마법력을 짧은 시간동안 엄청나게 올려준다.
+마법에 대한 순간적인 깨달음을 얻어, 마법의 성공률 또한 크게 올라간다.
+%%%%
+potion of confusion
+
+당신의 인지능력에 짧은 시간동안 혼란을 일으켜, 마음먹은 대로 몸을 움직일 수
+없게 만드는 물약이다.
+%%%%
+potion of cure mutation
+
+이 물약은 마신 자의 돌연변이 중 몇 개, 혹은 모든 돌연변이를 없애버린다. 종족
+특유의 타고난 신체적 특성은 ‘오히려 없는 것이 돌연변이’ 이므로, 이 물약으로
+없어지지 않는다.
+%%%%
+potion of decay
+
+눈앞에서 당신의 몸이 썩어 문드러지는 광경을 보게 하는, 사악한 부패의 저주가
+걸린 액체다.
+%%%%
+potion of experience
+
+매우 희귀하고 굉장한 물약이다. 마시면 머릿속에 자신이 겪어보지 못했던 희귀한
+경험들이 들어온다.
+%%%%
+potion of enlightenment
+
+복용한 이에게 대단한 부양력을 주는 포션
+%%%%
+potion of invisibility
+
+다른 자들의 시야로부터 짧은 시간동안 당신을 숨기는 물약이다.
+%%%%
+potion of might
+
+이 마법의 물약은, 마신 사람의 힘과 공격력을 짧은 시간동안 엄청나게 올려준다.
+%%%%
+potion of mutation
+
+당신의 몸에 매우 이상하고 기묘한 일을 일으키는 물약이다.
+%%%%
+potion of resistance
+
+짧은 시간동안, 여러 종류의 원소와 독에 대한 저항력을 제공해주는 물약이다.
+%%%%
+quad damage
+
+룬을 닮은 신비로운 도구. 사용하면 사용자가 파랗게 빛나며, 주변의 모든 소리가
+메아리친다... 왠지 모르게, 사용하면 엄청나게 강해질 것 같다. 한 4배쯤?
+%%%%
+quarterstaff
+
+전투용으로 만들어진, 견고한 육척봉이다.
+%%%%
+rambutan
+
+작지만 맛있는 열대지방의 과일. 어떻게 던전에서 이런 과일이 발견되는지 아무도
+모른다.
+%%%%
+ring of dexterity
+
+이 반지는 착용자의 민첩함에 영향을 준다. 반지의 품질에 따라 민첩함이 올라갈
+수도, 내려갈 수도 있다.
+%%%%
+ring of evasion
+
+이 반지는 착용자의 회피능력에 영향을 준다. 반지의 품질에 따라 회피력이 올라갈
+수도, 내려갈 수도 있다.
+%%%%
+ring of intelligence
+
+이 반지는 착용자의 지능에 영향을 준다. 반지의 품질에 따라 지능이 올라갈 수도,
+내려갈 수도 있다.
+%%%%
+ring of magical power
+
+이 반지는 착용자의 마력을 증가시켜, 한번에 더 많은 마법을 쓸 수 있게 한다.
+%%%%
+ring of poison resistance
+
+이 반지는 착용자를 다양한 종류의 독으로부터 보호한다. 대부분의 독 공격을
+막아주나 가끔 막아주지 못할 때도 있으며, 독이 든 시체를 먹을 수 있게 해주지만
+날고기를 먹고 배탈에 걸리는 것까지 막아주지는 못한다.
+%%%%
+ring of protection
+
+이 반지는 착용자의 방어력에 영향을 준다. 반지의 품질에 따라 방어력이 올라갈
+수도, 내려갈 수도 있다.
+%%%%
+ring of protection from cold
+
+이 반지는 착용자를 냉기 공격으로부터 보호한다.
+%%%%
+ring of protection from magic
+
+이 반지는 착용자의 적대적인 주술에 대한 저항력을 증가시킨다. 특히 적을 어비스에
+빠뜨리는 추방 마법을 막기 위해서는, 정적의 부적이 아닌 이 반지를 믿는 것이 좋을
+것 같다.
+%%%%
+ring of see invisible
+
+이 반지에는 투명한 존재를 볼 수 있게 만드는 특수한 마법이 걸려있다.
+%%%%
+ring of slaying
+
+이 반지는 착용자의 원거리 공격이나 근접 공격의 효율을 늘려주거나 감소시킨다.
+최대 2회의 인챈트가 가능하며, 횟수에 따라 정확도와 데미지가 상승한다.
+%%%%
+ring of strength
+
+이 반지는 착용자의 힘에 영향을 준다. 반지의 품질에 따라 힘이 올라갈 수도,
+내려갈 수도 있다.
+%%%%
+ring of teleportation
+
+이 반지는 가끔 착용자를 무작위한 곳으로 공간이동시킨다. 직접 발동시켜서 사용할
+수도 있다.
+%%%%
+ring of wizardry
+
+이 반지는 착용자의 마법에 대한 이해도를 높여, 마법의 성공률을 올려준다. 쉬운
+마법일수록 그 효과가 크며, 마법의 파괴력에도 미미하지만 영향을 준다.
+%%%%
+rod of inaccuracy
+
+이 지팡이는 사용자가 강력하지만 극도로 부정확한 파워 볼트를 날릴 수 있게
+해준다.
+%%%%
+rune of zot
+
+조트의 방으로 갈 수 있게 해주는 일종의 부적이다.
+%%%%
+sacred scourge
+
+천상의 성자들에 의해 제작된, 축복받은 채찍이다. 샤이닝 원의 사도들이 주로
+사용하는 무기이며, 악의 종자들은 이 무기를 들 수조차 없다.
+%%%%
+sausage
+
+창자 속에 연골과 내장, 그리고 곡물류를 넣어 만든 가늘고 긴 덩어리다. 먹고
+싶다...
+%%%%
+scale mail
+
+가죽조각에 작은 철 조각을 겹겹이 덧댄 것으로 상당한 방어력을 제공하지만, 고리
+갑옷보다 무겁고 소리도 더 크게 난다.
+%%%%
+scroll of acquirement
+
+이 놀라운 두루마리를 읽으면 값진 물건을 만들어낼 수 있으며, 사용자가 어떤
+종류의 물건을 만들어낼지 결정할 수 있다. 두루마리의 신비한 힘은 가급적 사용자가
+원하는 물건을 만들어내려고 노력할 것이다.
+%%%%
+scroll of amnesia
+
+이 두루마리를 읽으면 기억하고 있는 주문 하나를 망각하여, 다른 주문을 기억할 수
+있게 만든다.
+%%%%
+scroll of blinking
+
+이 두루마리를 읽으면 완벽하게 제어된 단거리 순간이동을 할 수 있다. 제어된
+공간이동은 마법 오염을 일으킨다는 것을 명심해야 한다.
+%%%%
+scroll of brand weapon
+
+이 두루마리는 선택된 무기에 마법을 부여해, 적에게 더 큰 피해를 줄 수 있게
+만든다. 몇몇 주문으로 일시적인 속성마법이 걸린 무기에 사용해서 영구적으로 해당
+속성을 고정시킬 수도 있고, 이미 영구적인 마법이 부여된 무기에 사용해서 무작위로
+새로운 마법을 부여하는 데 사용할 수도 있다.
+
+특정 신 (트로그, 루고누, 키쿠바쿠드하, 샤이닝 원) 이 부여해주는 속성마법은 이
+두루마리로 고정시킬 수 없다. 강제로 두루마리를 읽으면 오히려 피해를 보며, 특히
+좀이 이런 멍청한 짓을 좋아한다.
+%%%%
+scroll of curse armour
+
+이 두루마리를 읽으면 방어구에 저주가 걸린다.
+%%%%
+scroll of curse jewellery
+
+이 두루마리를 읽으면 장신구에 저주가 걸린다.
+%%%%
+scroll of curse weapon
+
+이 두루마리를 읽으면 무기에 저주가 걸린다.
+%%%%
+scroll of fear
+
+이 두루마리를 읽은 사람의 주변에 있는 것들은, 공포에 질려 도망가게 될 것이다.
+%%%%
+scroll of fog
+
+이 두루마리는 읽은 사람 주변을 짙은 안개구름으로 감싼다.
+%%%%
+scroll of identify
+
+이 유용한 두루마리는 지정한 물건을 감정할 때 쓰인다. 가끔 두루마리 한 장으로
+여러 물건을 감정할 수도 있다.
+
+카드 덱을 감정할 경우, 감정과 동시에 첫 번째 카드가 무엇인지도 알려준다.
+%%%%
+scroll of immolation
+
+이 두루마리는 사용자의 주변에 있는 존재들에게 불안정하고 매우 강력한 잠재의
+불꽃을 심는다.
+%%%%
+scroll of revelation
+
+이 두루마리를 읽으면 주변의 지형을 볼 수 있다.
+
+비밀 문의 존재를 밝혀낼 수는 있지만, 그 안의 지형은 두루마리의 힘으로는 파악할
+수 없다. 완전히 봉인된 지역도 마찬가지다.
+%%%%
+scroll of remove curse
+
+착용하고 있는 모든 장비의 저주를 풀어주는 두루마리다.
+%%%%
+scroll of summoning
+
+이 두루마리는 사용자의 바로 근처에 있는 것들을 본딴 형태의 그림자들을 몇 개
+정도 불러낸다.
+%%%%
+scroll of teleportation
+
+이 두루마리는 읽는 사람을 무작위한 곳으로 이동시킨다. 이동하기까지 약간의
+시간이 필요하다.
+%%%%
+scythe
+
+농기구로 쓰이는 낫으로, 전투 훈련을 받지 못한 사람이나 쓸 법한 무기다.
+%%%%
+kite shield
+
+일반적인 크기의 나무와 금속 조각을 이용해 만든, 한쪽 팔에 고정하는 방식으로
+사용하는 방패다. 꽤 걸리적거리기 때문에, 충분한 방패술 수련 없이는 적을
+공격하거나 마법을 사용하기 불편할 것이다.
+%%%%
+sling
+
+돌을 장전해서 던질 수 있는, 천과 가죽으로 된 투석기다. (정확히는 ‘기계’ 가
+아닌 ‘도구’ 이므로 ‘투석구’ 라고 불러야 한다.) 큰 피해를 주지는 못하지만
+방심하면 안 될 정도의 화력은 가지고 있으며, 다른 투사기기와는 다르게 방패를
+사용하더라도 공격 속도가 떨어지지 않는다.
+%%%%
+sling bullet
+
+투석기에 적합한 작고 무거운 돌로, 보통의 돌보다 위력적이다.
+%%%%
+snozzcumber
+
+오이처럼 생긴, 역겨운 채소류이다.
+%%%%
+spear
+
+사냥을 하는 데 쓰이는, 뾰족한 금속 날이 끝에 박힌 나무 막대다.
+%%%%
+staff of conjuration
+
+이 지팡이는 사용자의 파괴 마법을 더욱 강하게 만들어준다.
+%%%%
+steam dragon hide
+
+부드럽고 유연한 증기 용의 비늘 가죽이다. 방어구 강화 두루마리를 사용해서 갑옷을
+만들 수 있다.
+%%%%
+stone
+
+평범한 돌이다. 손이나 투석기로 던질 수 있다. 특이하게도, 젤리들은 돌을 먹지
+않는 습성이 있다.
+%%%%
+storm dragon scales
+
+입에서 벼락을 뿜어내는 폭풍 용의 가죽으로 만든 마법 갑옷이다. 이 갑옷은
+대부분의 용 갑옷보다 무거운 편이지만, 착용한 사람을 전기 공격으로부터 보호한다.
+%%%%
+storm dragon hide
+
+대단히 단단한 푸른 비늘로 덮여 있는, 폭풍 용의 가죽이다. 그대로 입으면 전기
+저항 외의 별다른 방어력을 얻을 수 없지만, 방어구 강화 두루마리를 사용해서
+훌륭한 갑옷을 만들 수 있다.
+%%%%
+strawberry
+
+작지만 맛있는 붉은 과일이다.
+%%%%
+sultana
+
+소박하게 생긴 건포도다.
+%%%%
+swamp dragon scales
+
+늪지 용의 가죽으로 만든 마법 갑옷이다. 착용자를 독으로부터 보호한다.
+%%%%
+swamp dragon hide
+
+끈적끈적한{{
+    if you.can_smell() then
+        return ", 그리고 냄새나는"
+    end
+}} 늪지 용의 가죽이다. 이대로 입어도 착용자를 독으로부터 보호해주지만, 방어구
+강화 두루마리를 사용해서 갑옷으로 만들 수도 있다.
+%%%%
+trident
+
+좀 더 긴 막대에 세 갈래로 갈라진 철심이 박힌 창이다. 물고기를 잡는 데 쓰곤
+한다.
+%%%%
+trishula
+
+세 선신의 합쳐진 힘을 상징하는 세 갈래의 끝이 있는, 정화의 불길로 단조된
+축복받은 삼지창이다. 샤이닝 원의 신도들이 주로 들고 다닌다.
+%%%%
+troll leather armour
+
+뻣뻣하고 울퉁불퉁한 트롤 가죽으로 만든 마법 갑옷이다. 이 갑옷은 착용자의 체력을
+재생시켜주지만, 그 속도는 꽤 느린 편이다. (당연하지만, 트롤은 이 재생 효과를 볼
+수 없다.)
+%%%%
+wand of digging
+
+강화되지 않은 바위들을 파 내어 통로을 만드는 마법봉이다.
+%%%%
+wand of polymorph
+
+대상을 다른 모습으로 변형시키는 마법 도구이다. 특히 지속적으로 모습을 바꾸는
+존재들에게 효과적이다.
+%%%%
+whip
+
+기다란 가죽을 여러 겹 꼬아서 만든 채찍이다. 원래는 가축을 조련할 때 쓰기 위해
+만들었지만, 이 단순한 무기는 모든 존재들을 가축으로 보는 것 같다.
+%%%%
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+acid dragon scales
+산성 용의 규모. 일부 큰 용의 규모에서 만든 갑옷만큼 보호 기능을 착용자에게 제공하지는 않지만 다소 가볍고 덜 매력적입니다. 그것은 또한 물과 같이 부드럽게 부드럽게 흘러나갑니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of chemistry
+착용자가 마시는 모든 물약에서 소량의 마법의 에너지를 추출하고 연금술 주문의 힘을 향상시킬 수있는 부적. 마법의 치유 효과는 부적이 마법의 예비가 가득하는 동안 착용자의 몸에 자신을 조절해야합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of dissipation
+착용자에게 마법과 부정적인 상태 영향을 주는 부적은 시간이 지남에 따라 두 배 빨리 만료됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of faith
+신의 관심을 착용자에게 부르기 위해 만들어진 매력. 이 신성한 관심을 통해 신을 더 쉽게 기쁘게 할 수 있지만 신은 당신의 신을 더 많이 알 수 있습니다. 부적은 제거 될 때 당신의 신성한 호의를 소모합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of guardian spirit
+착용자의 건강 및 마법 보유량 사이에 손상을 입히는 보호 정신이 들어 있는 앰뮬릿.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of magic regeneration
+착용자의 마법 재생률을 높이는 부적. 기능을 위해서는 먼저 착용자의 신체에 마법을 충분히 보존해야 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of nothing
+특별한 속성이 없는 앰플렛.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of reflection
+공격으로부터 방어할 수 있는 착용자의 능력을 향상시키는 아뮤틀. 보호막이 마모되지 않으면 아뮤틀이 방출하는 힘은 자체적으로 약한 보호막 역할을 할 수 있습니다. 그럼에도 불구하고, 착용자 블록이 공격자에게 다시 반사됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of regeneration
+착용자의 건강 회복 속도를 높이는 부적. 기능을 위해서는 먼저 착용자의 신체에 완전한 건강을 유지해야 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of the acrobat
+사용자가 텀블하고 굴러 적의 타격을 피할 수 있지만 움직이고 기다리는 동안에만 사용할 수 있는 부적. 다른 조치 (타락 계단 포함)를 취하는 동안 부적은 아무런 이점을 제공하지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of wildshape
+변신술을 통해 착용자의 기술을 향상시키는 부적.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+arbalest
+강철로 꺾이고 바람 유리로 부수는 회전 볼트에 사용되는 대형 기계 조각. 로드 및 화재에 약간의 시간이 걸립니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+azure gem
+[[gem]]
+
+구름이 없는 하늘이나 깊이 없는 바다처럼 선명하고 푸른색의 이 보석은 뚫을 수 없는 깊이 안에 잠급니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+baked corpse
+구운 시체. 따뜻하고 쓸모없고 죽은.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+barding
+나가스와 기갑의 비늘 중간 부분에 대한 갑옷.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+battleaxe
+형성 가능한 양면 헤드가 있는 대형 전쟁 축.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+blade talisman
+부상없이 파악 할 거의 불가능 블레이드의 지그 클러스터. 그들이 빠른 보조 근접 공격을 수행하고 심지어 타격을 운반 할 수 있도록, 착용자의 몸에서 성장 긴 바늘 얇은 블레이드를 발생합니다. 자신의 몸 안에 금속의 너무 많은 조각을 갖는 것은 바디 갑옷의 효과를 감소하지만, 성형 기술은뿐만 아니라 처리 손상을 증가뿐만 아니라 효과를 완화한다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of air
+공기의 기본 마법에 대한 입문자. 위대한 미오타우르 영웅 Vuxhurn은 특히 유머 감각이 다른 마법사 탑 위에 앉아있는 동안이 책의 사본을 주어서 페이지를 사용하여 무작위 글라이더를 만들고 자유를 얻었습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of armaments
+다양한 마법의 무기와 갑옷을 설명하는 책. 특히 피 묻은 내전 중에 쓰여졌으며, 텍스트는 저자의 빈번한 분열으로 인해 다른 쪽이 저지른 범죄를 설명하는 데 크게 도움이되지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of battle
+놀랍도록 헛되고 자각적인 작품. 저자는 광범위한 무기 확대 마법에 대한 크레딧을 주장하지만, 그들 대부분을 오해하거나 모욕하는 것 같습니다. 책에 설명 된 주문 중 몇 개만 실제로 작동합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of beasts
+짐승의 유혹에 초점을 맞춘 주문 책. 그것의 페이지는 부주의 한 독자의 손가락에 얹어.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of blasting
+강력한 폭발을 설정하는 데 사용되는 주문서. 이 판의 바인더는 독자가 충분한주의가없는 경우, 책, 적어도, 살아남을 수 있도록 커버를 패딩주의했다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of blood
+피의 조작에 전념하는 작품 책, 시전자와 특히 특이한 코가 정맥을 통해 흐르는 생물. 일부는 뱀파이어 주 Jory에 의해 구성되었다고 주장하지만, 그가 다른 사람들과 자신의 비밀을 공유하도록 설계하는 것은 불분명합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of burglary
+도난, 파손 및 입력 및 기타 기타 외설물에 유용한 주문가 포함된 책.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of callings
+짐승과 다른 영역에서의 존재의 마법의 예언에 관한 문구.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of chaos
+완전한 무너짐의 상태에서 시전자의 주변을 떠나는 주문서. 사람이 그런 것을 쓰는 이유는 명확하지 않지만 여기에 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of contraptions
+다양한 전술적 메커니즘을 구축하기 위한 도식과 주문서. 그들 중 많은 사람들과 관련된 명백한 안전 위험은 페이지 157의 단일 각주와 관련이 있지만 상승으로 간주될 수 있는 엔터프라이즈 모험가에게 관련이 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of cryoformation
+실용적이고 예술적인 형태로 얼음을 형성하는 그림 가이드. 전체 장은 미네랄 미네랄 테이블과 색상 및 융점에 미치는 영향에 전념합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of dangerous friends
+마법 단체의 창조와 사용을 가장 잘 보여주는 책이 팔의 손이 닿는 곳에 보관되었습니다. 또는, 바람직하게도.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of death
+강령술의 어두운 주문을 포함 된 원고. 각 페이지는 거스러운 부패의 장면을 묘사 그로스크 예술로 가득 차 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of decay
+신 쿠쿠바아쿠드가에 의해 9일간의 연단을 통해 불행한 사도들로 묘사된 네크로망니의 책. 네크로망니는 자신의 삶의 혈액으로 무서운 일을 마쳤다고 합니다... 그러나 물론 이것은 거의 정상적인 잉크로 작성된 사본일 뿐입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of displacement
+사용자의 변덕에 따라 다른 사람을 더 가깝게, 또는 가끔 더 가깝게 만드는 주문서.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of duality
+모든 행동의 쌍둥이 성격에 대해 애초를 품고 있는 교활한 주문책. 결국에도 저자가 범죄와 범죄를 단일 움직임에 통합하는 마법에 대한 영적 순수성을 고려했는지 또는 시간이 지남에 따라 극도로 눌러진 삶을 살았는지 여부는 불확실합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of fire
+진의 비밀 대학에서 도난 화재의 초등학교에서 고급 주문을 포함하는 책.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of flames
+화재의 원소 마법의 학생에 의해 아케이드 아카데미에서 사용되는 표준 텍스트. 독자는 절연 장갑의 쌍을 착용하는 것이 좋습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of frost
+얼음의 원소 마법에 대한 소개로 자주 사용되는 마법의 마법 책. 그 페이지는 터치로 부서지는 것처럼 비정상적으로 부서지기 쉽습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of the fortress
+돌 기둥처럼 탄력을 주기 위해 시전자를 만드는 것을 추구하는 주문서. 덮개는 두껍고 마법처럼 강화 된 강철로 제작되어 책을 명백한 이익을 위해 부당하게 무겁게 만듭니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of geomancy
+지구의 요소와 관련된 기본 주문이 포함된 책. 독자는 한 쌍의 원예 장갑을 착용하는 것이 좋습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of the grave
+괴사적인 주문의 무거운 변덕입니다. 그것을 만지는 사람들은 불쾌한 것이 매우 페이지 사이에 묻혀있는 것처럼 불쾌한 감각을 자주보고합니다. {{
+    if you.can_smell() then
+        return "그 볼륨은 먼지와 부패의 심하게 냄새."
+    end
+}}
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of hexes
+페이지가 뒤집혀있는 강력한 육각가 담긴 주문가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of ice
+얼음의 요소를 사용하여 고급 마법의 주문의 책. 독자는 따뜻한 장갑 한 쌍을 착용하는 것이 좋습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of iron
+어두운 붉은 색 블록으로 덮인 고대의 금속으로 묶인 주문책. 얼룩을 녹이나요??
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of lightning
+아케이드 파워로 상당히 갈라진 책.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of maladies
+마법과 무더기 모두 마법과 무더기 모두 조용한 수준의 무더기로 묘사됩니다. 그들 대부분은 모험가에게 유용하기에는 너무 느린 시간 척도에서 작동하지만 몇 가지 건전한 효과로 작동합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of metalworking
+고급 대장술 마술의 이야기. 그것의 페이지는 여기에 설명 된 예술과 저자의 자신의 기술의 그림으로, 아마도, 정교한 금속 필리그리로 만든 기술 수치로 정기적으로 내포된다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of minor magic
+다양한 간단하지만 유용한 마법의 마법을 담은 마법 책. 많은 저명한 마법 마법 책가들이 이 책을 사용하여 아케이드 연구를 시작했습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of misfortune
+미신 마법사는 책 자체가 실제로 불운을 흡수하고 행운의 매력으로 그것을 가지고 있다고 주장하지만, 이것의 효과는 가장 잘 미묘한 것 같습니다. 그러나,이 책 자체가 실제로 불운을 흡수하고 좋은 행운의 매력으로 그것을 수행 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of movement
+가장 작은 터치에서 열린 도약하는 것 같다 맞춤법. 그 쓰기는 어떤 식 으로든 운동과 관련된 것 같지만, 그들 중 몇 개만 진정으로 이해할 수 있는 충분한 정보를 제공, 한 마법에 대한 설명에서 다른 마법으로 날아갑니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of party tricks
+모든 마법사 파티뿐만 아니라 토스트, 농담, 파티 게임의 숫자를 생생하게 보장 재미 주문의 다양한 포함 된 책.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of scorching
+사막 태양에 대한 긴 노출에 의해 폭발하고 쏟아지는 마법의 책. 악천후 페이지에 시전자의 적에 사막의 위험을 가하는 비밀이 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of sloth
+게으르게 쓰여진 책.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of spectacle
+스팽글링 시퀸스에서 다루는 책. 즉석 조명 쇼는 모든 페이지에서 파열되어 가장 까다로운 마법사 만이 책을 명확하게 예약합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of spontaneous combustion
+야생의 가연성 잉크로 작성된 무거운 토메. 그것을 여는 경우에도주의를 기울여야하지만 여기에 설명 된 주문의 힘은 부인할 수 없습니다. {{
+    if you.can_smell() then
+        return "그것의 지정 된 페이지는 황의 불쾌한 냄새."
+    end
+}}
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of the spheres
+구와 관련된 주문 모음이 포함된 책. 최종 페이지는 '조트의 오브 소환'이라는 제목의 주문을 설명하기 시작하지만 슬프게도 책의 나머지 부분은 완전히 기화되었습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of storms
+자연 현상의 연구 및 통제에 몰두한 마술사 Lan Shi가 쓴 책. 대부분의 Shi의 작품은 손실되었지만 여전히 남아 있는 사람들은 사본에 손을 넣을 만큼 행운(또는 무너져)으로 가득 차 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of the dragon
+용과 그 측면에 대한 명령을 허용하는 마법의 마법 책.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of the wilderness
+운명과 미지의 땅에서 찢어진 책으로, 그들의 데니즌들이 독자를 섬기도록 부름을 받을 수 있도록 합니다. {{
+    if you.can_smell() then
+        return "그것은 꼼꼼하게 머스티 냄새가납니다."
+    end
+}}
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of the earth
+지구의 깊은 곳에서 엄청난 힘을 끌어 내는 가이드. 원래는 언덕 드워프와 산 드워프 간의 협력으로 작성되었지만 거대한 지진파가 언덕 드워프의 문명을 파괴 할 때 컴파일이 짧았습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of the hunter
+사냥에 대한 평범한 책. 누군가는 동일한 작업을 수행하는 주문에 찬성하여 전체 섹션을 넘어 수정 및 흩어져있는 소문으로 책을 통과하고 덮었습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of the moon
+미친 마법사에 의해 작성 된 책, 누가 위의 달이 구성되었다고 확신했다, 빛, 하지만 바위는 자신의 발 아래 고체로. 페이지의 많은 인식 이상으로 망가져왔다, 강력한 발톱의 쌍에 의해 파쇄...하지만 트롤은 맞춤법으로 무엇을 할 것인가?
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of the senses
+생물이 주변 세계를 인식하는 데 사용하는 감각을 설명하는 학문적 작품입니다. 설명되는 원칙을 보여주기 위해 몇 가지 주문이 포함되어 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of transmutation
+모든 종류의 물질을 분해하고 재구성하기위한 공식으로 채워진 연구 노트의 엄청난 화합물입니다. 그것은 그 종이 세계에서 극적으로 사라지기 전에 슬러지 엘프 중 전설적인 연금술사 중 한 명이 작성했습니다. 저자는 나비가되는 것에 이상한 집착을 한 것으로 보이지만 궁극적 인 목표가 배제되더라도 여기에 자세히 설명 된 많은 주문이 상당히 실용적입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of the tundra
+얼음 주문을 설명하는 서리가 뚫린 토메, 다소 어그리게. 금고는 전체 텍스트를 보유하고 있다고하지만, 그 장소의 보호자는 그들의 보물을 안전하게 보호합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of touch
+저자는 자신의 마법사 동료에 대한 낮은 의견을 가지고있는 것 같다, 다른 지각 존재에 가까운 근접에 입력하는 데 필요한 위생 및 사회적 예절을 설명하는 텍스트의 대부분을 지출. 저자는 자신의 목표를 달성하기 위해 자신의 목표를 달성 할 수 있도록 자신의 목표를 달성 할 수 있도록 최선을 다하고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of vapours
+구름, 증기 및 안개의 덩어리를 만들기위한 마법의 마법 마법 책. 글을 쓰는 동안 저자가 발견 한 비정상적으로 모양의 구름에 대한 설명으로 텍스트가 자주 중단되기 때문에 읽는 것은 어렵습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of weapons
+고대와 악한 제국에 대한 반란군에 의해 사용되는 주문서. 반란군,하지만이 책은 마침내 제국을 파괴하고 불멸의 쌍둥이 주권을 죽인 십자군의 팔라딘에 의해 발견 몇 년 후 재발견되었다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of wicked creation
+오랫동안 금지 된 토메는 다양한 불신자 (또는 적어도, underhanded) 창조물에 대한 주문을 설명합니다. 그러한 책을 표면 세계에 다시 가져 오는 것은 현명하지 않을 것입니다. 더 잘 읽고 잘 숨겨진 위치에 버리는 것이 좋습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+book of winter
+특히 6개월 이상 혹독한 날씨 속에서 시간을 생산적으로 사용하려 했던 엘로이(Ellawe)가 쓴 주문서. 포스트스크립트는 그녀가 책임 있는 날씨를 관리한 후 취한 피 묻은 복수에 대해 자세히 설명합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+boomerang
+사용자에게 돌아가도록 설계된 곡선형, 평면형, 던지는 배턴입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+broad axe
+랭귀지, 스파이크, 긴 수탉 및 단일 블레이드 초승달 헤드가 있는 축입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+club
+무거운 나무 조각. 클럽은 오히려 원시 무기이지만, 하나를 가진 사람의 두개골을 뱉는 것은 분쟁 해결의 매우 인기 있고 효과적인 수단으로 남아 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+codex of conductivity
+마법 공식과 사용 가능한 기술적 지표로 해석 된 톱밥에서 스노즈커에 이르기까지 모든 전기에 미치는 영향에 대한 연구 노트의 철저한 컬렉션. 저자의 저자는 스프링 전기 생리학에 대한 장 중간에 충격적으로 악화되어 정체성과 자기 보존 감각에 대한 많은 논쟁으로 이어집니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+compendium of siegecraft
+명확하고 읽을 수있는 방식으로 작성된 포위 전쟁에 대한 분석 논문. 대부분의 장은 물류 및 공급 라인의 유지 관리에 관심이 있지만, 요새 (또한 다른, 부드러운 것들)를 위반하는 데 유용한 몇 가지 세부 주문.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+condenser vane
+주변 에너지를 다양한 구름으로 압축하는 마법의 장치. 이러한 구름을 불러일으켰을 때 이러한 구름의 양과 사망률은 Evocs 기술로 증가합니다. 저전력에서는 유독 한 불꽃을 만들고, 힘이 증가함에 따라 화염을 억제하고, 증기를 동결하고, 유독 한 가스를 배출 할 수 있습니다. 최고 수준의 전력 폭풍 구름에서 산성 안개와 과민한 구름을 사용할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+dagger
+날카로운 점과 이중 가장자리 싸움 칼.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+dart
+금속의 얇은 조각, 일반적으로 일부 유해한 물질에 코팅. 던져 때 그것은 살아있는 또는 악마 존재의 혈류에 그것의 독소를 제공 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+deck of destruction
+마법 카드의 갑판, 대부분은 자신의 원수 (또는, 운이 좋지 않은 경우, 자신에)에서 죽음과 파괴를 달래.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+deck of escape
+주로 탈출의 다양한 형태를 다루는 마법의 카드의 갑판.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+deck of punishment
+사용자에게 혼란을 일으키는 마법의 카드 덱.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+deck of summoning
+마법 같은 카드 덱으로, 다양한 이상하고 멋진 생물을 묘사합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+double sword
+포크된 날카로운 블레이드가 있는 무서운 무기.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+dragon-coil talisman
+용의 치아와 비늘로 인레이된 화려한 광채. {{
+    local desc = "착용자를 강력한 것으로 변화시킵니다."
+
+    if you.race():find("Draconian") then
+        desc = desc .. " 용. 착용자는 그들의 타고난 색깔을 유지한다, " ..
+                       "독에 저항되고, 그들의 호흡 무기는 " ..
+                       "전력 및 충전 속도가 크게 증가합니다."
+    else
+        desc = desc .. " 황금 용. 착용자는 불에 저항한다, " ..
+                       "추위, 독, 강력한 호흡 공격을 얻을 " ..
+                       "한 번에 세 가지 유형의 손상을 모두 억제하지만, " ..
+                       "XP를 얻으면 충전됩니다."
+    end
+    return desc
+}}
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+earthy gem
+[[gem]]
+
+이 보석 안에는 흐르는 잎과 흔들리는 가지가 숨어있는 것 같습니다. 그리고 여기에서 뼈가 깨끗했습니다. 굶주린 눈을 엿볼 수 있습니다.?
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+eel talisman
+혼자와 진주로 장식된 이상한 바다 화석. {{
+    local hands = you.hand() .. "s"
+    return "착용자의 원인 " .. hands
+}}는 적을 공격하는 데 사용할 때 연결된 대상을 통해 전기의 아크를 배출하는 일련의 쓰기 전기 껍질로 변형됩니다. 착용자의 건강이 위험하게 낮으면 더 많은 폭력적인 전압을 방전합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+eggplant
+크롤링 개발자에서 던질 수있는 썩은 가지. 이 메시지가 표시되면 버그입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+everburning encyclopedia
+마법의 마법 주문서, 촘촘하고 밀도가 높고 거의 완전히 연소 된 검은 색 책. 몇 페이지 만 여전히 읽을 수 있지만 내부의 힘은 여전히 용광로와 같은 열로 독자를 폭발시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+executioner's axe
+마른 피와 굶주린 조각에서 덮인 무서운 무기로 엄청난 도끼를 씌웁니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+falchion
+약간 곡선 블레이드와 긴 단일 가장자리 검.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+fen folio
+위대한 늪 문명에서 한때 사용한 주문 컬렉션.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+figurine of a ziggurat
+일부 이상한 소재로 만든 작은 인형은 계단형 피라미드처럼 모양입니다. 거의 실제, 광대 한 구조처럼, 인간의 손보다 작은 축소 - 그것은 매우 상세하다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+flail
+헤드를 샤프트에 연결하는 짧은 체인이 있는 마스.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+flux bauble
+무작위로 빛나는 물질을 포함하는 작은 유리 테이블. 그것을 분쇄하면 변환 에너지로 가득 차서 물리적 형태를 근본적인 수준에서 불안정하게 만듭니다.
+
+이러한 플럭스 상태에서는 근접 공격이 훨씬 약하지만 각 공격은 변형 에너지로 타격을 입은 모든 것을 오염시킵니다. 세 번째 파업에서 너무 강해 몸이 비틀고 변형하여 상당한 피해를 입힙니다. 물리적 형태의 불확실성의 부족은 또한 당신이 도둑질하는 방식으로 빛나지만 타격하기가 훨씬 어렵습니다.
+
+각 현무암에 포함된 힘은 유한하며 적에게 퍼뜨려 소진되면 이전 형태로 돌아갑니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+fortress talisman
+쉘 조각에서 유래 한 거대한 전투. 마모를 심하게 무장 한 장갑으로 변형시켜 과정에서 쉘에 착용하는 모든 바디 갑옷을 융합시킵니다. 이 형태로 그들은 천천히 움직이지만 방어력이 뛰어나며 큰 메인 발톱에서 무기를 용접 할 수도 있습니다. 이 모든 대량에도 불구하고 그들은 물에 잘 적응됩니다. 그들은 또한 적들을 부식시키고 약화시키는 자체 HP 비용으로 녹의 구름을 호흡 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+gell's gravitambourine
+구리와 텅스텐 탬버린은 사용하고자하는 것처럼, 당신의 손에 매우 진동합니다.
+
+음악이 사람들을 하나로 모으는 것처럼 적절한 리듬과 함께 연주하면 큰 무리의 괴물을 좁은 공간에 끌어들이고 중력의 흔들리는 파도로 짧은 시간 동안 모든 원주민을 제자리에 고정시킵니다.
+
+Evocs 기술로 효과 및 지속 시간의 영역이 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+gem
+천상의 아름다움의 돌과 거의 측정 할 수없는 가치. 그것의 한계 내에서, 그것은 완전히 쓸모가 없습니다.
+
+조트는이 보석을 꽂고 모험가가 휴식을 취하는 던전의 가지에 들어간 후 곧 멋지게 부딪힐 것입니다. 여전히 매우 빠르게 움직이는 모험가가 먼저 보석을 포착하고 귀중한 보석을 보관할 수 있습니다. 조트는 홈 브랜치 밖에서 보석을 추적 할 수 없으므로 진정으로 놀라운 속도로 여전히 그대로있는 보석을 따라갈 수 있습니다... 그러나 그러한 업적은 신용하기 어렵고 무의미할 것입니다.
+
+조트의 오브가 취해지면 조트는 보석을 분쇄할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+giant club
+거대한 목재 덩어리.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+granite talisman
+오랫동안 잊혀진 왕이나 신의 모습을 보여주는 무거운 돌 아이콘. 착용자를 느리고 돌상으로 변형시킵니다. 착용자의 돌 몸은 독과 미아마에 면역이 있으며 전기, 부정적인 에너지 및 고통에 대한 저항력을 얻습니다. 모양 전환 기술은 방어력을 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+grand grimoire
+많은 사람들이 불안한 영혼이었습니다. 그러나 이 시대와 함께 장난감을 샀고 상상할 수 없는 엘드리치 공포에 의해 미치게 된 사람. 이 책에서 우리는 많은 사람들이 자신의 의지에 대해 어떻게 휘둘러질 수 있는지 설명합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+great sword
+매우 길고 무거운 칼날과 긴 손잡이가 있는 검.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+great wizards, vol. ii
+역사 전반에 걸쳐 훌륭한 마법사의 주문 컬렉션. 저자는 매우 열등한 것 같다, 각 마법사는 볼륨, 포괄적 인 세부 사항에 설명되어 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+great wizards, vol. vii
+역사 전반에 걸쳐 훌륭한 마법사의 주문 컬렉션. 저자는 프로젝트에 매우 피곤한 것 같습니다. 마법사의 설명은 간결하고 최소화되어 가장 낮은 요구 사항을 충족합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+halberd
+긴 샤프트에 장착된 스파이크가 있는 축날로 구성된 폴암.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hammer
+무딘 무기, 본질적으로 맥과 동일합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hand axe
+작은 도끼.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hand cannon
+적용 된 목축을 통해 금속 슬러그를 발사하는 기계. 일부는 투사체가 아래로 떨어지는 대신 앞으로 떨어지도록 장려하고 다른 사람들은 대상에게 치명적인 매력으로 슬러그를 능가합니다. 모두 각 샷에서 느리고 크고 두껍게 연기를 방출합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+handbook of applied construction
+기본 원칙과 일반적인 응용 분야를 다루는 대장술에 대한 실용적인 소개입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hive talisman
+보호되고 장식 된 두드러기는 여전히 약용 네타르로 떨어지는 것입니다. 착용자를 살아있는 비하이브로 변형시키고 내부에 쏟아지는 수많은 소문으로 가득 차 있습니다. 내에서 생산 된 네타르는 착용자의 건강과 마법 회복을 크게 증가시킵니다. 그들이 심각하게 부상하면 화난 꿀벌이 두드러기를 방어하기 위해 스윕 아웃 할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+horn of Geryon
+지옥의 짐승의 수호자 게리온에 속하는 뿔. 악마의 짐승을 부를 수있는 힘이 있습니다. 높은 에코브스 기술을 통해 더 많은 수의 짐승을 부를 것이며, 그 짐승의 가능성이 낮아집니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ice dragon scales
+콜드 호흡 용의 규모. 그것은 추위로부터 큰 보호를 제공하는 동시에 착용자를 더 불에 더 취약하게 만듭니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+inkwell talisman
+신비로운 잉크로 가득 찬 작은 병. 신체가 백 개의 잡지에 대한 지식으로 문신을 한 도보 스크롤로 착용자를 변형시킵니다. 마법의 기술 옴니버스가되면 모든 마법 학교가 증가하는 기술을 제공하므로 성형 기술로 개선되지만 그러한 마법을 채널링 할 수있는 형태의 능력이 제한되어 있으며 레벨 4 이상의 마법을 캐스팅 할 수 없습니다.
+
+공격도 매우 약하지만 공격이 적중했을 때 1MP를 복구할 기회가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ivory gem
+[[gem]]
+
+수많은 영혼들이 이 보석을 돌면서 뼈 깊은 냉각에 빠져들게 됩니다. 신들의 사후에 환영받지 못하고, 이곳에서는 자신의 하늘이 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+jade gem
+[[gem]]
+
+불의 시글스는 이 보석 안에서 깊이 불타고, 나가와 살라망더 사이의 영원한 컴팩트함을 상징합니다. 그들의 결합은 불순물을 쏟아내는 불순물과 불꽃을 쏟아내는 독입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+lightning rod
+번개의 피할 수없는 폭발을 발사 할 수있는 막대. 연속 배출은 방전을 지속시켜 전력 레벨을 최대 4 배 증가시키고 폭발이 지역에 영향을 줄 수 있도록합니다. 폭발의 강도는 배출 기술로 증가하고, 재진입 폭발의 경우 영향 영역의 크기로 감소합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+long sword
+길고 깜박이는 칼날이 있는 검.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+lupine talisman
+늑대 펠트의 스크랩으로 만든 그린 아이패치. 착용자를 악의 늑대로 변형시키고, 잔인한 본능으로 급증합니다. 이 형태로 근접 공격으로 적을 죽이면 손상과 정확성에 상당한 보너스를 줄 것이며, 그 중 일부를 연속으로 죽이면 여전히 공포에 휩싸인 살아 있는 암소가 생기게 됩니다. 그리고 그들은 잠깐의 도약에 실망하게 만듭니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mace
+메탈 헤드가 있는 쇼트 클럽.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+manual
+특정 기술을 더 빨리 배울 수 있는 귀중한 책.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+maxwell's memoranda
+악명 높은 맥스웰의 계획, 다이어그램 및 계획의 느슨하게 결합 된 컬렉션. 그의 많은 미니언, 편리함과 증오 라이벌에 의해 작성된 메시지 가운데, 환자 독자는 전력의 주문을 발견 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+maw talisman
+일부 열악하고 잔인한 생물의 명쾌하고 세련된 머리. 착용자의 중간 부분을 거대한 입으로 변환하고, 긁고 적을 물리칠 준비가되었습니다. 이 매는 착용자의 힘으로 확장되고 일시적인 증가에 대한 갈망을 악화시킬 수있는 강력한 물린 공격을 제공합니다. 불행히도, 그것은 또한 특히 식욕을 돋우는 적으로부터 자신을 끌어 당기기 어려울 수 있다는 엄청난 기아를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+medusa talisman
+인장으로 새겨진 화석화된 젤리피쉬 폴리프. 착용자가 공격할 때마다 근처의 적에게 채찍질하는 착용자의 머리에서 긴 쏘는 힘줄을 앓습니다. 호스트의 삶이 위험에 처해 있다고 느낄 때 이러한 중독된 적을 돌로 바꿀 수도 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+midnight gem
+[[gem]]
+
+돌 태생은 선물과 경고로 지구의 가장 깊은 곳에서이 보석을 내놓았습니다. 조트를 조심하십시오! 조트의 힘 안에 지금 놓여 있다는 것은 모두 필사자와 운명의 타의 추종을 불허하다는 확실한 증거입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+milky-white gem
+[[gem]]
+
+거미의 실크처럼 부드러운, 어두운 곳에서 너무 오래 살았던 일부 크롤링 사물의 눈처럼 흰색,이 보석은 무서운 잠재력으로 쏟아져 있습니다. 여전히 특정 눈에는 이상한 매력이 있습니다...
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+morningstar
+짧은 스파이크로 덮인 머리가 있는 맥아.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mossy gem
+[[gem]]
+
+진흙과 머그잔으로 뽑았지만 여전히 독특한 존엄성은 이 보석에 자신을 부착합니다. 이 돌을 처음 들고 난 늪의 사람들은 불운한 확률에 맞서 투쟁했습니다. 그들은 실패했지만 노력 중단에도 존경할 것이 많습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+my sojourn through swampland
+유명한 자연 주의자의 개인 계정이라고 주장하면서이 책은 여행 마법의 서커스의 무대 손의 메모를 포함하여 여러 비공식 출처에서 수집되었다는 것을 읽을 때 분명히됩니다. 여행은 허구 일 수 있지만, 여백에주의 깊게 기록된 일부 주문 다이어그램은 매우 사실적 인 것 같습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+necronomicon
+매우 희귀 한 책, 강력하고 죄인. 많은 어리석은 마술사들은 통제 할 수 없었던 괴상한 세력에 얽힌 자신을 찾기 위해이 시간을 연구하려고 노력했습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+orb
+방패를 대신하여 수행 크리스탈의 구체. 마법은 내부에 신틸레이트.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+orcbow
+트롤-본과 워그 헤어로 정성스럽게 제작된 재귀 활. 동굴 오크의 양궁 사용은 표면 거주 양궁과 달리 타원 양궁의 영향을 보여줍니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+parchment
+마법에 대한 간략한 텍스트, 아마도 더 큰 작품에서 발췌. 그것은 하나의 마법에 대한 지식이 포함되어 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+partisan
+창머리 양쪽에 날카로운 돌출이 있는 긴 기둥.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+phantom mirror
+근처 생물의 반사를 만들 수있는 손 거울, 과정에서 구름. 반사의 지속 시간은 에코브 기술로 증가하고 대상의 의지력으로 감소합니다. 그것은, 변함없이, 그것이 거울 생물보다 약간 약한.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+plate armour
+단단한 금속 격판덮개의 가득 차있는 한 벌: cuirass, pauldrons, vamboraces, 허리 격판덮개 및 무덤. 그것은 우수한 보호를 제공한다
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+potion of ambrosia
+유령 나방에 의해 생성 된 이상한 물질. 그것을 소비하면 총 환불과 함께 건강과 마법의 회복이 발생합니다. 두 가지 효과는 서로 연결되어 있습니다. 반복은 혼란이하는 순간을 종료합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+potion of cancellation
+가장 마법 효과, 좋은 또는 나쁜, 그것을 마시는 사람에 영향을 미치는 종료 물약. 그것은 또한 마법의 마법을 줄일 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+potion of curing
+소량의 건강을 회복하고 독과 혼란을 치료하는 물약.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+potion of haste
+술에 취한 사람의 행동을 가속화하는 마법같은 음료.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+potion of heal wounds
+상처가 거의 즉시 닫히고 치유되는 마법의 치유 엘릭서.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+potion of lignification
+수액으로 수액과 무기를 들고 할 수있는 가지로 섬유를 애니메이션 트리로 변환하는 물약. 이러한 나무는 최소한의 회피하지만 건강과 자연 갑옷을 증가, 독에 저항하고, 고통과 드로닝에 면역이다. 그러나, 그것은 변형이 지속되는 동안 제자리에 뿌리를두고, 텔레포트 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+potion of magic
+마법의 에너지를 주입하는 귀중한 물약.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+potion of moonshine
+강력한 알코올, 호르몬의 일부 모호한 구석에 증류. 그것을 마시는 동안 강도의 정확성, 회피 및 맞춤법을 줄일 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+potion of attraction
+술꾼이 적들을 끌어들이게 하는 물약으로, 효과 기간 동안 빠르게 더 가깝게 만듭니다. 효과는 놀랍도록 미묘하며, 원치 않는 피해자는 완전히 잠이 들 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+prismatic gem
+[[gem]]
+
+무지개의 모든 색상과 다른 몇 가지 색상으로 빛나는 일부는이 보석을 '약속'으로 간주합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+protean talisman
+뭔가 원초적의 끊임없이 변화하는 조각; 그 물질은 살과 뼈 사이에 그리고 아마도 심지어 금속 사이에 undulate 것 같습니다. 충분히 숙련 된 셰이퍼는 사용 가능한으로 안정화 할 수 있습니다 - 경우 - 형태.
+
+(모양 이동 기술이 최소 6인 경우 이를 켜려고 하면 Rimehorn, Scarab, Medusa 또는 Spore talismans 중 하나의 임의의 것으로 변환됩니다.)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+quicksilver dragon scales
+QuickSilver 용의 규모. 그것은 일부 이상한 용의 규모만큼 보호 그 착용자를 제공하지 않지만, 다소 가볍고 덜 매력적입니다. 갑옷은 착용자의 의지와 마법 같은 자체 수정에 대한 공격을 모두 격퇴합니다. 마법은 깨지지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+quick blade
+그것에 비열한 마법을 가진 단검은, 그것이 그것의 창녀가 만드는 매 한번마다 두번 치는 것을 허용합니다. 그것의 잠재력을 최대한 발휘하기 위하여 사용하는 중대한 기술이 걸립니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+quill talisman
+선인장을 연상시키는 스피니 트렁킷. 날카로운 퀼이 착용자의 몸 전체에 자라게 하여 근접으로 공격하기에 충분하지 않은 사람에게 부상을 줄 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rapier
+놀랍도록 우아한 디자인으로 날씬하고 날카로운 검.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+riddle talisman
+알 수 없는 상품이 포함된 매력적인 퍼즐박스. 착용자를 수수께끼를 좋아하는 썰매로 변형시킵니다. 이 형태로 그들은 {{
+    if you.race() == "Felid" then
+        return "일반적으로 클로크와 바딩을 착용할 수 있지만" ..
+               " 자신의 축소 크기는 이것을 방지 할 것이다)"
+    else
+        return "3. 겉감 및 겉감 착용 가능"
+    end
+}}이며 근접 공격으로 인해 강력한 바람이 적을 공격하여 옆에 있는 모든 열린 공간에 대한 피해를 입습니다. 그들은 또한 마스터풀 인챈터이며 육각 주문을 훨씬 더 쉽게 주조하고 원수의 의지력의 일부를 무시합니다.
+
+아아, 수수께끼에 대한 그들의 사랑은 너무 강박하여 가장 모험적인 모험가조차도 이것이 아무리 무의식적일지라도 그들이 만나는 새로운 적에게 포즈를 취하는 것을 저항할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rimehorn talisman
+희귀 한 북극 짐승의 뿔에서 뚱뚱한 소리 - 너무 추워서 얼음이 여전히 그것에 달라 붙습니다. 착용자를 림 얕으로 변형시켜 추위에 매우 저항력이 있으며 숨이 너무 뻣뻣하여 싸움에 따라 주변 벽을 얼립니다. 북극 온도에 너무 적응하면 착용자가 얼음 마법을 쉽게 캐스팅 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ring mail
+금속 반지의 덮개로 강화 된 가벼운 가죽 정장. 전투 중 보호되지만 추가 무게로 인해 약간 불편합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ring of flight
+착용자 비행을 부여하는 링.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ring of resist corrosion
+산과 부식의 영향으로부터 착용자를 보호하는 링.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ring of positive energy
+부정적인 에너지의 영향으로부터 착용자를 보호하는 링.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ring of protection from fire
+착용자를 화재로부터 보호하는 링.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ring of willpower
+착용자의 의지력을 높이는 링으로 특정 마법의 효과를 방지합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+robe
+가벼운 천으로 만든 크고 느슨한 피팅, 넓은 소매 외부 의류. 물리적 손상에 대한 보호가 거의 없지만 회피 또는 맞춤법을 방해하지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sack of spiders
+짠 실크 가방. 그것을 열면 웹, 거미 및 기타 스커트로 영역을 덮을 것입니다. 에보션 기술은 거미 품질, 수량 및 웨빙을 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sanguine talisman
+눈에 보이지 않는 심장의 비트로 펄스하는 썩은 혈액의 병. 삶과 사망 사이의 경계를 뚫는 생물 인 무서운 뱀파이어로 착용자를 변형시킵니다. 그들은 생명의 피를 마셔 자신을 치유하고, 심지어 그들을 도둑질로 파괴하지만, 괴물의 존재에서 치유하지 않습니다. 큰 노력으로, 그들은 박쥐 떼로 흩어질 수 있습니다 - 도망하거나 적을 공격합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sanguine gem
+[[gem]]
+
+죽음 자신을 파괴하고 자신의 제작의 무덤에 자신을 장사하는 사람들은 그들의 범죄에 부끄러워하지 않았다. 그들의 주님은 그들의 가슴에이 보석과 함께 자신의 영원한 불안에 여행, 빽빽한 거품을 잡아하고 교만을 압도하지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scarab talisman
+딱정벌레의 작은 황금 카메오. 작은 태양과 같이 열을 가하고 빛 외부를 돌고 있는 지저분한 곤충인 태양 딱정벌레로 착용자를 변형시킵니다.
+
+이 태양 뱃속은 딱딱한 공격이 있을 때마다 인접한 적들을 태우고, 그것으로 교체하여 치유할 수 있습니다. 또한, 딱딱한 자신의 만두는 적의 내화성을 감소시킬 수 있으며, 착용자가 더 쉽게 발사할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scarf
+세련된 직물의 길이. 그것의 창조에서, 마법은 그것으로 짠, 그래서 그것은 추가 마법을 받아 들일 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scimitar
+넓은 곡선 블레이드를 가진 긴 검.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scroll of butterflies
+아름다운 나비의 비행으로 사용자를 둘러싸고있는 스크롤은 날개의 플랩으로 근처의 다른 생물을 불어 넣습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scroll of enchant armour
+독자가 선택한 갑옷 조각에 마법을 놓는 스크롤. 바디 갑옷과 바딩은 기본 갑옷 등급과 동일한 값으로 마법을 낼 수 있습니다. 버클러, 연신 방패 및 타워 방패는 각각 +3, +5 또는 +8까지 마법을 칠 수 있으며 다른 갑옷은 최대 +2까지 마법을 칠 수 있습니다. 마법의 유물은 전혀 마법을 칠 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scroll of enchant weapon
+정확성과 손상을 모두 증가시키는 독자가 선택한 무기에 마법을 배치하는 스크롤. 무기는 최대 +9까지 마법을 할 수 있습니다. 마법의 유물은 전혀 마법을 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scroll of noise
+읽을 때 큰 소음을 생성하는 장난 스크롤.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scroll of poison
+독성 독성으로 시야에 모든 점유되지 않은 공간을 커버, 독으로 공기를 채우는 스크롤.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scroll of silence
+리더 근처에 있는 모든 사운드를 제거하는 스크롤입니다. 이렇게 하면 읽기 스크롤, 캐스팅 맞춤법, 신성한 능력 또는 독자의 근처에서 불가능하게 발생합니다.
+
+특정 괴물은 침묵하는 동안 여전히 사용할 수있는 타고난 마법이나 특별한 능력을 가지고 있습니다.
+
+이 효과는 큰 반경으로 시작하여 시간이 초과되기 전에 결국 독자 만 덮습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scroll of torment
+어둠의 힘을 요구하는 두루마리는 독자를 포함하여 주변 생물에 큰 고통을 가합니다! 이것은 모든 생물의 회복을 반으로 줄이고 모든 거룩한 생물의 회복을 약 3 분의 1로 줄입니다. 그러나 결코 직접 치명적이지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scroll of vulnerability
+독자와 주변 존재의 의지력을 잠시 반으로 줄인 스크롤을 통해 많은 마법의 효과에 취약합니다. 스크롤은 이러한 효과에 대한 완전한 면역에 영향을 줄 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+serpent talisman
+화석화된 달걀을 감싼 옥 뱀. 전설적인 두 머리 뱀인 암피스바에나로 착용자를 변형시킵니다. 한 번에 두 개의 헤드 기어를 착용할 수 있으며 강력한 코일은 적을 돌며 죽일 수 있지만, 차가운 혈액은 차가운 공격에 의해 느려질 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+shining gem
+[[gem]]
+
+많은 사람들이 철권 주문의 보물이지만이 강철 빛나는 보석보다 오래되거나 더 귀중한 것은 없습니다. 볼트는 먼저 그것을 잡으려고 노력했으며 깊이 내에서 관찰 한 사람은 선택을 잘못 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+shimmering gem
+[[gem]]
+
+이 보석의 표면을 따라 부드럽게 흘러가며, 처음 엘프 홀을 지은 대주교가 인도합니다. 수많은 세대의 엘프가 그녀에게서 배우기 위해 몰려 왔지만 그녀의 추구는 항상 이 예술의 정점이었습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+shop voucher
+귀하의 자금을 초과하는 구매를 할 때 자동으로 사용할 수 있도록 증권 거래소의 모든 상점에서 모든 가격의 한 품목에 적합한 쿠폰. 얼마나 관대! 고객 당 구매당 하나의 쿠폰. 가용성에 의해 제한. 훼손되거나 다른 변경 된 경우 무효. 조트 및 그 자회사의 중개자 내에서만 유효합니다. 추가 구매가 필요하지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+shortbow
+화살표 촬영을위한 나무와 문자열의 곡선 조각.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+short sword
+짧은 그립을 가진 개인 밟는 무기.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+smoky gem
+[[gem]]
+
+어두운 연기의 소용돌이는이 보석의 깊이에 숨어있는 것 같습니다. 조트가 포착하고 개조하기 전에 던전에서 수많은 어두운 행동이 수행되었으며, 그들의 무서운 잔해는 이제 그 한계 내에서 아름다움의 힌트를 얻습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+spider talisman
+헛간 아치니드 엑소켈레톤으로 만든 이상한 매력은 실크와 함께 묶입니다. 착용자를 적을 향해 빠르게 움직이고 무지하게 잡는 모든 것에 심각한 피해를 줄 수 있는 민첩한 저격수로 변환합니다. 웹에 의해 포위될 수는 없지만 공격은 적에게 침입할 수 있습니다. 또한 많은 위험에서 급격히 도약할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+spore talisman
+아직도 살아있는 버섯으로 만든 작은 매력. 착용자의 팔과 하체 부위 중 하나를 다양한 색상의 버섯의 활기찬 덩어리로 변형시킵니다. 이 형태의 근접 공격은 포자를 방출하여 표적을 약화시킬 뿐만 아니라 버섯이 그들 뒤에 땅에 쏟아져 자라는 것을 허용하면 놀라운 포자의 자신의 파열을 방출합니다. 성형 기술은 이러한 버섯의 내구성과 손상을 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+staff of air
+용접기에서 공기 마법이 숙련 된 경우, 그들은 방어자의 갑옷의 절반을 우회 전기 손상을 처리, 그것에 의해 공격 사람들을 충격 할 수 있습니다. 그들은 또한 방어자의 갑옷의 절반을 우회 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+staff of alchemy
+용접기에서 주조된 연금술 주문의 힘을 높이고 중독의 영향으로부터 그들을 보호하는 직원. 용접기가 Evocs 및 연금술에 숙련 된 경우, 그들은 그것에 의해 뚫린 사람들을 포위 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+staff of cold
+얼음 주문의 힘을 증가시키는 직원은 용접공에 의해 주조되고 추위의 영향으로부터 그들을 보호합니다. 용접공이 에코베이션과 아이스 매직에 숙련 된 경우, 그들은 그것에 의해 뚫린 사람들을 얼릴 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+staff of necromancy
+그 유역에 의해 주조되는 네크로맨틱 주문의 힘을 증가시키고 부정적인 에너지로부터 그들을 보호하는 직원. 유역이 에코케이션스 및 네크로맨시에서 숙련 된 경우, 그들은 갑옷을 우회하는 부정적인 에너지 피해를 처리, 그들이 공격하는 살아있는 영혼에 큰 고통을 억제 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+staff of earth
+지구의 힘을 증가시키는 직원은 그 들판에 의해 캐스팅 주문. 들판은 에코와 지구 마법에 숙련 된 경우, 그들은 그 아래에 뚫린 땅을 파괴 할 수 있습니다, 상당한 피해를 처리 - 훨씬 적은 생물 비행.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+staff of fire
+4. 그 용접공에 의해 던져지는 화재 주문의 힘을 증가시키고, 화재의 영향으로부터 그들을 보호하는 직원. 용접공이 에코베이션과 화재 매직에 숙련 된 경우, 그들은 그것에 의해 공격 사람들을 구울 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+starry gem
+[[gem]]
+
+이상한 조명은이 보석의 깊이 내에서 반짝입니다. 어떤 이상한 물건이 만들어 졌습니까? 그리고 어떤 육지에서 여행 했습니까?
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+steam dragon scales
+증기 호흡 용의 규모. 일부 큰 용의 규모와 달리 착용자에게 많은 보호 기능을 제공하지는 않지만 (스팀 확장에 대한 저항 이상의) 매우 가볍고 유연합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+shadow dragon scales
+큰 우산 용의 규모. 그것은 대부분의 용 규모 갑옷보다 더 큽니다, 그러나 그것의 함락은 착용자의 스텔스를 처벌하지 않습니다. 그것은 또한 착용자에게 추가 스텔스를 부여합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+storm talisman
+번개는, 어쩌면, 병에서, 불가능. 착용자는 격렬하고, 번개로 가득 찬 폭풍으로 공기를 통해 걸을 수 있습니다. 착용자의 근접 공격은 전기화되고 모든 인접한 적을 공격합니다. 착용자는 또한 도둑질하고, 독, 미사스마, 양탄자, 수축 및 끈적임에 영향을 미치며, 전기도 저항합니다. 그들은 번개 볼트로 자신을 시작할 수 있으며, 모든 것을 그들의 방식으로 관통할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+talisman of death
+아픈 의식을 통해 어두운 힘으로 주입 된 회색 검은 색 용기. 착용자를 생명 자체에 대한 무의미한 범죄로 변환합니다.
+
+착용자의 근접 무기나 손에 갇힌 적들은 약해지고, 느려지고, 배수됩니다. 착용자는 또한 근처 살아있는 적을 괴롭힘으로써 스스로 치유할 수 있습니다. 형상 전환 기술은 치유량을 증가시킵니다. 또한 착용자는 추위에 저항하고 의지력을 향상시켰으며 독, 미사마, 부정적인 에너지 및 고통에 면역을 제공합니다.
+
+착용자는 또한 언데드 바디의 더 모호한 이점 중 일부를 얻습니다. 그들은 거룩한 손상과 언데드를 제압하는 데 취약하며, 물약을 소비할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+there-and-back book
+훌륭한 모험에 대한 어린이 이야기의 편집, 항상 그들이 시작한 장소로 돌아 오는 여행자로 끝납니다. 수많은 세대에 의해 페이지에 주입 사랑은 그것을 힘을 부여, 특정 구절을 암송하여 다른 사람을 수송하는 숙련 된 마법사 수 있도록.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+throwing net
+가장자리 주위에 무게와 함께 매듭 로프의 메쉬, 대상 얽히고 얽혀하는 데 사용됩니다. 투쟁 피해자는 결국 그물을 파괴하고 충분히 오래 살 경우, 무료로 파괴 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+tower shield
+나무와 금속의 큰 조각, 방어를 위해 하나의 팔에 스트랩 될.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+tin of tremorstones
+작고 매우 무거운 자갈 형태의 휴면, 자성 지구 원소 세트. 방출되면 원소가 근처의 괴물의 중심에 자적으로 그려지며, 여기서 그들은 휴식을 방해 할 때 분노로 수직으로 폭발합니다. 트레모스톤은 일반적으로 약간 오프 타겟을 착륙하며 사용자는 항상 타격을 입을 위험이 있습니다. 그러나 갑옷은 트레모스톤의 폭발에서 암석의 가벼운 조각을 격퇴하는 데 매우 효과적이므로 잘 무장한 용접공은 거의 두려워하지 않습니다. 에보션 기술은 폭발 수를 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+treatise on traps
+분석 볼륨 논의 방법 및 트랩의 어지러운 배열을 구축 할 수있는 재료 - 심지어 가장 슬프게도 건축가를 기쁘게하는 개미에서 하나에 안뜰을 보호하기 위해 의도에서.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+trismegistus codex
+수학적으로 집착하는 마법사에 의해 작성된 마법의 책. 문장 길이에서 전체 조직에 이르기까지 모든 것이 구조화됩니다. 저자가 이것이 도움이되었다고 생각했는지 여부는 확실하지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+triple crossbow
+3개의 현이 배열된 크로스보우는 처음에는 포위 무기로 설계된 다음 축소된 탁월한 전력을 제공합니다. 로드하고 발사하는 데 상당한 시간이 걸립니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+triple sword
+마스터 장인이 만든 강력한 무기입니다. 칼의 칼날은 세 가지 큰 면도기 날카로운 가장자리로 포크합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the unrestrained analects
+'명확한 샷 필요'또는 '불명한 손상에 대한 우려'와 같은 사소한 제한에 의해 구속되지 않는 시전자의 눈에 모든 것을 공격하는 주문의 모음입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wand of acid
+부식성 산 볼트를 던지는 마법의 장치입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wand of charming
+생물을 맹렬하게 만드는 마법의 장치이지만 사용자에게 간단히 충성스럽게됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wand of flame
+불꽃의 작은 퍼프를 던지는 마법의 장치입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wand of iceblast
+얼음 파편의 큰 폭발을 만드는 마법의 장치는 추위에 대한 피해자의 저항의 절반을 우회.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wand of light
+선광, 부상 및 그 타격을 실명하는 광선을 발사하는 마법의 장치입니다. 살아 있고, 죽은, 악마 및 천사 적 괴물 만 실명 될 수 있으며, 더 강한 괴물이 자신의 비전을 더 빨리 회복 할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wand of mindburst
+대상 생물에 대한 심리적 공격을 시작하는 마법의 장치입니다. 자신의 의지력을 극복하면 폭력적으로 문학적인 방식으로 '마음을 날려 버리는'것으로 갑옷을 완전히 우회하는 피해를 입습니다. 무의미한 생물에 대해 쓸모가 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wand of paralysis
+사지를 움직일 수 없는 생물을 움직이지 않게 렌더링 할 수 있는 마법의 장치입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wand of quicksilver
+파괴된 에너지의 빔을 발사하는 마법의 장치로 생물에 마법을 내뿜습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wand of roots
+마법의 씨앗을 발사하여 빠르게 자라는 나무 뿌리에서 대상과 인접한 적을 얽히는 마법의 장치입니다. 얽힌 것은 움직이지 않고 시간이 지남에 따라 손상 될 것입니다. 그들은 탈출하거나 뿌리가 더러워질 때까지. 뿌리는 단단한 땅에서만 얽혀집니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wand of warping
+우주에서 간단하지만 폭력적인 리프트를 만드는 마법의 장치로, 모든 것이 깨어나고 때로는 짧은 거리를 방해합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+war axe
+긴 샤프트와 단일 블레이드 헤드가 있는 군사 축.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wellspring talisman
+작은 암포라로 끝없는 양의 물을 붓습니다. 착용자의 육체를 원소 물로 변환하여 유연하게 이동하고 먼 거리에서 공격에 도달 할 수 있습니다. 때때로 그들은 주변의 물이 상승하여 적을 익힐 수도 있습니다.
+
+이 물의 몰레빌리티를 사용하면 물리적 돌연변이의 이점을 유지할 수도 있지만 차가운 공격은 단단하게 고정될 수 있으며 화재로 인해 증기가 분출될 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+young poisoner's handbook
+독의 마법 예술을위한 책. 독자는 매우 두껍고 흡수성이없는 장갑 한 켤레를 착용하는 것이 좋습니다.

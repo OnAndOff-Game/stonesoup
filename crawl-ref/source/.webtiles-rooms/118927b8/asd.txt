@@ -1,0 +1,121 @@
+ Dungeon Crawl Stone Soup version 0.34.1 (webtiles) character file.
+
+Game seed: 5858048341911428016
+
+asd the Caller (Poltergeist Summoner)                  Turns: 3, Time: 00:00:28
+
+Health: 11/11      AC:  2    Str:  4    XL:     1   Next: 0%
+Magic:  3/3        EV: 11    Int: 17    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire   . . .  (100%)     - Nothing wielded
+rCold   + . .  (50%)    (no offhand)
+rNeg    + + +  (0%)     식물 - +1 cloak
+rPois   ∞      (0%)     (no armour)
+rElec   .      (100%)   (no armour)
+rCorr   .      (100%)   (no armour)
+SInv    .               (no armour)
+Will    .....           (no armour)
+Stlth   ++              (no amulet)
+HPRegen 0.21/turn       (no ring)
+MPRegen 0.08/turn       (no ring)
+
+%: 수동 효과 없음
+@: 날아다닌다
+A: insubstantial, cold resistance 1, negative energy resistance 3, torment
+resistance 2, float, formless 1, trickster, accursed
+a: 특수 능력 없음
+
+
+You are on level 1 of the Dungeon.
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +1 cloak (haunted)
+Potions
+ g - a potion of magic
+
+
+   Skills:
+ + Level 2.1 Dodging
+ + Level 3.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 4.0 Summonings
+
+
+You have 3 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Summon Small Mammal   Summ           60%        N/A       3%          1
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Call Imp                 Summ           30%        N/A       5%          2
+ Call Canine Familiar     Summ           15%        N/A       11%         3
+ Eringya's Surprising Cr  Summ           15%        N/A       36%         4
+ Summon Seismosaurus Egg  Summ/Erth      8%         N/A       63%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+던전 (1/15)             
+
+Altars:
+
+
+타고난 능력, 기만 및 돌연변이
+
+당신은 불신자이며, 불신자, 또는 설정 될 수 없습니다.
+당신은 독에 면역이 있습니다.
+당신은 추위에 저항합니다. (rC+)
+당신은 부정적인 에너지에 면역입니다. (rN++)
+당신은 사악한 고통에 면역이 있다.
+당신은 걷는 것이 아니라 공기를 통해 떠납니다.
+어떤 조합으로도 최대 6개의 오드 갑옷을 장착할 수 있습니다.
+인근 적에게 마법 같은 불행을 가할 때 AC를 얻습니다.
+둠과 베인에서 더 느리게 복구됩니다.
+
+Message History
+
+Asd (Poltergeist Summoner)의 모험을 시작합니다.
+Will you be the one to retrieve the breathtaking Orb of Zot from the depths?
+을(를) 해제할 것인가?를 누르면 명령 일람 및 기타 정보를 확인할 수 있습니다.
+Found 13 gold pieces and a marble ring을(를) 느꼈다.
+Found a staircase leading out of the dungeon.
+네, 그러세요.
+Found a glowing dagger을(를) 느꼈다.
+Found a mace.
+
+####♣♣###
+.......~#
+.♣......##
+.........##
+).......<.##
+...........#
+...♣.......#
+.......@..♣#
+...........#
+...$.......#
+...........#
+.......=♣..#
+...⌠......♣#
+...).......
+........♣.##
+
+
+There are no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | asd the Poltergeist Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 11/11 MP: 3/3
+
+Illustrated notes
+

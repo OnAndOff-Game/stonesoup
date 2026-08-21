@@ -1,0 +1,170 @@
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+flame cloud
+맹렬한 화재의 구름. 화재에 완전히 면역되지 않는 모든 생물은 불꽃에 보낸 시간에 의해 다칠 것입니다.
+
+클라우드를 통과하는 다양한 콜드 공격은 범위의 축소되어 프로세스에서 클라우드를 분산시킵니다.
+
+물 근처 또는 위에 배치하면 열이 근처에 증기를 생성합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+noxious fumes cloud
+악하고 질식하는 곤충의 구름. 그 안에 있는 어떤 생물 지출 시간든지 독에 저항하지 않는 한, 가스에 의해 혼동되는 위험에 있을 것입니다. 더 단단하고, 더 경험있는 생물은 영향을 받을 가능성이 적습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+freezing vapour cloud
+냉동 공기의 구름. 추위에 완전히 면역되지 않는 모든 생물은 내부에 보낸 시간에 의해 다칠 것입니다.
+
+클라우드를 통과하는 범위화된 화재 공격은 범위가 크게 감소하여 프로세스에서 클라우드를 분산시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+poison gas cloud
+치명적인 독성의 구름. 독에 대한 저항이없는 모든 생물은 중독되고 그 안에 보낸 시간에 의해 직접 해를 입을 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+_smoke_cloud_
+색 연기의 구름. 천식을 제외하고 무해한.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+black smoke cloud
+
+<_smoke_cloud_>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+grey smoke cloud
+
+<_smoke_cloud_>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+blue smoke cloud
+
+<_smoke_cloud_>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+purple smoke cloud
+
+<_smoke_cloud_>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+translocational energy cloud
+최근 여기에 있었지만 더 이상 멀리 떨어져 있지 않은 일부 생물의 나머지, 레벨, 또는 현실 그 자체의 모든 길을 가로 질러. 일부 마법사는 우주 재채기; 불가능한 방법으로 공간을 휘두르는 마법에 대응하여 우주가 생성하는 일종의 "알레르기 반응"이라고 말합니다. 아마도 물질적으로 총적이지만 그렇지 않으면 무해합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+spreading flames cloud
+맹렬한 숲 화재. 화재에 완전히 면역되지 않는 모든 생물은 화염에 소비 된 시간에 의해 다칠 것입니다. 화염은 조심스럽게 불이 더 적은 화재로 주변 지역을 가득 채울 것입니다. 근처에있을만큼 운이 좋은 나무는 종종 화재에 대해 더 많은 친절로 전환되는 것을 발견 할 것입니다.
+
+클라우드를 통과하는 다양한 콜드 공격은 범위의 축소되어 프로세스에서 클라우드를 분산시킵니다.
+
+물 근처 또는 위에 배치하면 열이 근처에 증기를 생성합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+steam cloud
+확장 증기의 구름. 안에 붙잡힌 생물은 경미하게 상해될 것이다, 그리고 내화성은 또한 손상을 감소시킬 것이다
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ink cloud
+완전히 물을 채우는 잉크의 구름.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+calcifying dust cloud
+더 많은 경험 많은 생물이 효과를 저항 할 수 있지만, 어떤 시간 동안 구름에 잡힌 생물은 돌에 돌로 돌 자신을 찾을 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+blessed fire cloud
+신성한 불 구름, 거룩한 권능으로 임박. 좋은 신들 중 하나의 봉사에 사람들은 그것에 의해 파괴 될 것입니다. 다른 모든 생물은 그것에 의해 다칠 것이며, 죽은 것과 악마의 생물은 크게 해로울 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+foul pestilence cloud
+# XXX: 정화된 가고일(gargoyles) 더러운 염병의 구름. 그 안에 붙잡혀 있는 모든 생명체는 중독된 자신을 발견하며 그들의 움직임이 느릴 수도 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+thin mist cloud
+얇은 안개의 구름. 대기,하지만 무해.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+seething chaos cloud
+관찰 혼란의 구름. 보이지 않는 것부터 베르세르크 분노, 완전한 마비에 이르기까지 클라우드 내의 사람들에게 다양한 예측 가능한 효과가 적용됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rain cloud
+매우 지역화 된 빗물. 그것은 얕은 물의 짧은 생활 풀을 생성 할 수 있습니다. 화재로 만든 존재는 비에서 많은 시간을 보내는 무너져있다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mutagenic fog cloud
+순수하고 비옥한 마법의 구름, 신기한 안개로 응축됩니다. 본질적으로 독성이 있는 마법 폐기물. 안에 있는 생물은 마법의 방사선으로 점점 더 혼란스러워지고 있으며, 그 중 충분한 양은 소멸할 때 부정적인 자극을 초래할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+magical condensation cloud
+완전히 무해, 일부 고도의 마법의 에너지의 깨달음.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+whirling frost cloud
+극지 소용돌이의 바람. 그것은 추위에 대한 저항에 의해 부분적으로 완화, 그 안에있는 사람에게 심각한 손상을 처리 할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sparse dust cloud
+스파스 먼지의 구름. 대기, 하지만 무해.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+spectral mist cloud
+스펙트럼 안개의 구름. 그것은 언데드 이외의 모든 생물에 약간의 손상을 초래합니다. 오래 동안 안개에서 단종하지만 수명이 짧은 스펙트럼 언데드 생물.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+acidic fog cloud
+그 안에 있는 사람들에게 손상을 입히고 부식을 적용할 육체 꿰뚫는 산의 구름. 부식에 저항은 그것의 효력에 면역을 제공할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+thunder cloud
+어두운 폭풍 구름. 번개 안에 있는 사람들을 우연히 공격하여 전기에 대한 저항 없이 사람들에게 심각한 피해를 입힙니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+excruciating misery cloud
+음의 에너지로부터의 보호는 효과를 완화할 것이지만, 살아있는 생물은 그들의 최대 건강의 작은 부분을 반복적으로 잃을 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+white fluffiness cloud
+흰색, 푹신한 구름. 실제로 베개로 사용할 수있을만큼 견고하지는 않지만 여전히 이상하게 평화롭습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+salt cloud
+급속히 소용돌이 먼지와 소금의 구름. 그것은 궁극적으로 무해하지만, 안에 잡힌 생물의 눈과 피부를 쏟아.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+golden dust cloud
+빛나는 황금 먼지의 구름. 그 안에있는 동안, 평의회의 추종자는 전투에 엄청난 힘을 얻습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+smouldering embers cloud
+부화 된 회원의 구름. 그것은 쉽게 그 위에 서있는 모든 생물에 의해 부화 될 수 있지만, 혼자 남아 있으면 불꽃의 거대한 구름에 점화됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wisps of flame cloud
+불꽃과 불꽃의 채찍의 흔적. 대기,하지만 무해.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+alcoholic mist cloud
+생물이 그냥 걸을 수 있도록 두꺼운 에어로졸 달빛의 안개.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+blastmotes cloud
+휘발성 블래스트모트의 구름. 불꽃이나 생물과의 접촉에 폭발합니다. 폭발은 간결하고 인접한 생물을 두드리는 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sparks cloud
+전기 불꽃의 흔적. 대기,하지만 무해.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+faint pestilence cloud
+더러운 염병의 가장 나쁜 힌트, 어딘가에서 빠져나갑니다. 아직 해로울 만큼 충분히 빽빽하지는 않지만 빠르게 악화되고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+magnetised fragments cloud
+자화 금속의 수많은 작은 조각의 구름은 여전히 최근 전기 방전에서 약간 진동합니다. 그들은 사라질 때까지 마그나볼트 주문의 매력으로 작동할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+bats cloud
+작은 뱀파이어 박쥐의 무리, 그래서 그들 모두를 계산하는 것이 불가능하다. 그들은 끊임없이 자신의 마음에 서있는 죽은 사람 만, 점차적으로 그들의 가난한 물린과 함께 잠을 자라고 아무것도 공격합니다 - 그리고 그들이 떨어지면, 자신의 무력 몸을 먹이를 계속.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rust cloud
+산화 증기의 구름은 지속적으로 부식하고 그 안에 서있는 모든 것의 공격을 약화시킵니다 (그러나 최소한의 손상만 함).

@@ -1,0 +1,28 @@
+2026-08-21 16:27:46,705 INFO: Loaded server configuration from: /c/Users/대양공업/Documents/Dungeon Crawl Stone Soup/crawl-ref/source/webserver/config.py
+2026-08-21 16:27:46,706 INFO: Loading config overrides from: '/c/Users/대양공업/Documents/Dungeon Crawl Stone Soup/crawl-ref/source/webserver/config.yml'
+2026-08-21 16:27:46,706 INFO: Using command-line supplied logfile: '<stdout>'
+2026-08-21 16:27:46,706 INFO: Command line override for daemonize: False
+2026-08-21 16:27:46,719 INFO: Reading 2 templates from /c/Users/대양공업/Documents/Dungeon Crawl Stone Soup/crawl-ref/source/webserver/games.d/base.yaml
+2026-08-21 16:27:46,719 INFO: Reading 5 games from /c/Users/대양공업/Documents/Dungeon Crawl Stone Soup/crawl-ref/source/webserver/games.d/base.yaml
+2026-08-21 16:27:46,932 INFO: Listening on http://0.0.0.0:8080
+2026-08-21 16:27:46,952 INFO: DCSS Webtiles server started! (PID: 161)
+2026-08-21 16:27:46,953 INFO: Webtiles () running with Tornado 6.4.2 and Python 3.12.9
+2026-08-21 16:27:48,162 INFO: #0     Socket opened from ip 127.0.0.1 (fd13, compression: on).
+2026-08-21 16:28:58,861 INFO: #1     Socket opened from ip 192.168.0.95 (fd20, compression: off, client request).
+2026-08-21 16:29:11,337 INFO: #1     P1     Starting game.
+2026-08-21 16:29:41,841 INFO: #1     P2     Starting game.
+2026-08-21 16:30:04,328 INFO: #1     P3     Starting game.
+2026-08-21 16:30:33,640 INFO: #1     Socket closed. (95.4 kilobytes sent, compression ratio 0.0%)
+2026-08-21 16:31:44,007 INFO: #0     P4     Starting game.
+2026-08-21 16:33:26,832 INFO: #2     Socket opened from ip 192.168.0.95 (fd24, compression: off, client request).
+2026-08-21 16:33:50,135 INFO: #2     Socket closed. (48.4 kilobytes sent, compression ratio 0.0%)
+2026-08-21 16:33:50,318 INFO: #3     Socket opened from ip 192.168.0.95 (fd24, compression: off, client request).
+2026-08-21 16:34:00,573 INFO: #3     P5     Starting game.
+2026-08-21 16:34:29,651 INFO: #3     Socket closed. (44.4 kilobytes sent, compression ratio 0.0%)
+2026-08-21 16:52:30,665 INFO: #0     Socket closed. (153.4 kilobytes sent, compression ratio 83.34%)
+2026-08-21 17:07:07,967 WARN: Slow IO: render client.html: 2.015s
+2026-08-21 17:07:14,365 INFO: #4     Socket opened from ip 192.168.0.227 (fd13, compression: on).
+2026-08-21 17:07:21,684 INFO: #4     P6     Starting game.
+2026-08-21 17:07:51,402 INFO: #4     P7     Starting game.
+2026-08-21 17:12:30,191 INFO: #4     P8     Starting game.
+2026-08-21 17:13:34,022 INFO: #4     Socket closed. (328.2 kilobytes sent, compression ratio 87.72%)

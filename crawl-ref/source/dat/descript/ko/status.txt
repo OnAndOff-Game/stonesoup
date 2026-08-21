@@ -1,0 +1,1053 @@
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Fast status
+당신의 모든 작업은 50% fSTER입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Invis status
+당신은 보이지 않습니다. 대부분의 적들은 당신을 볼 수 없으며 일반 위치에서 추측 할 수 있지만 공격으로 고통받을 것입니다. 상태가 회색으로 표시되면 어떤 이유로는 활동적이지만 효과가 없습니다 (예: 마법의 광채로 빛나거나 얕은 물에 서있는 경우).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Tele status
+당신은 텔레포트에 대한 것입니다. 텔레포트를 기다리는 동안 (예: 텔레포트 스크롤 사용) 상태를 다시 적용하려고 하면 텔레포트가 취소됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+!Tele! status
+가능한 경우, 당신은 치명적인 괴물을 향해 텔레포트에 대해하려고합니다. 이 일이 발생하기 전에 (예: 텔레포트 스크롤을 사용하여) 다시 텔레포트를 시도하면이 텔레포트가 취소됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Fly status
+지상으로 날아가는 중이고, 처벌 없이 물과 용암을 건너거나 얕은 물 위에서 싸울 수 있습니다. 대부분의 유형의 비행은 시간이 초과될 것입니다. 그렇게 되면 위의 내용을 주의 깊게 하십시오!
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Agi status
+당신은 자연스럽게 민첩하고, 당신의 회피에 보너스를 얻을 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Brill status
+당신은 비정상적으로 똑똑하고, 당신의 주문뿐만 아니라 (둥글) 그들의 마법의 비용을 절반의 힘에 보너스를 얻을 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Might status
+당신은 신체적 전투에서 훨씬 더 많은 피해를하고, 비정상적으로 강력합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Regen status
+비정상적으로 빠른 속도로 건강을 회복합니다. 이것은 일시적인 회복에만 표시됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Regen status
+주변 괴물이 존재하여 건강이 회복되지 않았습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+MPRegen status
+당신은 비정상적으로 빠른 속도로 건강과 마법을 회복합니다. 이것은 일시적인 회복에만 표시됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Touch status
+공격은 아무런 피해를 입히지 않지만, 공격이 당했을 때 혼란스러운 괴물을 겪을 가능성이 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Will++ status
+당신의 의지력은 많은 마법의 효과로부터 보호, 훨씬 더 강하다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Regen Will++ status
+트로그's Hand는 동시에 자연스럽게 빠른 속도로 건강을 회복하고 많은 마법의 효과로부터 당신을 보호하기 위해 의지력을 강화시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Berserk status
+당신은 서둘러 전투에 피해를 증가 처리, 그리고 건강을 증가,하지만 근접 이동 및 공격 이외의 대부분의 작업을 수행 할 수 없습니다. 상태는 당신이 혼란하지 않는 한 매우 빨리 마모됩니다, 그것은 만료 될 때 당신은 느리게 짧은 기간 동안 다시 베르베르 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Berserk status
+베르세크 분노에서 회복되고 있으며 짧은 기간 동안 다시 베르세크할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Bearserk status
+당신은 야만적 분노로 가득 차 있습니다! 당신은 흥겨운 피해를 입혀 있으며 건강을 크게 증가 시켰지만 이동 및 늪의 적보다 훨씬 더 많은 것을 할 수 없습니다. 당신이 실망하지 않는 한이 상태에 매우 빨리 부풀어 오르고 만료되면 속도가 느려지고 짧은 기간 동안 다시 참을 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Pois status
+중독이 되고 지속적으로 건강을 잃게 됩니다. 중독이 되면 현재 상태가 부분적으로 다시 색칠되어 다룰 최종 중독 피해를 표시합니다. 중독은 즉시 치료약으로 치료할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Conf status
+당신은 혼란스러워. 이동 또는 공격을 시도 할 때 임의의 방향으로 실망 할 수 있으며, 주문을 캐스팅하거나 물약 이외의 대부분의 항목을 사용할 수 없습니다. 혼란은 즉시 치료의 물약에 의해 치료 될 수있다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Contam status
+
+당신은 돌연변이 방사선으로 빛나고 있습니다. 이것은 시간이 지남에 따라 돌연변이를 유발할 수 있습니다 (일반적으로 음성). 또는 불안정한 마법이 폭력적으로 폭발함에 따라 피해를 입게 할 수도 있습니다. 또한, 당신의 광택은 가시성을 방지하고 스텔스를 줄입니다.
+{{
+    local dmg = you.contam_max_damage();
+    if dmg > 0 then
+        return "\n현재 오염 수준에 폭발할 수 있습니다. " ..
+               "influct up to검색 결과 " .. dmg .. " 손상."
+    end
+}}
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Drain status
+최대 건강은 부정적인 에너지에 의해 일시적으로 소모되었습니다. 이 상태는 대기로 마모되지 않지만 경험을 얻을 때 점차 만료됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Breath status
+호흡을 잡고 있으며 상태가 만료될 때까지 타고난 호흡 능력을 사용할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Breath status
+드로코니아 호흡 무기의 사용 가능 횟수를 나타냅니다. 표시등이 어둡게 표시되면 0이 있습니다. 그렇지 않으면 플러스 수가 사용 가능한 추가 사용을 나타냅니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Breath+ status
+
+<Breath status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Breath++ status
+
+<Breath status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Exh status
+- 당신은 소진되고 상태가 만료 될 때까지 소진을 일으키는 신성한 힘을 활성화 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Slow status
+모든 작업은 50% longer를 사용합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Para status
+당신은 마비되고 완전히 행동 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Sleep status
+당신은 자고 완전히 행동 할 수 없습니다. 손상을 입으면 깨어납니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Held status
+당신은 그물이나 거미 웹에 개최됩니다. 당신은 자유롭게 이동할 수 없습니다 대신 무료로 투쟁하려고 노력할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Constr status
+당신은 적에게 의해 제한되고 있습니다. 당신의 회피는 파괴되고 시간이 지남에 따라 피해를 입게됩니다. 당신은 그렇게하려고 시도함으로써 탈출하는 데 어려움을 겪을 수 있지만 적으로부터 멀어 질 수 없으며, 그렇게 여러 번 할 때 점점 더 성공하고 수축을 깨울 가능성이 높아집니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mesm status
+당신은 몰입되어 있으며 당신을 몰입시키는 괴물에서 멀어 질 수 없습니다. 효과는 책임 있는 괴물을 죽이거나 혼란스럽게 하거나 그들과 함께 시야를 깨는 것으로 깨질 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Fear status
+당신은 두려움으로 극복되며 두려움을 유발하는 괴물로 이동할 수 없습니다. 효과는 책임감 있는 괴물을 죽이거나 혼란스럽게 하거나 그들과 함께 시야를 깨는 것으로 인해 깨질 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Tele status
+텔레포트 또는 깜박임이 발생하지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Move status
+걸어다니거나, 날아다니거나, 날고, 날고, 등등은 할 수 없습니다. 다른 행동을 취할 수 있으며, 여전히 트랜지션을 통해 또는 밀고, 당기고, 등등으로 이동할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mark status
+당신의 위치는 함정이나 마법의 영향으로 표시되며 괴물은 당신을 더 정확하게 사냥하고 당신이 그들의 비전에 있지 않더라도 당신을 감지 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Fire status
+당신은 중간 기간 동안 손상을 일으키는 불로 덮여 있습니다. 이동은 화재를 훨씬 더 빨리 구타하고, 즉시 물을 파괴합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Fire+ status
+
+<Fire status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Fire++ status
+
+<Fire status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Corona status
+당신은 빛으로 둘러싸여있어 스텔스를 크게 줄이고 더 쉽게 공격 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Barbs status
+피부에는 헹구어 놓은 헹구어가 있어, 이동하면 손상을 입을 수 있습니다. 잠시 동안 그대로 남아 있으면 헹구어를 손상시키지 않고 제거할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Sick status
+당신은 아프고, 당신의 건강은 더 이상 회복되지 않을 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Vertigo status
+당신은 방향이 불명확하고 어지러우며 정확성, 회피 및 맞춤법을 줄입니다. 성공률.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Corr status
+부식의 심각성에 따라 물리 전투와 갑옷의 손상을 한 금액만큼 줄여 부식됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Flay status
+당신은 효과가 활성 상태로 유지되는 동안 심각한 손상을 일으키는, 염증성 상처에 덮여 있습니다. 염증의 소스를 파괴하는 것은 플래이밍에 손실 된 모든 건강을 복원합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Weak status
+근접 공격은 25% less 손상을 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Frozen status
+얼음으로 덮여 있고 이동 속도가 감소합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Sap status
+마법이 사라졌습니다. 마법을 던지면 마법에 접근하지 못하게되어 더 이상 주문을 던지지 못하게됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Cast status
+주문을 캐스팅할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Crippled status
+강도, 지능 또는 지독성 중 적어도 하나가 0 이하로 떨어졌습니다. 이 상황이 해결될 때까지 천천히 행동합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+DChan status
+당신은 죽은 사람을 채널링하고 있으며, 당신의 주변에서 죽은 살아있는 생물이 스펙트럼 종으로 키워지고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Vit status
+당신은 신성한 활력을 주고, 독, 혼란, 영양, 그리고 불안으로부터 보호하며, 당신의 힘, 지능과 손재주를 증가시키고 유지해 줍니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Will/2 status
+당신의 의지력은 약해져서 많은 마법의 효과에 취약합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Stone status
+당신은 뚫려, 완전히 행동 할 수 없습니다. 당신은 매우 쉽게 칠 수 있지만, 촬영 모든 손상은 실질적으로 감소된다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Petr status
+돌로 돌고 있습니다. 당신의 행동이 느려지고, 모든 피해는 약간 감소하며, 곧 완전히 뚫려질 것입니다 (돌 상태를 얻기).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Resist status
+화재, 추위, 전기, 독 및 산에 더 강합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Slime status
+당신의 용접 무기 또는 주먹은 슬림하게 코팅되어 있으며, 중립 슬림으로 타격 한 다음 살아있는 또는 기업 언데드 몬스터를 돌려줍니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Swift status
+당신은 빨리 땅을 덮고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Swift status
+당신은 천천히 땅을 덮고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+DDoor status
+일시적으로 해를 끼치지 않지만, 그 과정에서 죽음에 가까이 다가가고 효과가 활성화된 동안 치유에 의해 영향을 받을 수 없습니다. 주문이 만료된 후에는 즉시 재방송할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-DDoor status
+당신은 여전히 죽음의 문에 가깝고 짧은 기간 동안 죽음의 문을 다시 캐스팅 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Quad status
+쿼드 손상!
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Sil status
+당신은 침묵합니다. 이것은 읽기 스크롤, 캐스팅 주문, 신성한 능력, 또는 불가능을 외치게합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Flooded status
+폐는 액체로 가득 차 있어 호흡이 제대로 되지 않습니다. 이렇게 하면 읽기 스크롤, 캐스팅 주문 및 신성한 능력의 불가능을 방지할 수 있습니다. 또한 매 턴마다 비생식 손상을 입게 됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Stealth status
+당신의 스텔스가 크게 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Vortex status
+당신은 강력한 얼음 폭풍의 눈에 있습니다. 소용돌이가 퇴색 한 후, 짧은 시간 동안 다시 호출 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Vortex status
+당신은 불안정한 바람에 둘러싸여 있으며, 짧은 기간 동안 폴라 소용돌이를 다시 캐스팅 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Liquid status
+주변 지역을 유동화하여 해당 지역의 모든 생물의 움직임을 늦추고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Hero status
+전투 기술이 일시적으로 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Finesse status
+전투 속도가 크게 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Duel status
+오카와루 아레나에서 적을 격추하고 있으며, 승리하면 왔을 때 반환됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Disjoin status
+주변 괴물이 무작위로 멀리 떨어져 떨어져 버릴 수 있도록, 당신은 자신을 중심으로 공간을 불안정하게하고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Fugue status
+당신의 무기는 모든 적과 함께 증가하는 살인 보너스를 제공하여, 경멸의 영혼에 의해 일시적으로 강화된다. 최대 보너스에서, 공격의 목표에 인접한 적들은 고통 피해를 입는다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Debt status
+당신은 당신의 수단 이상으로 살았습니다. 부채를 취소할 수 있을 만큼 충분히 벌 때까지 다시 금을 지출할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Toxic status
+독성 에너지를 방출하고 있으며 주변 모든 생물에 지속적으로 중독을 가할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Recite status
+당신은 진의 법칙을 근처 괴물에게 암송하고 있으며 대상에 따라 다양한 효과가 있습니다. 암송을 마친 후에는 짧은 시간 동안 반복 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Recite status
+최근에 진의 법칙을 암송했으며 짧은 기간 동안 다시 암송할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rF- status
+당신은 화재에 더 취약합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rP- status
+독에 더 취약합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Bullseye status
+당신은 다른 적에게 발사되거나 던져지는 미사일을 유발하여 적에게 적에게 표적을 지정했습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Forest status
+당신은 임시 존재로 숲이 우거진 비행기를 호출하고, 당신의 원수를 손상 근처 나무를 진정.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Dragoncall status
+당신은 당신의 적을 공격하기 위해 강력한 용을 부르고 있습니다. 전화를 받는 각 용은 마법의 에너지를 소모합니다. 호출이 끝난 후에는 짧은 시간 동안 다시 발행 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Dragoncall status
+최근에 드래곤을 불러왔고 짧은 기간 동안 드래곤의 부름을 다시 방송할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Potion status
+당신은 물약을 깰 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rF+ status
+당신은 화재에 더 저항합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rC+ status
+당신은 추위에 더 저항합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rElec+ status
+전기에 더 저항력이 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Horr status
+당신은 당신의 주문뿐만 아니라 전투의 손상과 정확성을 감소, 인근 괴물의 두려워합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Scroll status
+스크롤을 읽을 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Cleave status
+근접 공격은 모든 인접 대상을 공격하여 망가집니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Ambros status
+건강과 마법을 회복하고 있지만 혼란스럽습니다. 혼란을 치료하는 것도 회복을 끝낼 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Surge status
+당신의 다음 사용 에보커블 장치는 당신의 마술의 일부의 비용으로, 그것의 힘을 향상시킬 것이다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Howl status
+무서운 호울은 당신의 마음에 반향하고, 당신을 공격하기 위해 강력한 생물을 불러일으킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Blood status
+당신의 몸은 당신이 심각하게 부상으로 남아있는 한 동안 갑옷 역할을, 코골이 혈액으로 덮여 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Channel status
+당신은 마법의 에너지를 채널링하고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Beast status
+당신은 괴물, 모피 짐승으로 변환되었습니다. 팔다리를 통해 맥동하는 맹렬한 에너지는 당신을 죽일 준비가 유지.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Flux status
+당신은 근본적인 수준에서 불안정합니다. 당신은 각 터치와 함께 적에게 마법의 혼란의 위험한 수준을 영향을 미칩니다. 충분한 오염은 매우 현지화 된 녹임을 유발하여 엄청난 피해를 입힙니다.
+
+그러나이 완화를 사용하면 무기, 방패 또는 신체 갑옷을 사용할 수 없습니다. 또한 빛나는, 스텔스를 줄이고 보이지 않는 것을 방지하고, 사지가 때때로 중간 스윙을 불안정하게하기 때문에 근접에서 덜 피해를 입습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Serpent status
+당신은 거대한, 냉혈, 독에 강한 뱀으로 변환되었습니다, 원수 주위에 코일을 감아 죽음에 분쇄 할 준비가되어 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Maw status
+중거리는 거대한 입으로 변하고, 밀고 적을 물리칠 준비가 되어 있습니다. 입은 벼룩을 앓고, 성형 기술과 고기의 힘으로 인해 더 많이 치유될 수 있습니다. 기술은 또한 잔디에 의해 발생하는 손상을 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Statue status
+당신은 느리지만 매우 견고한 석상으로 변했습니다. 무기가 없는 것과 무기로 인한 근접 피해는 거의 증가합니다. 돌체는 독과 미마에 면역이 있으며 전기, 부정적인 에너지 및 고통에 대한 내성을 얻습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Dragon status
+{{
+    local desc = "당신은 강력한로 변환되었습니다"
+
+    if you.race():find("Draconian") then
+        desc = desc .. " 드래곤"
+        if you.race() ~= "Grey Draconian" then
+            desc = desc .. ", 모든 타고난 호흡 공격의 힘을 증가"
+        end
+        if you.race() == "Red Draconian" then
+            desc = desc .. ". 당신은 화재에 매우 저항하고 " ..
+                           "독에 저항하지만, 추위에 취약"
+        elseif you.race() == "White Draconian" then
+            desc = desc .. ". 당신은 추위에 매우 저항하고 " ..
+                           "독에 저항하지만, 화재에 취약"
+        elseif you.race() == "Green Draconian" then
+            desc = desc .. " 그리고 당신의 타고난 색상을 유지"
+        else
+            desc = desc .. ". 당신은 당신의 타고난 색상을 유지하고, " ..
+                           "또한 독에 저항하는"
+        end
+    else
+        desc = desc .. ", 화재 호흡 용. 당신은 매우 저항 " ..
+                       "화재와 독에 저항, 하지만 취약 " ..
+                       "추위"
+    end
+
+    desc = desc .. "."
+
+    return desc
+}} 당신의 근접 공격은 놀라운 피해를 처리, 당신은 훨씬 더 강력하지만 덜 회피.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Storm status
+당신은 번개 가득한 폭풍으로 변했습니다. 근접 공격은 파괴되고 전기화되며 모든 인접 적을 공격합니다. 비행, 회피 증가, 독에 대한 내성, 미사, 양립 및 전기에 대한 저항력을 얻습니다. 당신은 번개 볼트로 적에게 자신을 발사 할 수있는 능력을 얻습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Death status
+당신은 생명 자체에 대한 언행 범죄로 변했습니다.
+
+손이나 근접 무기로 뚫린 적들은 약해지고, 느려지고, 배수되며, 근처 산 적을 괴롭힘으로써 스스로 치유할 수 있습니다. 또한 추위에 저항하고, 의지력을 강화했으며, 독, 미사, 부정적인 에너지 및 고통에 면역을 제공합니다. 불행히도, 당신은 거룩한 손상과 죽은 것을 제압하고, 물약을 소비할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Bat status
+당신은 빠르게 움직이는 박쥐로 변환되어 회피를 증가 시켰지만 근접 공격을 크게 약화시킵니다.
+
+무장 무기, 갑옷, 반지가 모두 녹아서 주문을 던질 수 없습니다. 이 형태에서 근접 공격의 효과는 무기 없는 전투 기술 대신 경험 수준을 기반으로 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Pig status
+당신은 돼지로 변환되었습니다. 당신은 빠르게 이동하지만 근접에 덜 효과적입니다.
+
+무장 무기, 갑옷, 반지가 모두 녹아서 주문을 던질 수 없습니다. 이 형태에서 근접 공격의 효과는 무기 없는 전투 기술 대신 경험 수준을 기반으로 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+App status
+{{
+    if you.race() == "Octopode" then
+        return "당신의 천막 중 하나에서 자랄 수 있는 악순환 스파이크가 " ..
+               "추가 테 타클 공격의 손상을 증가."
+    else
+        return "괴물 뿔이나 꼬리가 몸에서 자랐습니다. " ..
+               "근접에서 추가 공격을 할 기회를 부여합니다."
+    end
+}}
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Tree status
+당신은 나무로 변환되어 땅에 뿌리를 내리고 이동 또는 텔레포트가 불가능합니다. 당신은 최소한의 회피를 가지고 있지만 건강과 자연 갑옷을 증가 시키며 독에 저항하고, 고통과 익살에 면역이 있습니다.
+
+모든 장착 된 클로크, 헬멧, 장갑, 부츠 및 바디 갑옷이 녹습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Wisp status
+가스의 실질적인 위스로 변환되었습니다. 당신은 매우 회피적이며 화재, 추위, 전기 및 산, 중독에 대한 면역 및 부정적인 에너지에 저항합니다.
+
+무장 무기, 갑옷, 보석이 모두 녹아서 주문을 던질 수 없습니다. 이 형태에서 근접 공격의 효과는 무기 없는 전투 기술 대신 경험 수준을 기반으로 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Fungus status
+당신은 지각있는 태아로 변했습니다. 당신은 매우 회피적이며 근접에 중독 될 때 혼란을 일으킬 수 있지만, 전염병이있을 때 움직일 수 없습니다. 당신은 중독과 부정적인 에너지에 대한 면역에 저항합니다.
+
+무장 무기와 갑옷이 녹아서 주문을 던질 수 없습니다. 이 형태에서 근접 공격의 효과는 무기 없는 전투 기술 대신 경험 수준을 기반으로 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Shadow status
+당신은 어두운 그림자의 소용돌이 질량으로 변환되었습니다. 당신은 영구적으로 보이지 않으며 독, 배수 및 고통에 면역이 있습니다. 모든 들어오는 손상은 반으로, 들어오는 공격에 연기를 흘려, 당신은 무한한 의지력을 가지고 있습니다. 그러나 근접에서 피해를 처리하고 범위있는 공격을 처리하는 능력이 반으로, 마법 파는 힘이 크게 방해되고, 손상을 입을 때 최대 건강이 더 소모됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Orb status
+당신은 조트 오브 오브에 가까이 있거나 아마도 들고 있습니다., 그의 파괴적인 방해 translocation 마법. 텔레포메이션은 더 오래 걸릴 것이며 깜박이는 스크롤은 의도한 목적지에서 가까운 거리에 당신을 수송할 수 있습니다..
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Orb? status
+당신은 치명적인 혼란 전환 마법 Charlatan의 오브를 들고 있습니다. 텔레포메이션이 더 오래 걸리고 깜박이는 스크롤이 의도한 목적지에서 짧은 거리를 이동할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Hop status
+다리는 피곤하고, 당신은 갈 수 없습니다. 이 상태는 당신이 여러 차례 움직이지 않는 지출 후에 만 회복됩니다. (타락이나 캐스팅 주문과 같은 다른 행동은 괜찮습니다.)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Ray status
+
+현재 마법 에너지를 밟는 광선을 채널링하고 있습니다.
+<w>.</w> 또는 <w>s</w> 대기하는 것은 회전당 1MP의 비용으로 광선을 유지하고 강화 할 것입니다. 주문을 재 캐스팅하는 것을 포함한 다른 모든 작업은 종료됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Ray+ status
+
+<Ray status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Ray++ status
+
+<Ray status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Lash status
+당신은 초자연적인 속도로 이동하여 움직임 조치가 즉시됩니다. 이러한 방식으로 이동하는 동안 발생한 모든 치명적인 공격은 피해를 증가시키고 절대 놓치지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Heavenly status
+당신은 하늘 구름의 폭풍에 둘러싸여 있습니다. 폭풍이 울퉁불퉁하지만, 당신의 회피와 전투 정확성과 피해는 실질적으로 증가하고, 치명적인 공격으로 적들이 보너스를 증가. 폭풍은 시간이 지남에 따라 악화하고 보너스가 제로에 도달하면 사라집니다. 하늘 구름은 보이지 않도록하고 폭풍 외부의 사람들의 비전을 방해합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+SlowM status
+이 액체 지상에서 움직임이 느려집니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Alive status
+혈액이 가득하고 빠르게 건강을 회복합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Aug status
+당신은 당신의 건강과 함께 확장 맞춤법 및 깜박이는 보너스를받을 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Beogh status
+모든 오크의 신인 베오그에게 가까운 제사장을 통해 살을 맹세할 수 있습니다. 이렇게 하려면 능력 메뉴에서 베오그로 변환 능력을 사용하십시오.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Bloodless status
+당신의 몸은 완전히 혈액이 없어, 당신의 최대 건강을 줄이고 괴물이 볼 때 건강을 회복하는 것을 방지합니다. 당신은 중독과 부정적인 에너지에 면역이 있으며, 추위에 크게 저항하고, 고통에 저항합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Bribe status
+현재 브랜치의 주민들을 데려다줍니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Cloud status
+클라우드입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Clouds status
+구름이 형성되기에는 공기가 너무 여전히 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Dig status
+당신은 실망.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Elixir status
+귀하의 건강 및/또는 마법은 빠르게 복원되고 있으며, 귀하의 태아의 건강도 회복되고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Fast+Slow status
+당신은 느리고 흥정적인 효과를 모두 받고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Lava status
+현재 용암을 통해 비행하고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Recall status
+당신은 당신의 친척을 기억하고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Water status
+{{
+    local verb = you.flying() and "비행 이상" or
+                 you.race() == "Merfolk" and "수영에서" or "서 있는 것"
+    local feat = view.feature_at(0, 0):gsub("_", " ")
+
+    if feat ~= "deep water" and feat ~= "shallow water" then
+        feat = "물"
+        verb = "이상"
+    end
+
+    return "현재 " .. verb .. " " .. feat .. "."
+}}
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Attr status
+적들은 마법처럼 당신 쪽으로 옮겨집니다. (이것들은 깨어나지 않을 것입니다.)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Zot status
+조트의 남성적인 힘이 당신을 알아차릴 수 있도록 한 가지 지점에서 너무 많은 시간을 보냈습니다. 새 바닥으로 올라가지 않고 분기에서 표시된 회전 수를 보내면 조트가 당신을 찾아 영구적인 건강 손상을 일으킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Zot count status
+새 바닥으로 올라가지 않고 이 지점에서 표시된 회전 수를 보내면 조트가 귀하를 찾아 영구적인 건강 손상을 일으킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Gem status
+이 분기에서 표시된 회전 수를 사용하면 조트의 힘으로 보석을 발견하고 산산조각이 나게됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Gem (*) status
+조트의 힘은 더 이상 당신을 사냥하지 않지만,이 지점의 보석은 여전히 그대로 유지됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rF0 status
+이그니스의 분노는 화재에 저항하지 못하게합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Blink status
+비글링 스크롤과 같은 강력한 전환 매직 소스는 제어 외부에서 비글링하는 외부 소스와 마찬가지로 이 제한을 무시합니다. 이 제한 사항은 비글링 스크롤을 통해 발생할 수 있는 모든 문제를 해결합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Bbolt status
+번개가 쏟아지는 것을 복구하고 있으며 짧은 기간 동안 다시 깜박임을 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Charge- status
+
+현재 전기 요금을 채널링하고 있습니다. <w>.</w> 또는 <w>s</w>
+주문을 재방송하는 것을 포함한 다른 모든 조치는 요금을 무해하게 소멸시킬 것입니다. 그러나 주문을 다시 캐스팅하는 것은 매우 중요합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Charge/ status
+
+<Charge- status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Charge\ status
+
+<Charge- status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Charge| status
+
+<Charge- status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Wave status
+
+현재 화염의 물결을 채널링하고 있습니다. <w>.</w> 또는 <w>s</w>
+대기하는 것은 회전당 1MP의 비용으로 파도를 유지하고 강화 할 것입니다. 주문을 재 캐스팅하는 것을 포함한 다른 모든 작업은 종료됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Wave+ status
+
+<Wave status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Ramparts status
+당신은 얼음에 근처 벽을 감싸고 있습니다. 얼음은 균열과 떨어져 새 위치로 이동하면 떨어질 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Bog status
+인근 지역에서 독성이 있는 낡은 벌레를 만들고 있으며 그 효과에 면역이 있습니다. 시야에서 벗어나는 영역에서는 이러한 변화를 지속할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Enlightened status
+당신은 더 큰 진리와 접촉하여 의지력을 목표로하는 효과에 대한 저항을 증가시킵니다. 비극적으로이 에피소드는 지속되지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Will+ status
+
+<Enlightened status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Reap status
+죽은 자들이 희망하고 있습니다! 당신이 죽이는 살아있는 생물은 좀비화된 종으로 상승할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Peek status
+계단을 내려갑니다. 이전 수준으로 자유롭게 돌아갈 수 있지만이 바닥에서 조치를 취하면 모든 계단이 붕괴됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Fragile status
+당신의 몸은 유리만큼 부서지고 부서지기 때문에 모든 소스에서 받는 피해가 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Ooze status
+산성 오즈는 주변 벽에서 썩어집니다. 각 회전, 적들은 인접한 슬림한 벽의 수에 따라 손상됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Dog status
+당신은 익숙한 당신의 개에 소환했다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Dog status
+반려견이 잘 아는 것은 부상에서 회복되며, 짧은 시간 동안 다시 소환할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Siphon status
+당신은 최근에 생활의 본질을 찔렀고, 짧은 시간 동안 다시 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Word status
+최근에 혼란의 말을 하는 것에 피로해지며, 잠시 동안 다시 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Jinx status
+진싱 정신은 당신을 울립니다. 적을 공격하면 의지 점검을 실패 한 사람들은 진싱되어 피해를 입혀 배수됩니다. 영혼은 적들이 시야에 없을 때 빠르게 출발합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Rise status
+당신은 천장을 향해 위로 마우스를 올리고 있습니다. 짧은 지연 후, 이그니스의 힘은 위의 수준으로 당신을 폭발 할 것이다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Challenge status
+당신은 당신이 어디에 있든지 당신의 위치를 알 수있는 베오그의 선택한 사도들에 의해 도전되었습니다. 그들을 물리 치고, 당신은 그들을 고용하여 당신을 가입시킬 수 있습니다. 당신이 바닥을 탈출하면, 베오그는 일시적으로 당신을 처벌 할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Vengeance status
+너희 사도 중 하나가 죽임을 당하였으나 너희의 사망에 연루된 모든 원수를 아직 죽이지 아니하였느니라 만일 너희가 그렇게 하면 보가 그들을 더 빨리 부활시킬 것이요
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Pray status
+당신은 타락한 사도의 죽음을 복수하는 데 신성한 도움을 주었습니다. 오크는 계속해서 당신 편에 머물러 있지만 주위에 더 이상 군대가 없을 때 당신의 기도는 더 빨리 끝날 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Recruit status
+오키시 사도는 영구 동반자로 모집할 수 있습니다. (리모니아 사도 능력 사용)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Torch status
+검은 토치를 들고 다니십시오. 이 표시등이 어둡다면 토치가 점등되지 않습니다. 밝은 경우 이레데렘눌을 호출하여 토치를 밝히십시오. 토치가 태울 때 살인에 대한 시련을 얻을 것입니다. 충분한 시련을 통해 죽은 종들에게 힘을 실어주고 적에게 피해를 줄 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Shackles status
+이레데렘눌의 그립은 생명을 훔치는 사슬에 있는 지역을 꺾고 있다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Rev status
+무장하지 않은 공격은 전폭에 더 가깝고 각 스윙에서 더 강력한 성장을 계속할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Rev+ status
+당신은 위로 뛰어오르고 있습니다. 무기 기반 및 무장되지 않은 공격은 완전한 힘과 가깝고 각 스윙으로 더 강력한 성장을 계속할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Rev* status
+당신은 위로 휩쓸려있다. 무기 기반 및 무장되지 않은 공격은 완전히 강도에 있으며, 당신이 스윙을 유지하고 잠시 동안 동안 그대로 유지됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Gavotte status
+여러분 주변의 중력은 여전히 불안정하며, Gell's Gavotte가 다시 정착할 때까지 다시 캐스팅할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Fusillade status
+인근 괴물에서 윤곽이 있는 알케미컬 시약을 찢고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Nightfall status
+당신은 매우 시력 범위를 감소, 가장 깊은 밤을 채널링하고 있습니다. 그것은 점차 시간이 지남에 따라 정상으로 돌아갑니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Blind status
+당신의 비전은 심하게 실망. 당신이 수행하는 모든 주문 및 공격 (자동으로 히트하지 않는) 놓칠 수있는 기회가 증가하고있다. 이 기회는 훨씬 더 멀리 당신이 당신의 목표에서입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Ruin status
+당신은 파괴의 표시로 표시되어, 당신이 심하게 배수하고 무작위로 느리거나 약하거나 블라인드 당신을 손상 근접 공격을 일으키는 원인이됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-GClaw status
+그레이브 클로를 다시 캐스팅할 수 있는 충분한 죽음이 아직 수확되지 않았습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Legion status
+당신은 혼란의 군단을 빚지고 있습니다. 짧은 살아 있는 악마는 주기적으로 당신 근처에서 소환됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Bloodrite status
+최근에 관상동맥혈관절염을 앓고 있는데, 다른 혈액을 수행할 수 있으려면 완전히 치유되어야 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Execution status
+당신은 실행기와 몸을 공유하고, 당신에게 또한 공격을 회피 할 때 트리거 강력한 보조 공격을 제공, 뿐만 아니라 당신이 적을 향해 급등 할 수 있습니다. 이것은 당신이 공격을 중지하면 빨리 만료됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Destr status
+파괴를 사용하면 더 강력해지고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Destr+ status
+
+<Destr status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Destr++ status
+
+<Destr status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Destr+++ status
+<Destr status> 다시 사용하면 무작위 목표를 목표로 하는 추가 목표의 살보를 제거하고 이 보너스가 재설정됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Slaughter status
+당신은 마크레브의 파괴적인 의지의 악기입니다. 당신의 힘과 방어력이 크게 향상되지만이 효과가 끝나면 육체의 도가니를 견뎌야합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Pact status
+마크레브은 그들에게 한 특정 약속에 수집했다. {{ if you.religion == "Makhleb" then
+        return "공포를 앓고 그들의 악기로 맹세를 성취 " ..
+               "여기에 모인 필사자, 그리고 그들은 당신에게 부여 할 수 있습니다 " ..
+               "자유를 다시 한 번."
+   else
+        return "싸움과 출혈과 당신은 다시 한 번 자유를 부여 할 수 있습니다."
+    end}}
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Escape! status
+도가니 밖으로 나가는 경로가 열렸습니다. 찾아 다시 자유를 주장하십시오. 잠시 동안.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Shield status
+당신은 신성한 방패에 의해 보호됩니다. 근접에서 공격하는 적들은 공격을 완전히 차단 할 것이며, 그들은 또한 빛에 의해 맹목적 일 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Blast status
+운동 충격파를 방출할 준비가 되어 있으며 이것이 완료될 때까지 움직일 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Blast. status
+
+<Blast status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Blast.. status
+
+<Blast status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Blast... status
+
+<Blast status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Winding status
+시계 작업 벌을 감고 있습니다. 완전히 다칠 때까지 대상을 공격할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Winding. status
+
+<Winding status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Winding.. status
+
+<Winding status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Winding... status
+
+<Winding status>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Unstable status
+당신은 무작위로 각 회전을 깜박이는 공간에서 untered되고 당신이 그렇게 할 때마다 약간의 피해를 입은.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Vainglory status
+최근에 귀하의 법적 존재를 발표했으며 곧 다시 바닥을 떠나지 않을 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Protected status
+플래티넘 파라곤은 때때로 당신에게 지시되는 공격을 전달할 수 있을 만큼 가깝습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Vexed status
+당신의 마음은 혼란에 의해 흐려집니다. 다음 몇 차례에 대해 임의의 인접한 생물 (친절하거나 적) 또는 빈 공간을 통제 할 수 없게 공격합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Drowsy status
+당신은 빠르게 자고 있으며 곧 완전히 잠들 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Vampire status
+당신은 뱀파이어입니다 - 삶과 죽음 사이의 경계를 뚫는 생물. 당신은 치유하기 위해 생명의 피를 마실 수 있으며, 심지어 당신이 뱀의 트롤로 도둑질로 변환하지만, 괴물의 존재에서 치유하지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Swarm status
+뱀파이어 박쥐 떼로 변신하여 빠르고 쉽게 움직일 수 있습니다. 깨어날 때 박쥐 구름을 지나칠 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Memories status
+이것은 당신이 지금 엔킨드드하면 축적 된 기억에서 캐스팅 할 수있는 얼마나 많은 주문을 나타냅니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Enkindled status
+당신은 힘을 위해 축적 된 기억을 태우고 있습니다. 당신이 던지는 각 손상 거래 마법은 메모리를 소비합니다. 대가로 그들의 힘과 마법 성공이 증가하고, 감전 처벌이 무시되며, 마법 공격은 마법 수준에 비례하여 보너스 피해를 입히고 처리 된 피해를 기반으로 당신을 치유합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Cacophony status
+당신은 모든 갑옷과 함께 시끄럽습니다. 현재 자신의 폭력을 쏴둔 모든 갑옷 조각; 그것이 취하는 모든 피해는 귀하에게 영향을 미치지 않으며 자유롭게 발사 할 수 있으며 공격은 적에게 피해를 주거나, 배수하거나, 혼란 스러울 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Catalyst status
+폭발성 촉매가 준비되었습니다. 촉매는 폭발하여 각 근접 공격의 주요 표적과 그 옆에 있는 적에게 화재 피해를 입히고 각 적중을 합니다. 공격은 놓치더라도 촉매의 지속 시간을 연장합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Shroud status
+근접 공격을 유발할 수 있는 얇은 슬림한 수갑으로 덮여 있습니다. 그렇게 하면 수갑이 짧은 시간 동안 깰 것이지만 곧 자연스럽게 수리됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Yak status
+당신은 림 얌, 얼음으로 둘러싸인 모피입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Spider status
+당신은 공격이 웹 적을 할 수있는 민첩한 저격수입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Quill status
+당신은 근접 공격자를 손상시킬 수 있습니다 몸에서 성장 스피니 퀼이 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Hive status
+당신은 바쁜 곤충과 함께 살아있는 비하이브, 아부다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Swarm status
+최근에 당신 안에 사는 곤충이 당신의 방어로 쪼개졌습니다. 이것은 당신의 건강이 완전히 회복될 때까지 다시 일어나지 않을 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Aqua status
+당신의 몸은 적들을 공격하고 몰수할 수 있는 원소 물로 구성됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Sphinx status
+당신은 당신의 발에 바람의 힘으로, 재미 있고 수수께끼를 사랑하는 슛입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Werewolf status
+당신은 악의 늑대입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Slay status
+공격의 손상과 정확성이 일시적으로 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Scroll status
+당신은 산책 스크롤, 양피지 선명하고 마법의 가득.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Crab status
+당신은 녹슬는 호흡을 가진 심하게 무장한 털입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Scarab status
+태양 광 화재가 당신 옆에 쏟아지는 태양의 딱딱한 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Medusa status
+당신은 머리 정맥 힘줄의 남자가있다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Lithotox status
+리소톡신이 최근에 활성화되었으며 완전히 치유될 때까지 다시 활성화되지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Doom status
+남성적인 운명이 당신을 중심으로 모입니다. 운명이 100%에 도달하면 무작위 베인에 의해 괴롭힐 것이며 운명이 0으로 재설정됩니다. 베인은 장기간 캐릭터를 크게 위험에 빠뜨릴 수 있는 다양한 부정적인 영향을 미칩니다.
+
+둠과 베인 모두 경험을 얻는 것만으로만 치료되지만 베인은 일반적으로 훨씬 더 오래 지속됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Ostracised status
+신성한 것과의 연결이 부분적으로 차단되어 효과적인 경심을 일시적으로 줄입니다. 경험을 얻는 것은 결국 이러한 방식으로 잠긴 모든 경심을 회복할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Tesseract status
+바운드리스 테서랙트는 평행 현실에서 힘을 끌어냅니다. 새로운 몬스터는 테서랙트 중 하나가 파괴 될 때까지 바닥의 임의의 위치에 꾸준히 나타납니다. 이것은 매우 오랫동안 계속 허용되면 해당 몬스터가 대신 위치 근처에 나타날 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Star status
+스타더스트 오브 오브 스타더스트 오브 스타더스트 오브 스타더스트스트스트 오브 스타더스트스트스트스트 오브 스타더스트스트스트스트 오브 스타더스트스트스트 오브 스타더스트스트스트 오브 스타더스트스트스트 오브 스타더스트스트스트스트 오브 스타더스트스트스트 오브 스타더스트스트스트 오브 스타더스트스트스트스트 오브 스타더스트스트스트 오브 스타더스트스트스트레이션 오브 스타더스트스트스트레이션 오브 스타더스트스트스트스트레이션 오브 스타더스트스트스트레이션 오브 스타더스트스트스트레이션 오브 스타더스트스트스트레이션 오브 스타더스트스트스트스트레이션 오브 스타더스트스트스트스트레이션 오브 스타더스트스트스트레이션 오브 스타더스트스트레이션 오브 스타더스트스트레이션 오브 스타더스트스트스트레이션 오브 스타더스트스트스트스트스트스트레이션 오브 스타더스트스트스트스트스트스트스트스트스트레이션 오브 스타더스트스트스트레이션 오브 스타더스트스트스트스트레이션 오브스터스트레이션 오브스터스트레이션 오브스터스트레이션 오브 오브 스타더스트스트스트스트스트스트스트스트스트스트스트스트스트스트스트스트스트스트레이션 오브 오브스터스트레이션 오브스터스트레이션 오브스터스트스트스트스트스트
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Mesm status
+당신의 난파선은 최근에 에너지를 소비했습니다. 짧은 시간 후에 재충전됩니다 (그러나 당신이 이동하는 곳에 회전에 재충전할 수 없습니다).
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Phobia status
+당신의 클라우스트로 포식자는 당신에게 치명적인 맥아를 주었다. 이것은 당신을 둘러싼 벽의 수에 달려 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Dim status
+모든 주문의 힘은 절반 감소합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Sunder status
+다음 공격은 정확도를 높이고 정상적인 피해의 세 배에 영향을 미치고 범위를 증가시킵니다. 이 보너스는 위반 이외의 조치를 수행하면 손실됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Devious status
+회피와 공격이 증가합니다. 이 공격은 최대 3회 누적되며 근접 공격을 계속 수행하는 한 만료되지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Slimifying status
+몸이 천천히 슬림하게 변하고 있습니다. 완전한 변화가 발생하더라도 결국 다시 돌아올 의지가 충분히 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Jelly status
+당신은 일시적으로 젤리로 변모되었습니다. 당신은 몇 가지 비정상적인 저항과 여분의 건강,하지만 심하게 약해진 주문을 가지고 있습니다.
+
+무장 무기와 갑옷이 모두 녹습니다. 이 형태에서 새로 산성 근접 공격의 효과는 무장 전투 기술이 아닌 경험 수준에 기반합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+OozeRegen status
+당신은 계단 아래로 당신의 최근 여행에서 재생 오존으로 덮여 있습니다. 짧은 시간 동안, 당신의 상처는 빨리 치유하고 마법의 예비는 빨리 회복됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+-Hellfire status
+마지막 캐스트가 끝날 때까지 지옥의 모르타르를 다시 캐스팅할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Engorged status
+당신의 매는 맛있는 식사를 섭취했으며 소화가 끝날 때까지 재배를 크게 증가시킵니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Eel status
+팔은 전기 발꿈치 한 쌍입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Blade status
+여러 악의 블레이드가 몸에서 자랍니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Spore status
+팔은 다색의 곰팡이의 덩어리입니다.

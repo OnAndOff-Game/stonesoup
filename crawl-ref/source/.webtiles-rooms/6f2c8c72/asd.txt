@@ -1,0 +1,158 @@
+ Dungeon Crawl Stone Soup version 0.34.1 (webtiles) character file.
+
+Game seed: 7635005889731100210
+
+asd the Conjurer (Kobold Conjurer)                    Turns: 56, Time: 00:01:12
+
+Health: 7/10       AC:  2    Str:  4    XL:     1   Next: 22%
+Magic:  3/3        EV: 13    Int: 19    God:    
+Gold:   15         SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire   . . .  (100%)     - Nothing wielded
+rCold   . . .  (100%)   (no offhand)
+rNeg    . . .  (100%)   식물 - +0 robe
+rPois   .      (100%)   (no helmet)
+rElec   .      (100%)   (no cloak)
+rCorr   .      (100%)   (no gloves)
+SInv    .               (no boots)
+Will    .....           (no amulet)
+Stlth   +++             (no ring)
+HPRegen 0.21/turn       (no ring)
+MPRegen 0.08/turn
+
+%: 수동 효과 없음
+@: 상태 효과 없음
+A: small, no large weapons, nightstalker 3
+a: 특수 능력 없음
+
+
+You are on level 1 of the Dungeon.
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+You have collected 15 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Potions
+ g - a potion of magic
+
+
+   Skills:
+ + Level 2.4 Dodging
+ + Level 2.6 Stealth
+ + Level 0.2 Unarmed Combat
+ + Level 2.1 Spellcasting
+ + Level 4.0 Conjurations
+
+
+You have 3 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Magic Dart            Conj           68%        1d6       3%          1
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Searing Ray              Conj           34%        2d5       4%          2
+ Fulminant Prism          Conj/Alch      4%         3d5       58%         4
+ Iskenderun's Mystic Bla  Conj/Tloc      9%         2d4 (+2d1 58%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+던전 (1/15)             
+
+Altars:
+
+
+타고난 능력, 기만 및 돌연변이
+
+당신은 작고 일부 큰 무기에 문제가 있습니다.
+당신은 그림자와 일치되는 듯이 굉장히 능숙하게 몸을 숨길 수 있다.
+
+Message History
+
+The bat misses you.
+You hit the bat 하지만 do 손상 없음. The bat barely misses you. x2
+You hit the bat.
+The bat is severely wounded.
+The bat completely misses you.
+The bat hits you 하지만 does 손상 없음.
+당신 barely 미스 the bat.
+The bat is severely wounded.
+The bat hits you.
+The bat hits you 하지만 does 손상 없음.
+당신 barely 미스 the bat.
+The bat is severely wounded.
+The bat closely misses you.
+The bat hits you.
+The bat closely misses you.
+The bat barely misses you.
+The goblin hits you 하지만 does 손상 없음.
+당신 closely 미스 the bat.
+The bat is severely wounded.
+The bat hits you 하지만 does 손상 없음. The goblin hits you with a +0 club.
+당신 barely 미스 the bat.
+The bat is moderately wounded.
+The bat hits you 하지만 does 손상 없음.
+The goblin hits you 하지만 does 손상 없음.
+The bat hits you. The goblin attacks as it pursues you! The goblin misses you.
+The goblin attacks as it pursues you!
+The goblin hits you 하지만 does 손상 없음.
+The bat hits you 하지만 does 손상 없음.
+당신 closely 미스 the goblin. The bat hits you 하지만 does 손상 없음.
+당신 closely 미스 the goblin. The bat closely misses you.
+The goblin barely misses you.
+You hit the goblin.
+The goblin is moderately wounded.
+The goblin barely misses you. The bat barely misses you.
+You hit the goblin. You punch the goblin.
+You kill the goblin!
+The bat hits you.
+The bat completely misses you.
+여기에있는 것들:
+a +0 club; a goblin corpse
+
+             #..
+             #..###
+       #######....  .
+       #.....#...##.#
+##     #..........#.#
+.#######..........?#
+.......#........@.##
+ß..ß..ß###........)#
+.......'.[.##.#...#b#
+ß..ß..ß###.##.#..##.#
+.......# ####.#...  .
+.#######
++#
+
+
+You can see a bat.
+
+Vanquished Creatures
+  A ball python (D:1)
+  A goblin (D:1)
+2 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | asd the Kobold Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+
+Illustrated notes
+
+Action                     || total
+---------------------------++-------
+ Attack: Normal            ||    14
+  Melee: Unarmed           ||    14
+         Punch             ||     1
+   Stab: Sleeping          ||     1
+ Armour: Robe              ||    15
+  Dodge: Dodged            ||    21
+

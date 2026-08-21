@@ -1,0 +1,149 @@
+%%%%
+Exile card
+
+이 카드는 근처에 있는 1마리 이상의 적들을 어비스로 추방시킨다. 카드의 사용자도
+여기에 포함될 수 있음을 명심하라!
+%%%%
+the Stairs card
+
+이 카드는 근처의 계단들을 사용자 근처로 오게하거나 더 멀어지게 한다. (이 카드는
+버그입니다! 버그를 발견한 사실을 친구들에게 자랑하세요.)
+%%%%
+a buggy card
+
+버그. (축하합니다! 당신의 이 게임의 버그를 발견하셨습니다! 이 사실을 주변
+사람들에게 자랑하세요.)
+%%%%
+a very buggy card
+
+버그. (축하합니다! 당신의 이 게임의 버그를 발견하셨습니다! 이 사실을 주변
+사람들에게 자랑하세요.)
+%%%%
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Velocity card
+이 카드는 비어 있고 잘 착용된 부츠 쌍을 묘사합니다. 모래, 재 및 잔디는 부츠의 밑창을 코팅합니다.
+
+이 카드를 그리는 것은 적에게 경멸이나 끔찍한 감속에 큰 속도를 부여 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Tomb card
+카드는 로얄 암호, 무거운 돌 슬래브에 의해 밀봉 입구를 묘사합니다.
+
+이 카드를 그리는 것은 사용자를 단단한 바위의 보호, 임시 벽에 휘두르십시오. 낮은 전력 수준 또는 인접한 생물로, 무덤은 불완전할 수 있습니다.
+
+무덤은 그 안에 있는 창조주의 존재에 의해 유지되며, 무덤의 중심에서 이동하면 벽이 무너질 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Shaft card
+카드는 아래에 열린 섀시에 여행자 배관을 묘사합니다.
+
+이 카드를 그리면 사용자 아래에, 그리고 아마도 적 아래에 샤프트가 생성됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Elixir card
+카드는 9개의 샬레로 구성된 미소를 묘사합니다.
+
+이 카드를 그리는 것은 사용자의 건강과 마법을 빠르게 복원합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Cloud card
+카드는 안개에 울퉁불퉁한 철문을 묘사합니다.
+
+이 카드를 그리는 것은 해로운 구름의 반지에 있는 사용자의 원수를 울부짖는다. 그 같은 구름의 효력은 카드 힘에 변화할 것이다
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Vitriol card
+이 카드는 독특한 부식성 수액으로 떨어지는 오크로프 식물을 묘사합니다.
+
+이 카드를 그리는 것은 부식성 공격 주문을 취소 할 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Storm card
+이 카드는 폭풍우에서 바다 침몰하는 배를 묘사합니다.
+
+이 카드를 그리기는 바람과 전기 방전의 폭풍을 발생. 증가 카드 전력은 강한 바람의 힘과 더 강력하고, 더 많은 방전을 초래할 것이다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Pain card
+카드는 철 바퀴를 묘사하여 스파이크로 의미하고 혈액으로 녹습니다.
+
+이 카드를 그리는 것은 괴상한 공격 주문을 풀어줍니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Orb card
+이 카드는 떠다니는 빛나는 에너지 오브로 둘러싸인 그림을 보여줍니다.
+
+이 카드를 그리는 것은 순수한 마술의 하나 또는 그 이상의 파괴적인 오브를 해방한다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Degeneration card
+이 카드는 비늘이 쏟아지는 용을 묘사하고 양들을 따라갑니다.
+
+이 카드를 그리는 것은 폴리모프를 시도하고 주변 적을 약한 형태로 변형시키고 폴리모프를 할 수 없는 사람들을 간단히 미루게 합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Wild Magic card
+이 카드는 뾰족한 마법사의 모자를 묘사하고, 재 더미에 얽히고 휴식합니다.
+
+이 카드를 그리는 것은 야생 마법 (주문을 잘못 캐스팅 한 것처럼)이 사용자의 적에게 작용하게합니다. 영향을받은 각 생물은 사용자의 마법 중 일부를 복원합니다. # 소환
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Elements card
+이 카드는 모래 폭풍에 숨어있는 위대한 짐승의 수치를 보여줍니다.
+
+이 카드를 그리는 것은 네 가지 요소의 세 짐승을 소환합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Pentagram card
+카드는 문화권이 바닥에 의식 펜타그램을 표시하는 것을 묘사합니다.
+
+이 카드를 그리면 한 쌍의 악마를 사용자의 원조에 소환합니다. 악마 중 한 명이 소환 될 가능성이 적습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Dance card
+이 카드는 광대 한 방에서 혼자 춤추는 사치 같은 옷을 입고, 마스킹 된 그림을 묘사합니다.
+
+이 카드를 그리는 것은 춤 무기를 소환합니다. 품질, 브랜드 및 장식은 모두 카드 전원의 영향을받습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Swarm card
+이 카드는 벌 떼로 둘러싸인 곰을 묘사합니다. 그것은 익명으로 썩어집니다.
+
+이 카드를 그리는 것은 꿀벌을 소환합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Rangers card
+카드는 두 번째 화살표로 분할 된 황소 눈에있는 화살표를 보여줍니다.
+
+이 카드를 그리는 것은 여러 궁수들을 소환합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Illusion card
+카드는 거울 홀에 서 있는 사람을 묘사하며, 자신의 반사로 둘러싸여 있습니다.
+
+이 카드를 그리는 것은 사용자의 실망을 불러일으킬 것입니다. 그 힘은 자신의 의지에 따라 달라집니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Wrath card
+이 카드는 하늘로부터 내려와서 분노의 번개를 달래는 신성한 손을 묘사합니다.
+
+이 카드를 그리는 것은 사용자에 대한 신의 분노를 그릴 것이다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Wraith card
+카드는 절대적으로 아무것도 묘사하지 않습니다.
+
+이 카드를 그리는 것은 사용자를 소모합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+the Swine card
+이 카드는 진흙 구덩이에서 왁왁왁을 수 있는 몇 가지 여성 돼지를 묘사합니다.
+
+이 카드를 그리면 사용자가 트러플에 대해 분홍색과 뿌리를 켤 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Torment card
+카드는 랙에 갇혀있는 빛나는 그림을 묘사합니다.
+
+이 카드를 그리는 것은 사용자에게 성가신 부상을 일으킬 것입니다.

@@ -1,0 +1,81 @@
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no teleportation passive
+텔레포트 또는 깜박일 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+no spellcasting passive
+주문을 캐스팅할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+random rage passive
+근접 공격을 할 때 베르서크를 할 기회가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+corrode self passive
+손상을 입을 때 부식될 가능성이 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+slow self passive
+피해를 입으면 속도가 느려질 가능성이 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+harm passive
+귀하가 거래하거나 취하는 모든 피해는 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mayhem passive
+당신은 당신이 적을 죽일 때 가시 괴물이 광란에 들어가게 할 기회가 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+repel missiles passive
+당신은 미사일을 격퇴, 그들을 회피 할 수있는 기회를 향상.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+reflection passive
+공격자에 대해 성공적으로 차단된 범위 공격을 되돌립니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+acrobat passive
+이동 및 대기 중 회피가 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+clarity passive
+당신은 비자발적 혼란, 분노, 두려움과 침수로부터 보호됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+resist mutation passive
+당신은 부분적으로 오염으로부터 보호됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+guardian spirit passive
+귀하가 취하는 모든 피해는 귀하의 건강 및 마법 보호 구역으로 나뉩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+rampage passive
+적으로 이동할 때 추가 무료 조치를 취합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+roll passive
+
+<rollpage mutation>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+faith passive
+당신은 신성한 호의를 빨리 얻고, 더 큰 통지는 당신이 만드는 모든 종교 종교에 취해집니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+wizardry passive
+주문 성공률이 향상되었습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+archmagi passive
+주문 전력이 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+channel magic passive
+주문을 성공적으로 던질 때 지출 한 마법을 회복하고 주문을 잘못 던질 때 항상 지출 한 마법을 회복 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+infuse magic passive
+당신은 당신이 근접 공격을 할 때마다 마법을 보내고, 당신의 타격을 완화.

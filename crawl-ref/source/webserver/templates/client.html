@@ -1,0 +1,497 @@
+<!DOCTYPE HTML>
+<html lang="ko">
+  <head>
+    <title>WebTiles - Dungeon Crawl Stone Soup</title>
+    <link rel="icon" href="/static/stone_soup_icon-32x32.png" type="image/png">
+    <script type="text/javascript">
+      {% set fail_safe_game_version = globals().get('game_version', '') %}
+      var socket_server = "{{ socket_server }}";
+      var game_version = "{{ fail_safe_game_version }}";
+    </script>
+    <script src="{{ static_url("scripts/contrib/require.js") }}" data-main="/static/scripts/app"></script>
+    <link rel="stylesheet" type="text/css" href="{{ static_url("style.css") }}">
+    <link rel="stylesheet" type="text/css" href="{{ static_url("fonts/fonts.css") }}">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  </head>
+  <body{% if config.get("multiplayer_lobby", False) %} class="multiplayer_server"{% end %}>
+    <noscript>JavaScript를 활성화해 주세요.</noscript>
+
+    <div id="lobby" style="display: none;">
+      <div class="login_placeholder">
+        <div id="login">
+          <span id="login_message"></span>
+          <form action="#" id="login_form">
+            <label for="username">사용자:</label>
+            <input class="text" type="text" name="username" id="username">
+            <label for="password">비밀번호:</label>
+            <input class="text" type="password" name="password" id="password">
+            <input class="button" type="submit" name="submit" id="submit" value="로그인">
+          </form>
+          <span class="extra_links">|
+          <a id="reg_link" href="javascript:">회원가입</a>
+{% if getattr(config, "allow_password_reset", False) %}
+          <a id="forgot_link" href="javascript:">비밀번호 찾기</a>
+{% end %}
+          <a id="chem_link" href="javascript:" style="display: none;">이메일 변경</a>
+          <a id="chpw_link" href="javascript:" style="display: none;">비밀번호 변경</a>
+          <a id="logout_link" href="javascript:" style="display: none;">로그아웃</a></span>
+        </div>
+      </div>
+
+      <div id="register" class="floating_dialog" style="display: none;">
+        <span id="register_message"></span>
+        <form action="#" id="register_form">
+          <label for="username">사용자 이름:</label>
+          <input class="text" type="text" name="username" id="reg_username">
+          <br>
+          <label for="reg_password">비밀번호:</label>
+          <input class="text" type="password" name="reg_password" id="reg_password">
+          <br>
+          <label for="reg_repeat_password">비밀번호 확인:</label>
+          <input class="text" type="password" name="reg_repeat_password" id="reg_repeat_password">
+          <br>
+          <label for="reg_email">이메일 주소:</label>
+          <input class="text" type="text" name="reg_email" id="reg_email">
+          <br>
+          <p>이메일을 입력하지 않으면 비밀번호를 복구할 수 없습니다.</p>
+          <input class="button" type="button" name="cancel" id="reg_cancel"
+                 value="취소">
+          <input class="button" type="submit" name="submit" id="reg_submit" value="확인">
+        </form>
+      </div>
+
+      <div id="change_password" class="floating_dialog" style="display: none;">
+        <span id="chpw_message"></span>
+        <form action="#" id="chpw_form">
+          <label for="change_cur_password">현재 비밀번호:</label>
+          <input class="text" type="password" name="change_cur_password" id="change_cur_password">
+          <br>
+          <label for="change_password">새 비밀번호:</label>
+          <input class="text" type="password" name="change_new_password" id="change_new_password">
+          <br>
+          <label for="change_repeat_password">새 비밀번호 확인:</label>
+          <input class="text" type="password" name="change_repeat_password" id="change_repeat_password">
+          <br><br>
+          <input class="button" type="button" name="cancel" id="chpw_cancel"
+                 value="취소">
+          <input class="button" type="submit" name="submit" id="chpw_submit" value="확인">
+        </form>
+      </div>
+
+      <div id="change_email" class="floating_dialog" style="display: none;">
+        <p>현재 이메일 주소: <span id="chem_current"></span></p>
+        <span id="chem_message"></span>
+        <form action="#" id="chem_form">
+          <label for="chem_email">이메일:</label>
+          <input class="text" type="text" name="chem_email" id="chem_email">
+          <br />
+          <p>이메일을 입력하지 않으면 비밀번호를 복구할 수 없습니다.</p>
+          <input class="button" type="button" name="cancel" id="chem_cancel" value="취소">
+          <input class="button" type="submit" name="submit" id="chem_submit" value="확인">
+        </form>
+      </div>
+
+      <div id="floating_ok_message" class="floating_dialog" style="display: none;">
+        <span id="ok_message_content"></span>
+          <input class="button" type="submit" name="submit" value="확인">
+      </div>
+
+{% if getattr(config, "allow_password_reset", False) %}
+      <div id="forgot" class="floating_dialog" style="display: none;">
+        <span id="forgot_message"></span>
+        <form action="#" id="forgot_form">
+          <label for="forgot_email">이메일 주소:</label>
+          <input class="text" type="text" name="forgot_email" id="forgot_email">
+          <br>
+          <input class="button" type="button" name="cancel" id="forgot_cancel"
+                 value="취소">
+          <input class="button" type="submit" name="submit" id="forgot_submit" value="확인">
+        </form>
+      </div>
+
+      <div id="forgot_2" class="floating_dialog" style="display: none;">
+        <span>일치하는 계정이 있으면 비밀번호 재설정 이메일을 보냈습니다.</span>
+        <input class="button" type="submit" name="submit" value="확인">
+      </div>
+{% end %}
+
+{% if reset_token %}
+      <div id="reset_pw" class="floating_dialog" style="display: none;">
+  {% if reset_token_error %}
+        <form action="#" id="reset_pw_form">
+          <span>{{ reset_token_error }}</span>
+          <br><br>
+          <input class="button" type="button" name="cancel" id="reset_pw_cancel" value="취소">
+        </form>
+  {% else %}
+        <span>새 비밀번호를 선택해 주세요.</span>
+        <br>
+        <span id="reset_pw_message"></span>
+        <form action="#" id="reset_pw_form">
+          <input class="text" type="hidden" readonly="readonly" name="reset_pw_token" id="reset_pw_token" value="{{ reset_token }}">
+          <br>
+          <label for="reset_pw_password">비밀번호:</label>
+          <input class="text" type="password" name="reset_pw_password" id="reset_pw_password">
+          <br>
+          <label for="reset_pw_repeat_password">비밀번호 확인:</label>
+          <input class="text" type="password" name="reset_pw_repeat_password" id="reset_pw_repeat_password">
+          <br>
+          <input class="button" type="button" name="cancel" id="reset_pw_cancel" value="취소">
+          <input class="button" type="submit" name="submit" id="reset_pw_submit" value="확인">
+        </form>
+  {% end %}
+      </div>
+{% end %}
+
+      <div id="rc_edit" class="floating_dialog" style="display: none;">
+        <form action="#" id="rc_edit_form">
+          <textarea class="text" name="rc_file_contents" id="rc_file_contents"
+                    cols="80" rows="25">
+          </textarea>
+          <br>
+          <input class="button" type="submit" name="submit" id="rc_submit" value="저장"
+                 style="float: right;">
+        </form>
+      </div>
+
+      <div id="exit_game" class="floating_dialog" style="display: none;">
+          <p id="exit_game_reason"></p>
+          <pre id="exit_game_message"></pre>
+          <p id="exit_game_dump"></p>
+          <a class="hide_dialog" href="javascript:">닫기</a>
+      </div>
+
+      <div id="banner">{% include banner.html %}</div>
+
+{% if config.get("multiplayer_lobby", False) %}
+      <main id="multiplayer_lobby" aria-labelledby="room_lobby_title">
+        <div class="room_lobby_header">
+          <div>
+            <span class="room_eyebrow">전용 서버 · P2P 협동</span>
+            <h1 id="room_lobby_title">모험 대기실</h1>
+            <p>방 목록과 연결 신호는 이 서버가 관리하고, 방 안의 조작 데이터는 방장과 직접 연결됩니다.</p>
+          </div>
+          <span id="room_network_status" class="room_badge room_badge_waiting">서버 연결 중</span>
+        </div>
+
+        <div class="room_identity_bar">
+          <label for="room_display_name">내 닉네임</label>
+          <input class="text" id="room_display_name" maxlength="20" autocomplete="nickname">
+          <button class="room_button room_button_subtle" id="room_save_name" type="button">변경</button>
+          <span id="room_identity_message" aria-live="polite"></span>
+        </div>
+
+        <section id="room_current" class="room_panel" style="display:none;" aria-live="polite">
+          <div class="room_current_heading">
+            <div>
+              <span id="room_current_state" class="room_badge"></span>
+              <h2 id="room_current_title"></h2>
+            </div>
+            <div class="room_current_actions">
+              <button class="room_button room_button_primary" id="room_start" type="button">게임 시작</button>
+              <button class="room_button room_button_danger" id="room_leave" type="button">방 나가기</button>
+            </div>
+          </div>
+          <div id="room_connection_summary" class="room_connection_summary"></div>
+          <div class="room_member_columns">
+            <div>
+              <h3>플레이어 <span id="room_player_count"></span></h3>
+              <ul id="room_players" class="room_member_list"></ul>
+            </div>
+            <div>
+              <h3>관전자 <span id="room_spectator_count"></span></h3>
+              <ul id="room_spectators" class="room_member_list"></ul>
+            </div>
+          </div>
+          <dl id="room_current_settings" class="room_setting_summary"></dl>
+        </section>
+
+        <section id="room_create_panel" class="room_panel" style="display:none;">
+          <div class="room_panel_title">
+            <div>
+              <span class="room_eyebrow">새 월드</span>
+              <h2>방 만들기</h2>
+            </div>
+            <button class="room_icon_button" id="room_create_cancel" type="button" aria-label="방 만들기 닫기">×</button>
+          </div>
+          <form id="room_create_form">
+            <div class="room_form_grid">
+              <label class="room_field room_field_wide">
+                <span>방 제목</span>
+                <input class="text" id="room_title" maxlength="40" required placeholder="함께 오브를 찾을 사람">
+              </label>
+              <label class="room_field">
+                <span>게임 모드</span>
+                <select id="room_game_mode">
+                  <option value="standard">일반 게임 (원본 기본값)</option>
+                  <option value="seeded">지정 시드</option>
+                  <option value="descent">디센트</option>
+                  <option value="sprint">스프린트</option>
+                </select>
+              </label>
+              <label id="room_seed_field" class="room_field" style="display:none;">
+                <span>월드 시드</span>
+                <input class="text" id="room_seed" inputmode="numeric" pattern="[0-9]*" placeholder="숫자 시드">
+              </label>
+              <label class="room_field">
+                <span>턴 제한 시간</span>
+                <select id="room_turn_seconds">
+                  <option value="5">5초</option>
+                  <option value="10">10초</option>
+                  <option value="15" selected>15초 (기본)</option>
+                  <option value="20">20초</option>
+                  <option value="30">30초</option>
+                  <option value="60">60초</option>
+                </select>
+              </label>
+              <label class="room_field">
+                <span>맵 이동 대기</span>
+                <select id="room_transition_seconds">
+                  <option value="5">5초</option>
+                  <option value="10" selected>10초 (기본)</option>
+                  <option value="15">15초</option>
+                  <option value="20">20초</option>
+                  <option value="30">30초</option>
+                </select>
+              </label>
+              <label class="room_field">
+                <span>최대 플레이어</span>
+                <select id="room_max_players">
+                  <option value="2">2명</option>
+                  <option value="3">3명</option>
+                  <option value="4" selected>4명 (권장)</option>
+                  <option value="5">5명</option>
+                  <option value="6">6명</option>
+                  <option value="7">7명</option>
+                  <option value="8">8명</option>
+                </select>
+              </label>
+            </div>
+            <p class="room_form_note">별도 설정을 바꾸지 않으면 원본 Stone Soup의 일반 월드와 무작위 시드를 사용합니다. 게임 시작 뒤에는 플레이어 난입이 잠기며 관전만 가능합니다.</p>
+            <div class="room_form_actions">
+              <span id="room_create_error" class="room_error" aria-live="assertive"></span>
+              <button class="room_button room_button_primary" type="submit">방 생성</button>
+            </div>
+          </form>
+        </section>
+
+        <section id="room_browser" class="room_browser">
+          <div class="room_browser_heading">
+            <div>
+              <span class="room_eyebrow">공개 방</span>
+              <h2>참가할 모험 고르기</h2>
+            </div>
+            <div class="room_browser_actions">
+              <button class="room_button room_button_subtle" id="room_refresh" type="button">새로고침</button>
+              <button class="room_button room_button_primary" id="room_create_open" type="button">＋ 방 만들기</button>
+            </div>
+          </div>
+          <div id="room_list" class="room_list"></div>
+          <div id="room_empty" class="room_empty">
+            <strong>아직 열린 방이 없습니다.</strong>
+            <span>첫 번째 모험의 방장이 되어 보세요.</span>
+          </div>
+        </section>
+      </main>
+{% end %}
+
+      <div id="account_restricted" style="display:none;">
+        이 계정은 관리자 승인을 기다리고 있습니다. 승인 전까지 커뮤니티 기능과
+        일부 게임 모드가 제한되며 다른 플레이어에게 게임이 표시되지 않을 수 있습니다.
+      </div>
+      <div>
+        <div id="admin_panel_button" style="display:none;">
+          <span><a href="javascript:">관리자 패널 열기/닫기</a></span>
+        </div>
+        <div id="admin_panel" style="display: none;">
+          <div><span><b>관리자 패널</b></span></div>
+          <hr />
+          <div id="admin_announcements">
+            <span>모든 플레이어에게 알릴 내용을 입력하세요. 꼭 필요한 경우에만 사용하세요.</span>
+            <form>
+              <label for="announcement_text">공지: </label>
+              <input class="text" type="text" name="announcement_text" id="announcement_text" />
+              <span><a href="javascript:" id="announcement_submit">공지 보내기</a></span>
+            </form>
+          </div>
+          <hr />
+{% if getattr(config, "admin_password_reset", False) %}
+          <div id="user_control">
+            <form action="#" id="admin_user_control">
+            <label for="admin_username">사용자:</label>
+            <input class="text" type="text" name="admin_username" id="admin_username">
+            <input class="button" type="button" name="admin_pw_reset" id="admin_pw_reset" value="비밀번호 토큰 생성">
+            <input class="button" type="button" name="admin_pw_reset_clear" id="admin_pw_reset_clear" value="비밀번호 토큰 지우기">
+            </form>
+          </div>
+          <hr />
+{% end %}
+          <div id="admin_panel_log"></div>
+        </div>
+      </div>
+
+      <div id="play_now"></div>
+
+      <br>
+
+      <div id="lobby_body">
+        <span>
+          현재 진행 중인 게임:
+        </span>
+        <table id="player_list" class="no_game_times">
+          <thead>
+            <tr>
+              <th class="username">사용자</th>
+              <th class="game_id">게임</th>
+              <th class="xl">XL</th>
+              <th class="char">캐릭터</th>
+              <th class="place">장소</th>
+              <th class="turn">턴</th>
+              <th class="dur">시간</th>
+              <th class="god">신</th>
+              <th class="idle_time">자리 비움</th>
+              <th class="spectator_count">관전자</th>
+              <th class="milestone_col">기록</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+        <div style="display: none">
+          <table>
+            <tr id="game_entry_template">
+              <td class="username"></td>
+              <td class="game_id"></td>
+              <td class="xl"></td>
+              <td class="char"></td>
+              <td class="place"></td>
+              <td class="turn"></td>
+              <td class="dur"></td>
+              <td class="god"></td>
+              <td class="idle_time"></td>
+              <td class="spectator_count"></td>
+              <td class="milestone_col">
+                <div class="milestone_container">
+                  <div class="milestone">&nbsp;</div>
+                  <div class="new_milestone"></div>
+                </div>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+
+      <div id="footer">{% include footer.html %}</div>
+    </div>
+
+    <div id="game">
+      <div id="crt" style="display: none;"></div>
+    </div>
+
+    <div id="loader">
+      <div id="loader_center">
+        <span id="loader_text">불러오는 중...</span><br>
+
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_anon_octopus_wizard.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_arbituhhh_tesu.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_baconkid_duvessa_dowan.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_baconkid_gastronok.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_baconkid_mnoleg.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_benadryl_antaeus.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_benadryl_oni.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_Cws_Minotauros.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_denzi_dragon.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_denzi_evil_mage.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_denzi_invasion.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_denzi_kitchen_duty.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_denzi_summoner.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_denzi_undead_warrior.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_e_m_fields.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_firemage.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_froggy_goodgod_tengu_gold.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_froggy_jiyva_felid.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_froggy_natasha_and_boris.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_froggy_rune_and_run_failed_on_dis.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_froggy_thunder_fist_nikola.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_gompami_kohu_xbow.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_kaonedong_ignis_the_dying_flame.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_kaonedong_menkaure_prince_of_dust.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_king7artist_eustachio.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_lemurrobot_gozag_vaults.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_micah_c_ereshkigal.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_nibiki_octopode.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_omndra_zot_demon.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_peileppe_bloax_eye.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_ploomutoo_ijyb.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_philosopheropposite_palentonga_paladin.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_pooryurik_knight.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_psiweapon_kiku.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_psiweapon_roxanne.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_sastrei_chei.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_shadyamish_octm.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_SpinningBird_djinn_sears_gnolls.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_white_noise_entering_the_dungeon.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_white_noise_grabbing_the_orb.png") }}">
+        <img style="display:none;" alt="" loading="lazy" src="{{ static_url("title_ylam_formicid_shrikes.png") }}">
+      </div>
+
+      <div id="stale_processes_message" class="floating_dialog"
+           style="display: none;" tabindex="1000">
+        응답이 없는 <span class="game_name"></span> 프로세스가 있습니다.
+        <span class="recover_timeout"></span>초 뒤 종료됩니다.
+        종료하지 않으려면 지금 아무 키나 누르세요.
+      </div>
+
+      <div id="force_terminate" class="floating_dialog"
+           style="display: none;" tabindex="1001">
+        응답이 없는 <span class="game_name"></span> 프로세스를 정상적으로 종료하지 못했습니다.
+        강제로 종료할까요? [yn]
+        <br>
+        <input class="button" type="button" name="force_terminate_no"
+               id="force_terminate_no" value="아니요" style="float: right;">
+        <input class="button" type="button" name="force_terminate_yes"
+               id="force_terminate_yes" value="예" style="float: right;">
+      </div>
+    </div>
+
+    <div id="overlay"></div>
+
+    <div id="chat_hidden" style="display: none;"><span><a href="javascript:">+</a></span></div>
+
+    <div id="chat" style="display: none;">
+      <a href="javascript:" id="chat_hide_button">
+        <span id="chat_hide_button_span">(-)</span>
+      </a>
+      <a href="javascript:" id="chat_caption">
+        <span id="spectator_count">관전자 0명</span>
+        <span id="message_count">새 메시지 0개</span>
+      </a>
+
+      <div id="chat_body" style="display: none;">
+        <span id="spectator_list">&nbsp;</span>
+
+        <div id="chat_history_container">
+          <span id="chat_history"></span>
+        </div>
+
+        <input class="text" type="text" name="chat_input"
+               id="chat_input" style="display: none">
+        <div id="chat_login_text">
+          채팅하려면 <a id="chat_login_link" href="javascript:">로그인</a>하세요
+        </div>
+      </div>
+    </div>
+
+    <div id="prompt" style="display: none;">
+      <div>
+          <div id="prompt_title"></div>
+
+          <div class="login_placeholder"></div>
+
+          <div id="prompt_footer"></div>
+       </div>
+    </div>
+  </body>
+</html>

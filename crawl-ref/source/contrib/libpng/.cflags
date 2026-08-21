@@ -1,0 +1,1 @@
+x86_64-pc-msys-gcc -O2 -pipe   -DPNG_STATIC -I../zlib

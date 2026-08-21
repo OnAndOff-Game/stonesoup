@@ -1,0 +1,714 @@
+%%%%
+Singing Sword
+
+이 축복받은 무기는 주인을 위해 노래 부르는 것을 가장 좋아한다. 주인이 노래를
+좋아하는지 싫어하는지는 별 관심이 없는 것 같다.
+%%%%
+Wrath of Trog
+
+이 무기는 고대의 신 트로그가 잃어버리기 전까지 가장 좋아했던 도끼였다. 이
+무기로 적을 공격하면 피에 굶주린 광전사의 분노가 사용자의 몸을 지배할 것이다.
+%%%%
+Mace of Variability
+
+이 무기는 — 특히 그 강화 수치를 — 믿을 수 없다.
+%%%%
+Glaive of Prune
+
+이 창은 정신 나간 어떤 신의 창조물로, 소유자를 자두로 바꿔버리는 저주가
+걸려있다. 다행히도 이 저주는 굉장히 느리게 진행되기 때문에, 잠시 이 창을
+사용하는 정도로는 피부가 약간 보랏빛이 나고 살짝 주름지게 되는 정도의 부작용만
+일어난다.
+%%%%
+Staff of Olgreb
+
+이 마법 지팡이는 위대한 마법사 올그레브가 던전에서 그의 최후를 맞이하기
+직전까지 들고 있던 무기다. 이 지팡이는 착용자의 독 마법을 강화시켜주며,
+지팡이에 마법들이 담겨있어 발동시킬 수 있다. 전해지는 이야기로는 올그레브가
+어떤 독도 통하지 않는 생명체마저 어느 정도 중독시킬 수 있는, 희귀한 독에 대해
+연구를 했다고 한다. 이러한 명백한 이유로, 올그레브는 그의 독에 대해서도 완전한
+방어를 제공하는 지팡이를 만들어 냈다.
+%%%%
+Staff of Wucad Mu
+
+이 지팡이는 현명한 자가 들수록 더 강해진다. 그리고 이 지팡이를 발동시키면 많은
+양의 마법력을 회복할 수 있지만, 그 대가로 사용자의 정신에 피해를 줄 수도 있다.
+%%%%
+Scythe of Curses
+
+이 무기는 심각할 정도로 짜증 나는 저주가 걸려있어서, 저주 해제 두루마리로도
+저주를 완전히 해제할 수 없다.
+%%%%
+Sceptre of Torment
+
+이 저주받은 무기는 지옥에서 사용되는 고문 도구 중 하나다.
+%%%%
+Sword of Cerebov
+
+기괴한 불꽃이 비틀린 칼날을 감싸고 있다.  칼의 악마적인 힘이 상대의 화염 저항의
+일부를 태워버린다.
+%%%%
+faerie dragon scales
+
+요정 용은 얼룩무늬 용의 사촌뻘 되는 작은 용이었다. 그들의 선명하고도 아름다운
+가죽은 사냥꾼들의 관심을 끌기에 충분했고, 안타깝게도 그들의 자랑이었어야 할
+가죽 때문에 요정 용은 멸종해버리고 말았다. 이 소중한 유물은, 요정 용이
+존재했었다는 것을 증명하기 위한 마지막 증거물일지도 모른다.
+%%%%
+scimitar of Flaming Death
+
+검에서 연기가 난다!
+%%%%
+mace of Brilliance
+
+이 무기는 어두침침한 던전에 한 줄기 빛이 될 것이며, 덕분에 적들은 당신의 존재를
+더 빨리 알아챌 수 있을 것이다. 이 빛은 언데드와 악마가 증오하는 대상이며,
+투명해지기 위해 온갖 노력을 한 적들의 수고를 물거품으로 만들 어버릴 것이다.
+%%%%
+dagger of Chilly Death
+
+거대한 사파이어 조각으로 만들어진 단검이다.
+%%%%
+scythe "Finisher"
+
+특별히 전투용으로 만들어진, 길고 날카로운 대형 낫이다.
+%%%%
+sling "Punk"
+
+기묘한 푸른빛 가죽으로 만들어진 투석구다.
+%%%%
+giant club "Skullcrusher"
+
+이 사랑스러운 거대 곤봉은 오우거에게 최고의 선물이 될 것이다. 적에게 충격이나
+공포 — 혹은 둘 다 — 를 안겨줄 시간이다!
+%%%%
+glaive of the Guard
+
+이 창은 과거 왕의 보물을 지키던 파수꾼 ‘가-도우’ 가 쓰던 무기였다. 전설에
+따르면, 그는 던전 어딘가에서 행방불명 되었다고 한다.
+%%%%
+zealot's sword
+
+거대한 수정 덩어리로 만들어진 장검이다. 전설에 따르면, 샤이닝 원이 자신을
+따르는 성기사에게 선물했던 무기라고 한다. 이 검은 사용자와, 사용자를 따르는
+모든 살아 있는 추종자에게 격한 분노를 일으키는 것으로도 특히 잘 알려져 있다.
+%%%%
+crossbow "Hellfire"
+
+지옥불에서 단조된 타오르는 석궁. 이름처럼 불타는 화살로 가득 차있다.
+%%%%
+sword of the Dread Knight
+
+아다만틴 합금으로 만든 대검이다.
+%%%%
+morningstar "Eos"
+
+오늘도 나의 장밋빛 손가락으로 밤의 장막을 거두리라...
+%%%%
+spear of the Botono
+
+굉장히 사악하며 악의에 가득 찬 유물이다. 현명한 자는 손조차 대려 하지 않을
+것이다.
+%%%%
+mithril axe "Arga"
+
+아름다운 미스릴 도끼로, 어떤 드워프 영웅이 잃어버린 무기인 것 같다.
+%%%%
+longbow "Piercer"
+
+엄청나게 큰, 금속 재질의 장궁이다.
+%%%%
+blowgun of the Assassin
+
+감추기 쉽도록 아주 작게 만들어졌지만, 여전히 적의 목 뒤에 강력한 독침을
+꽂아넣을 수 있는 바람총이다.
+%%%%
+lance "Wyrmbane"
+
+용의 목숨을 끊을 때마다 더욱 강력하게 성장하는 마법이 걸린 창이다. 창이
+강해질수록 더욱 강한 용을 죽여야 성장할 수 있다.
+%%%%
+plutonium sword
+
+기이한 빛을 내는 금속으로 만든 클레이모어다. 이 검을 장시간 사용한 사용자는, 이
+검에 두 개의 보조 칼날이 달린 것 처럼, 두 개의 머리가 양어깨 위에 자라날지도
+모른다.
+%%%%
+great mace "Undeadhunter"
+
+전설에 따르면 옛날, 생각 없이 기계처럼 움직이는 언데드 부하들에 싫증이 난 한
+강대한 리치가 이성을 지닌 종복들을 만드는 실험을 했다고 한다. 완성된
+실험작들에게 권위를 부여하기 위해, 리치는 언데드를 이 세상에 묶어놓는 마력에
+직접적인 충격을 줘서 그들에게 엄청난 피해를 주는 무기를 몇 개 만들어주었다고
+한다.
+
+비록 그 리치는 오래전에 최후를 맞이하였지만, 그가 만든 언데드를 분쇄해버리는
+무기는 수많은 전설이 만들어져 사람들에게 알려질 정도로 유명해졌다. 지금 당신이
+보고 있는 이 무기는, 아마도 — 강령술로 인해 일어난 존재와 싸우기 위해서라도,
+절대 강령술을 사용해서는 안 된다고 말하고 다니던 — 샤이닝 원의 대리자 덕분에
+지금까지 남아있는 전설상의 무기일 것이다.
+%%%%
+knife of Accuracy
+
+이 무기는 절대 빗나가지 않는다. ...아마도.
+%%%%
+Lehudib's crystal spear
+
+아마 동명의 유명한 주문을 발견하는데, 이 고대의 유물이 크게 기여했을 것이다.
+아니면 그 반대거나.
+%%%%
+captain's cutlass
+
+이 악명 높은 무기는, 도덕관념이라고는 찾아볼 수 없던 한 해적 선장이 수많은
+무고한 자들을 학살할 때 사용했던 검이다. 천벌을 받은 것인지 그는 바다에서
+크라켄을 만나, 배와 선원들과 함께 수장되었으며 이 커틀러스는 영원히 찾을 수
+없는 무기가 됐다고 여겨졌다. 하지만 그 찾을 수 없다던 무기는 지금 당신 눈앞에,
+자신의 존재를 증명하고 있다.
+%%%%
+storm bow
+
+어두운 비구름 색의 이 활에서는, 번개가 친 곳에서 맡을 수 있는 오존 특유의
+냄새가 난다.
+%%%%
+tower shield of Ignorance
+
+“그렇게 개방적인 사고방식은, 마치 빗장도 수비병도 없는 요새와도 같으니라.”
+%%%%
+robe of Augmentation
+
+최고급 비단으로 만들어진 로브다.
+%%%%
+cloak of the Thief
+
+이 망토는 착용자에게 예술적으로 탁월한 도둑질 능력을 선사한다.
+%%%%
+tower shield "Bullseye"
+
+적에게 얻어맞을 경우를 위한, 완벽한 대비책.
+%%%%
+crown of Dyrovepreva
+
+현기증이 날 정도로 많은 보석이 박힌, 빛바랜 청동제의 큰 왕관이다.
+%%%%
+hat of the Bear Spirit
+
+강력한 오우거 주술사 ‘우크타’ 가 사용하던 모자로, 이 털모자에는 위대한 곰의
+영혼이 깃들어있다.
+%%%%
+robe of Misfortune
+
+모피와 비단이 길게 펼쳐진, 호화스럽고 현란한 로브다.
+%%%%
+cloak of Flash
+
+희미하게 진동이 느껴지는 망토다.
+%%%%
+Lear's hauberk
+
+튼튼하게 만들어진 황금 전신 갑옷으로, 착용자의 모든 신체 부위를 완전하게
+덮는다. 이 갑옷에는 사슬두건과 정강이 보호대, 그리고 그물 모양의 건틀렛이
+포함되어 있다.
+%%%%
+skin of Zhor
+
+어떤 희귀한 동물의 가죽이다. 이상한 냄새가 나는 것 같다.
+%%%%
+salamander hide armour
+
+용암에서 사는 포악한 동물, 살라만더의 가죽으로 만들어진 갑옷이다.
+%%%%
+gauntlets of War
+
+이 두꺼운 전투용 강철 장갑은, 오카와루가 강력한 전쟁영웅에게만 하사하던
+방어구다. 당신에게는 그만한 자격이 있는가?
+%%%%
+shield of Resistance
+
+청동제 방패다.
+%%%%
+robe of Folly
+
+칙칙한 회색 로브다.
+%%%%
+Maxwell's patent armour
+
+기이하게 생긴 갑옷이다.
+%%%%
+mask of the Dragon
+
+착용자의 얼굴을 용의 얼굴을 닮도록 만들어주는 단단하면서도 유연한 가죽으로
+만들어진 기묘한 푸른 투구이다.
+%%%%
+scales of the Dragon King
+
+오래전, 한 강력한 황금용이 모든 용들의 지배자가 되어 세계를 다스리던 시절이
+있었다. 하지만 그의 통치는 그리 오래가지 못하였으니, 한낱 연약한 인간에게
+패배한 용은 가죽이 벗겨져 갑옷으로 만들어지는 수모를 당했다. 그리고 지금,
+당신은 한때 세계의 지배자였던 용의 최후를 보고 있다.
+%%%%
+hat of the Alchemist
+
+손때가 많이 묻은, 더러운 모자다. 이 모자에는 다양한 종류의 폭발을 견딘 흔적이
+남아있는데, 이는 곧 이 모자가 착용자를 위험한 연금술 실험으로부터 보호하는
+능력이 있음을 의미한다. 제정신이 박힌 사람이라면 아무리 이 강력한 모자를 썼다
+하더라도 그런 실험을 하지는 못했을 것이며, 이 모자의 원래 주인은 확실히 머리에
+문제가 있었을 것이다. 그것도 아주 많이.
+%%%%
+fencer's gloves
+
+흰색 비단으로 만들어진 장갑이다.
+%%%%
+cloak of Starlight
+
+순수한 빛줄기를 엮어 만든, 환하게 빛나는 망토다.
+%%%%
+ratskin cloak
+
+한 여자 주술사가, 수많은 오렌지색 쥐들의 가죽을 한 땀 한 땀 이어붙여 짜낸 마법
+망토다. 이것을 입으면 매우 어색하고 바보 같아 보이겠지만, 최소한 다른 쥐들이
+달라붙는 것에 대해서는 완벽히 대비할 수 있을 것이다.
+%%%%
+amulet of the Air
+
+이 하늘빛 목걸이는 한 강력한 대기술사가 만든 것으로, 대기마법 학파의 각종
+보호술식이 담겨있다.
+%%%%
+amulet of Cekugob
+
+평범한 목줄에 무척 특이하게 생긴 수정 조각이 달린 목걸이로, 희귀한 힘이
+깃들어있다.
+%%%%
+amulet of the Four Winds
+
+최고급 비취만을 사용하여 만든 이 팬던트는, 착용자에게 적대적인 주술로부터
+자유롭게 만들어주는 신비로운 힘을 부여한다.
+%%%%
+necklace of Bloodlust
+
+대체 어떤 잔혹한 전사가 이런 걸 착용하고 다녔는지는 모르겠지만, 이 피투성이의
+목걸이는 인간과 동물의 이빨, 뭔지 모를 짐승의 척추뼈로 만들어졌다.
+%%%%
+ring of Robustness
+
+아무 무늬도 없는 강철 반지다. 이상할 정도로 아무 무늬도 없다. 미세한 긁힌 자국
+하나조차도 발견할 수 없다.
+%%%%
+ring of the Mage
+
+마법이 깃든 사파이어가 반지에 박혀있다. 이 반지는 착용자의 주문 시전을
+도와준다.
+%%%%
+brooch of Shielding
+
+평화로웠던 지난 시절에는, 모든 모험가들이 이런 유용한 도구를 가지고 다녔다고
+한다... 조랑말 한 마리와 함께.
+%%%%
+robe of Clouds
+
+꼭 구름처럼 보이는, 솜뭉치 비슷한 물질로 만들어진 로브다.
+%%%%
+obsidian axe
+
+판데모니움의 군주에 의해 저주받은 이 도끼는 당신같이 의심 없는 모험가가
+장비하는 순간, 이 세계에 악마들을 풀어놓는다. 이 도끼는 그 나름의 방식으로
+사용자의 정신을 지배한다는 것을 주의하라.
+%%%%
+lightning scales
+
+이 비늘은 나가 사이에서 유행하던 꼬리갑옷이다. 희미하게 전격이 파직거리는 이
+비늘은, 착용한 나가를 번개같이 빨리 움직이게 하여 보통 사람과 거의 비슷한
+속도로 움직이게 한다.
+%%%%
+Black Knight's horse barding
+
+이 장비는 세계를 공포에 떨게 한 흑기사의 군마가 착용하던 마갑이다. 지금까지
+봐온 어떤 검은색보다도 더 새까만데, 이는 마갑 전체가 검은색 다이아몬드로
+만들어졌기 때문이다. (자세히 보니, 마갑의 일부분은 생전 처음 보는 검은색 강철로
+만들어졌다) 이 금속과 광석의 무게 때문에, 착용자는 예전보다 이동속도가 조금
+느려질 것이다. 하지만 이 마갑의 단단함은 착용자의 방어력을 크게 올려줄 것이며,
+장비가 품고 있는 마법적인 효과로 착용자는 약간의 — 배가 덜 고파지고 음에너지를
+저항하게 되는 정도의 — 언데드화가 진행될 것이다.
+%%%%
+ring of Vitality
+
+착용자를 이전보다 훨씬 건강하게 만들어주는, 유명한 반지다.
+%%%%
+autumn katana
+
+이국적인 느낌이 나는 이 검은, 검에 통달하여 그 어떤 상황에서도 혼란에 빠지지
+않았던 자의 무기라고 한다.
+%%%%
+shillelagh "Devastator"
+
+이 막대기는 끝 부분에 납과 어떤 물질의 혼합물이 들어있어서, 적을 공격할 때마다
+폭발한다.
+%%%%
+dragonskin cloak
+
+모든 용의 색깔이 희미하게 섞인 유백색 망토다. 이 망토는 착용자를 모든 원소
+공격으로부터 보호해주지만, 그 보호력을 확신하기에는 상당히 미심쩍은 부분이 많은
+것 같다.
+%%%%
+ring of the Octopus King
+
+“노래를 좋아하는 한 인어가 있었다네.
+ 문어왕은 그녀에게 첫눈에 반했다네.
+ 문어왕은 그녀와 평생을 함께하고 싶었다네.
+ 문어왕은 그녀에게 그의 반지들을 선물하며 사랑을 고백했다네.
+ 하지만, 그녀는 그가 준 여덟 개의 반지들을 모두 낄 수 없었다네.”
+%%%%
+Axe of Woe
+
+이 도끼를 잡는 순간, 당신의 마음은 더이상 당신의 것이 아니게 될 것이다. 당신의
+육체는, 지금까지 당신이 보여왔던 힘 따위는 아득히 넘어서버린 능력을 보여줄
+것이며, 당신이 앞으로 행할 모든 움직임은 마크레브의 지도에 따라갈 것이다.
+%%%%
+moon troll leather armour
+
+이 갑옷은 지금은 멸망한 트롤 종의 가죽에 마법적인 처리를 해서 만들어졌다고
+전해진다. 이 갑옷이 정말로 말로만 전해지는 바람같은 공포의 일부인지, 아니면
+단순히 신비스러움을 더하기 위한 이름일 뿐인지는 수수께끼지만, 착용자의 마법력을
+사용하는 빠른 재생의 힘에는 논쟁의 여지가 없다.
+%%%%
+macabre finger necklace
+
+이 매달려 있는 손가락에 반지가 있다면 더 나아 보일 것 같다.
+%%%%
+boots of the spider
+
+아라크네에게 구혼을 한 남자가 발명한 신기한 장화.
+%%%%
+hat of the High Council
+
+고대 마법전쟁의 유물. 몇 세기후에도 여전히 한때 매일같이 부여되었던 잔여 마법과
+마법에너지로 타는 듯한 소리가 난다. 그러나 마법사들은 손잡이에서 그들의
+주문력을 상승시켜주는 힘을 얻을 수 있다.
+%%%%
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Sulking Sword
+
+<Singing Sword>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Screaming Sword
+
+<Singing Sword>
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mace of Variability
+크럼이 더 일반적인 혼란 악기의 예측 가능성으로 지루해했을 때 큰 마스가 나타났습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+glaive of Prune
+프루네의 기쁨은 끔찍한 내부 저주를 가져옵니다. 그 야생 동물은 확고한 자제력을 유지하지 않는 한, 그들은 끔찍한 (임시적 인) 변화를 겪을 운명입니다. 이것은 일반적으로 저항하기 위해 사소한 것이지만, 무능력 야생 동물은 잠깐의 보라색, 다람쥐 및 맛있는 자신을 찾는 것이 확실합니다. 그들은 거대한 가지 치기를 손상시키는 것이 매우 어렵다는 것을 배우는 데 편안함을 느낄 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+staff of Olgreb
+한때 위대한 연금술사 올그레브가 휘두른 직원.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+crystal ball of Wucad Mu
+수많은 만트라에 의해 형성된 가장 아름다운 결정의 구체. 하나에 초점을 맞출 때, '자체'와 '다른' 사이의 경계는 때때로 흐리게 보입니다. {{
+    if you.race() == "Djinni" then
+        return "진에는 완전히 쓸모가 없습니다."
+    end
+}}
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Vampire's Tooth
+그것은 일부 엄청난 생물의 치아에서 만들어진 것 처럼 보이는 상아 같은 빠른 블레이드. 그것은 치명적인 뱀파이어.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scythe of Curses
+무서운 오믈라로 둘러싸인 비시테. 그것은 이상한 고대 저주를 가지고 있으며, 그것은 격렬하게 야생 동물과 적 모두에게 영향을 미칩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sceptre of Torment
+알 수없는 지옥의 힘에 의해 만들어진 저주받은 뼈 부분. 전투에 사용될 때, 그것은 모든 불행에 고통이 발생, 그것을 관찰 할 수있을만큼, 용접기 저장.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sword of Cerebov
+에리 불꽃에 덮여 트위스트 블레이드. 그 악마의 힘은 그것이에 대해 용접하는 사람들의 본질에 떨어져 화상.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+orb of Dispater
+무성한 자극으로 흐르는 오브는, 때 개최하는 힘을 방출하는 것—그 과정에서 용접기의 자극을 배수하지 않고는 아니더라도. 그것은 그것의 부식성 악당의 일부를 가지고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sceptre of Asmodeus
+아치형 아스모데우스의 힘을 지닌 밝은 루비 향연. 그것은 그들의 초기 집에서 불의 악마를 불러 들일으킬 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+demon blade "Bloodbane"
+지옥에서 수많은 영혼의 희생으로 단조 블레이드. 그것은 그 영혼의 분노와 고통을 그 들것에 영향을 미칩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+eveningstar "Brilliance"
+곧 떨어진 후, 이레데렘눌은 거룩한 에너지를 자신의 어두운 운동으로 비틀어, 그 선조에 대해 그것을 돌고 언데드와 악마에 대해 약화하려고 노력했다. 그것은 너무 늦게 그런 완전한 버전이 제어 할 수 없다는 것을 발견했다; 파울 불꽃은 여러 악마 테스트 과목과 하나의 거룩한 무기를 도난 제외하고 그것이 주입 된 모든 것을 불안정하거나 파괴했다. 더 작고, 더 안정적인, 어두운 에너지의 버전은 더 실행 가능한 입증, 이레데렘눌의 우산이되었다.
+
+이것은 무기입니다. 그 이름에도 불구하고 빛이 긴 이브닝 스타와 그 빛을 편안하게하는 데 사용되는 그림자...
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+demon blade "Leech"
+지옥에서 수많은 영혼의 희생으로 단조 한 칼날. 그것은 그 영혼의 분노와 고통으로 그 황량한 사람을 채우고, 그것이 공격 할 때마다 더 많은 생명력을 자극하여 피와 고어의 엉망을 남깁니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+dagger "Morg"
+추한 녹슨 대가. 수년 전 그것은 Boris라는 강력한 마법사의 속성이었다. 그는 오브를 찾는 동안 던전에서 길을 잃었다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+greatsling "Punk"
+이상한 녹색 가죽으로 만든 슬링, 거친 슬림을 스며드는. 악명 높은 오수 메이커와 일반 사기의 무기를 입고, 그것은 이후 덜 맛있는 손에 떨어졌다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+longbow "Zephyr"
+이 활은 우크라이나 어린이 중 한 명의 선물로 공기 마법을 Eiolaiphi가 공중에서 짠 것입니다. 활은 놀라운 속도로 끌어 당길 수 있으며 빠르고 사실적입니다. 또한 원래 소유자가 유명인에 의해 조각으로 추출되었다는 점을 감안할 때 거의 파괴적이지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+arbalest "Damnation"
+게헨나의 불에서 단조 된 성스러운 십자가. 그것은 이름에서 원시 힘으로 발사되는 볼트를 부풀립니다. 고맙게도이 무기는 한 발사에 해를 끼치 지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+trident of the Octopus King
+XNUMX 년 전 문어 왕의 정원에서 훔친 죄수. 다행히 그는 그것을 되찾기 위해 서두르지 않는 것 같습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Elemental Staff
+다섯 요소의 길드의 지도자에 속하는 데 사용 된 강력한 직원. 그것은 마법의 모든 초등학교에서 보호 및 공격적 인 향상으로 임박합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+heavy crossbow "Sniper"
+신 아센자리의 첫 사도인 토스모의 성스러운 무기. 그것은 모든 샷이 사실로 나타날 수 있도록, 용접공에게 아센자리의 비전의 일부를 부여합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Spriggan's Knife
+스프리건, 또는 스프리건, 또는 스프리건에서 만든 맛있는 작은 칼. 어쨌든, 그것은 그 먹이 민속과 관련된 어떤 방법으로.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+whip "Snakebite"
+블랙 맘바의 경화 된 가죽으로 만든 이중 끝 채찍, 일반 독에서 비생화 치료에 이르기까지 독소가 침투했습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hood of the Assassin
+어쌔신 길드의 회원들이 착용자가 근처의 잠재적 희생자를 감지하고, 이를 닫은 후 쉽게 취약점을 발견할 수 있도록 하는 부드러운 후드.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+robe of Night
+이상한 광택 소재로 만든 긴 검은 가운. 그것은 어둠 속에서 착용자를 흔들며 시력의 범위를 줄입니다. 전설에 따르면, 그것은 그녀의 추종자 중 한 명에게 밤의 유명한 demigoddes 인 Rutra의 선물이었습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+shield of the Gong
+방패로 착용할 수 있는 무거운 청동 공. 수년 동안 성전에서 잠근 그 보유자는 수십 년 동안 축적된 기도로 보호됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ring of Shadows
+그림자로 착용자를 하나로 만들 수 있는 블랙 링.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ring of the Hare
+무도덕 말라시테 링, 고대 쌍의 절반. 착용자는 잡기가 매우 어렵습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+ring of the Tortoise
+거친 후른 아쿠아 마린 링, 고대 쌍의 절반. 착용자는 해로울 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hat of Pondering
+붉은 색의 슬림으로 염색하고 그의 아케이드 조랑말에 도움이 매혹적인 슬러그 마법사 Gastronok의 좋아하는 모자. 소금의 산란 효과에 대해 보호하기 위해 특별히 매혹되었습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+consecrated labrys
+신성한 세라핌 중 하나에 의해 거기에 배치 된 섬세한 축복을 가진 도끼, 가치있는 모험가가 악마의 세계를 제거 할 수 있도록. 기쁨, 그것은 심지어 어두운 장소에서 그 야생 동물에 용기를 가져올 수있는 방법이 있습니다...
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Black Knight's barding
+피치 블랙 스틸로 제작되고 블랙 다이아몬드 플레이트로 인레이된 무거운 헛간. 한때 공포의 통치 기간 동안 블랙 나이트의 헛간을 보호했습니다. 금속과 돌의 큰 무게가 착용자의 다소 느려지지만, 불행한 단점없이 일부 혜택을 얻고 부분적으로 죽은 것입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of Vitality
+복원과 회복의 힘으로 유명한 보석 부적. 그 가장 큰 악명은 그녀의 슬림을 유지하기 위해 그것에 의존 무서운 괴짜 Borgnjor에 의해 사용에서왔다. 그녀의 마지막 죽음 후, 부적은 역사의 페이지에서 사라.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+dark maul
+거대한 강력한 타격을 다루는 대형 철판 마울. 이러한 전력은 가격에 제공됩니다. 마울의 머리는 너무 무겁기 때문에 다른 스윙을 위해 들어 올리는 데 큰 시간이 걸립니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+arc blade
+순수한 전기로 만든 블레이드. 그것은 들것과 그들의 원수 사이에 격렬하게 아크 그것은 파업.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+demon whip "Spellbinder"
+무기는 한때 무례하게 투옥된 마법사를 줄 지어 유지하는 데 사용되었다고 말했습니다. 그것은 주변의 마법 흐름을 폭력적으로 방해합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+lajatang of Order
+금날 라자탕은 한때 아연의 숭배를 받은 바 있습니다. 그것은 많은 신의 사제들의 가장 소중한 무기가 되었습니다. 그들의 질서가 파괴된 후, 그것은 불멸에 빠졌고 역사에서 사라졌습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+great mace "Firestarter"
+강력한 화재 마법으로 가득 찬 거대한 마즈. 그것은 내부 불꽃으로 치는 것을 채우고 결과 파괴에 대한 몇 가지 보호를 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+orange crystal plate armour
+투명한 오렌지 크리스탈로 장식 된 갑옷입니다. 그것은 마음과 몸 모두에 놀라운 보호를 제공합니다. 착용자는 크리스탈 자체를 통해 심리적 인 경계를 채널화하여 마법 능력을 향상시킬 수도 있습니다. 그러나 다소 무겁습니다...
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Majin-Bo
+생존을 위해 그녀는 이제 끔찍한 공포 속에서 훌륭한 아르케네 힘을 제공합니다. 시전자의 삶의 본질의 작은 부분을 대가로, 그 용접기가 주문을 던질 때마다 그녀는 마법에 의해 손상된 생물의 본질을 시전자로 리디렉션 할 것입니다. 그녀는 또한 매우 다양한 종류의 마법을 가지고 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+pair of quick blades "Gyre" and "Gimble"
+체인으로 결합된 두 개의 빠른 블레이드. 한 개의 스윙은 자신의 마음이있는 것처럼 다른 스윙을하도록 용접기를 명령합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Maxwell's etheric cage
+마법의 에너지를 캡처하도록 설계된 미세 메쉬 케이지. 실험적 메모는 케이지가 거의 효과적으로 마법의 마법을 캡처하기 시작했을 때 연구가 중단되었음을 시사합니다. 받은 마법의 마법을 곱하는 비용으로 마법을 눈에 띄게 증가시킬 수 있을 만큼 무모한 사람은 누구나 자신의 마법을 머리에 놓을 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+crown of Eternal Torment
+제트 블랙 보석이 세팅된 골드 크라운. 이는 고통이 싫어하는 착용자에게 영구적으로 영향을 미치며 회복력을 크게 낮추지만 추가 고통에 면역을 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+robe of Vines
+살아있는 포도 나무로 짠 직물. 포도 나무는 착용자와 공생 관계를 형성하여 번식을 크게 증가시키지만 물약으로 치유되지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Kryia's mail coat
+갑옷 코트는 나이 든 여왕 크리아를 위해 위조되었다고 말했습니다. 그녀는 전면에서 그녀의 운명으로 군대를 이끌었다고 계속 주장했으며, 노화 된 신체가 실패함에 따라이 코트는 그녀를 살아 있게 한 치유 가뭄을 향상시키는 데 도움이되었습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+frozen axe "Frostbite"
+마치 빙하에서 뺀 것처럼 보이는 거대한 도끼, 또는 아마도 하나로부터 깎아내렸을 것입니다. 그것은 공기가 흐를 때 얼음 결정을 그 깨워줍니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+armour of Talos
+청동 플레이트 갑옷의 거대하고 무게가 큰 정장. 해당 거대한 몸을 가진 하나만 착용 할 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+warlock's mirror
+진정으로 이국적인 물질에서 합성되고 블라인드 숄으로 광택이 나는 육각형 거울의 휴대용 배열.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of invisibility
+착용자를 보이지 않게 렌더링하기 위해 활성화할 수 있는 앰플.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+scarf of invisibility
+착용자를 보이지 않게 렌더링하기 위해 활성화할 수 있는 스카프입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Maxwell's thermic engine
+이상한 검, 한 블레이드가 뜨겁고 다른 얼음 추위를 흘립니다. 그것이 목표물에 도달하면 열 그라데이션이 증가합니다. 이 효과를 일으키는 것은 알 수 없지만 다른 세계 세력이 관련되어 있다는 소문이 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+demon trident "Rift"
+루고누의 일부 미친 아코리테에 의해 샤프트에 마법처럼 바인딩, 현실의 매우 직물에 작은 주름. 그 공격은 용접기의 명령에 근처 공간을 통해 날실 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+sphere of Battle
+오래 잊혀진 마법사에 의해 만들어진 생생한 컬러 비늘로 둘러싸인 오브. 그것은 이센더런의 좋아하는 놀이였습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Cigotuvi's embrace
+긴 죽은 사수의 의지에 의해 그대로 유지 썩은 살과 뼈와 광택으로 태어난 갑옷의 한 벌. 그 안에 무서운 시체는 최근 죽은 시체에 호출, 카리온의 코쿤과 착용자를 보호.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+seven-league boots
+착용자가 그들의 원수를 향해 용감하게 진취하는 한, 놀라운 길이의 길을 취할 수있는 능력을 부여 부츠의 마법 한 쌍.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Mad Mage's Maulers
+다섯 번째 서클의 루나 살인범에 의해 오용 및 망가진 마법의 흐름을 신중하게 제어하고 채널하도록 설계된 장갑 한 쌍. 그들의 영향은 착용자가 주문을 캐스팅 할 수 없게합니다. 착용자의 마법은 훨씬 더 피나는 목적으로 리디렉션됩니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+dreamdust necklace
+얇은 실버 체인의 금이 간 크리스탈 내부에 땀이 많은 먼지 혼합물.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+dreamshard necklace
+얇은 실버 체인으로 섬세한 크리스탈 안에 빛나는 아름다운 무지개. 신중하게 들으면 모든 현실에서 천 꿈의 가장 밝은 에코를들을 수 있으며, 그들의 멜로디는 따뜻한 안전 감각을 제공합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Delatra's gloves
+오랜 기간 동안 유명한 실험용 연금술사가 착용한 긴 초해양 장갑 한 쌍. 그들은 발견의 에너지를 채널화하여 무지에서 확실성에 이르기까지 맹인 단계에 의해 만들어진 힘으로 착용자를 자극합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+woodcutter's axe
+숲 절단 나무만큼 안정적이고 체계적인 적들을 자르는 무기. 그것의 작품의 변하지 않는 리듬은 자연의 법칙의 힘으로 그것에 정착했으며, 어떤 양의 힘이나 기술도 더 빨리 또는 느리게 스윙 할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Throatcutter
+그녀를 살해한 일반적인 절단에 의해 빛나는 사람의 팔라딘에서 가져온 Throatcuter는 점점 더 많은 소성 행동으로 사용되었습니다. 혈액, 살인 및 학대는 역사와 칼날을 모두 얼룩지고, 적은 흔적은 이제 위험과 무례 사이에 서 있는 칼날로 남아 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+staff of the Meek
+성 리의 승려의 신성한 유물, 재발주 아치의 추종자. 성 리가 다른 사람을 보호하여 자신의 주문을 파괴하기위한 속죄를 추구 한 것처럼, 그래서 그의 직원은 그 지하실을 보호합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+trishula "Condemnation"
+죄에서 죄수를 내놓는 무기. 첫 번째 사망자의 고통을 볼 때 신들의 잔인함에 맞서 군대로 이끄는 대천사 루시엘에 의해 처음 휘둘러졌습니다. 루시엘의 군대의 늙은 생존자들은이 무기를 그들과 함께 광야로 가져 갔고, 이는 대천사의 운명의 유일한 잔인함입니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+amulet of Elemental Vulnerability
+블루 스틸 앰 틀릿. 그 제작자, 매우 실용적인 여성, 평범한 작업, 밟힘 및 물림에 대한 강력한 보호를 제공하도록 설계. 그것은 화재와 서리에 대한 쓸모없는보다 더 나쁘지만, 얼마나 자주 누군가가 그것에 대해 걱정해야합니까?
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+mountain boots
+이러한 견고한 부츠는 산이 거의 일정한 눈사태, 암벽 및 눈보라로부터 보호하여 원격 산봉우리에서 높은 산을 살았던 인공에 의해 만들어졌습니다. 이동 마법의 힘 부족은 착용자를 자신의 위치에서 구타하지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Lochaber axe
+이 잔인한 무기, 오랜 역사로 잃어버린 생각, 축의 날카로운과 극의 확장 된 범위를 결합. 고대 전사의 유령은 그것에 대해 더 이상 갈망, 푹신한 사용자를 배수.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Hermit's pendant
+한 번, 천상의 성스러운 서원을 받아 마법의 도구와 모든 것을 소유하지만 이 펜던트를 사용하는 것을 포기했습니다. 어떤 신들이 이 서원을 악마들 사이에서 불쾌한 논쟁의 포인트로 유지했지만 펜던트의 힘과 한계는 반박할 수 없습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+slick slippers
+Western Skyshark의 부드러운 가죽으로 제작된 이 슬리퍼는 놀랍도록 편안합니다. 그들은 좋은 부츠 쌍으로 보호 기능이 부족하지만 거의 모든 바인딩에서 착용자를 얻을 수 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Force Lance
+마법사 젤의 인공를 통해 초자연적인 중력으로 주입 된 일반 철망. 그것은 용접기에 의해 파괴 된 것보다 여러 번 강한 힘으로 공격합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+toga "Victory"
+오카와루의 고대 유물인 이 울 옷은 전 챔피언이 결투에 실패했을 때 손실되었습니다. 착용자가 치명적인 전투에서 승리했을 때 마법이 증가하지만, 도움을 위해 스크롤이나 물약을 사용하여 다시 사라지게 할 때 마법이 증가합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Storm Queen's Shield
+한때 대륙을 지배한 매혹적인 예술과 공예 정치가가 만든 금속을 부수는 디스크. 그녀의 생존 발명품의 대부분은 다양한 왕실에 의해 밀접하게 보호되며, 그녀의 진정한 후계자라는 주장에 대한 뚫을 수 있는 증거는 있지만 이 초기 프로토타입은 손가락을 통해 미끄러졌습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+hand cannon "Mule"
+손 대포는 마법 같은 먼지를 사용하여 발사체를 시작합니다. 그들을 만드는 연금술사는 자신의 능력을 자랑하지만, 각 샷으로 폭발 연기와 소음을 생략합니다. 분말 폭발로 가득, Mule는 특히 강력한 킥을 팩.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+gloves of the gadgeteer
+섬세한 시글스의 어지러운 배열으로 덮여 스웨이드 장갑 한 쌍. 원래 마법의 장치의 제작에 도움이되도록 의도되었지만, 그들은 다른 사람의 작품에서 모든 마지막 파워 드롭을 짜는 데 유용합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+Charlatan's Orb
+이 오브는 전문적인 무결성보다 자신의 삶을 더 소중히 여기는 오브를 회수하기 위해 계약된 마스터 인공물의 작품입니다. 이 가짜는 진정한 오브의 겉빛과 공간 뒤틀림 특성을 충실하게 재현하지만, 그것이 부여하는 힘은 인공적이고 숙련된 이오케이터에게만 접근 가능합니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+justicar's regalia
+거룩한 상징이나 보석으로 장식된 팔의 코트를 위해 중앙에 슬롯이 있는 빛나는 흉상. 착용자가 제공한 명령을 듣는 사람들은 역경에 관계없이 수행할 수 있는 힘으로 가득 차 있습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+skull of Zonguldrok
+전설적인 네크로맨서의 두개골은 나머지 몸에서 분리되었습니다. 개최되면이 상태에서 끝나는 정확한 상황을 설명하는 것이 단절 된 것처럼 보이지만 다른 사람들에게 여전히 고대 뼈에 남아있는 네크로맨틱 힘이 남아있는 것을 찔린 것을 두려워하지 않습니다.
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+fungal fisticloak
+한때 버섯을 방해하지 않고 쉽게 파괴 할 수있는 종을 재배하여 버섯을 재배하는 유전 불안을 극복하려는 미친 신비주의의 수작업. 그 결과 의류 인만큼 살아있는 유기체가 있으며, 모든 린넨은 영양소와 자신감을 모두 끌어들이는 곰팡이 미켈리아와 함께 결합됩니다. 혈액이나 펩티드와 같은 삼나무와 교환하여 식민지는 본질적으로 위협으로 인식되는 모든 것을 착용자로부터 보호하기 위해 채찍질 할 것입니다.
+
+그것은 한 번에 수천 작은 친구를 입고 같은 것입니다! 그리고 그들이 어둠 속에서 마음을 채우는 습한 것은 실제로 매우 자랄합니다....
+
+(이 아이템은 헬멧 슬롯도 차지합니다.)
+%%%%
+# AUTO-GENERATED KOREAN DRAFT; preserve the key when editing.
+crown of vainglory
+금필과 빛나는 보석의 사치스러운 왕관으로, 심지어 왕이 가장 착용하는 느낌을 줄 수도 있습니다. 그것은 착용자에게 천국에있는 모든 것과 많은 수익을 창출하지 못한 자신감을 부여합니다.
